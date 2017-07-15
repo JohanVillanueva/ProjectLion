@@ -1,0 +1,213 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ProjectLion.Views.MultaViewDetail"
+             Title="TuMulta"
+             BackgroundColor="#1A1A1A">
+
+    <Grid Padding="0" RowSpacing="0">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.25*" />
+            <RowDefinition Height="0.25*" />
+            <RowDefinition Height="0.25*" />
+            <RowDefinition Height="0.25*" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+
+        <StackLayout
+            x:Name="btnConsulta"
+            Grid.Row="0"
+            Grid.Column="0"
+            Padding="0">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="0.15*" />
+                    <RowDefinition Height="0.40*" />
+                    <RowDefinition Height="0.30*" />
+                    <RowDefinition Height="0.15*" />
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+
+                <Image
+                    Grid.RowSpan="4"
+                    Aspect="Fill"
+                    HorizontalOptions="Fill"
+                    Source="lupa.jpg"
+                    VerticalOptions="End" />
+                <Image
+                    Grid.RowSpan="4"
+                    Margin="0"
+                    Aspect="Fill"
+                    HorizontalOptions="Fill"
+                    Opacity="0.75"
+                    Source="cuadrante_verde.png"
+                    VerticalOptions="End" />
+                <Image
+                    Grid.Row="1"
+                    HeightRequest="60"
+                    HorizontalOptions="CenterAndExpand"
+                    Source="lupaicon.png"
+                    VerticalOptions="Center"
+                    WidthRequest="60" />
+                <Label
+                    Grid.Row="2"
+                    FontFamily="Segoe UI"
+                    FontSize="25"
+                    HorizontalOptions="CenterAndExpand"
+                    HorizontalTextAlignment="Center"
+                    Text="CONSULTA RÁPIDA"
+                    TextColor="White"
+                    VerticalOptions="Center" />
+            </Grid>
+        </StackLayout>
+        <StackLayout
+            x:Name="btnPuntosDeControl"
+            Grid.Row="1"
+            Grid.Column="0"
+            Padding="0">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="0.15*" />
+                    <RowDefinition Height="0.40*" />
+                    <RowDefinition Height="0.30*" />
+                    <RowDefinition Height="0.15*" />
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+
+                <Image
+                    Grid.RowSpan="4"
+                    Aspect="Fill"
+                    HorizontalOptions="Fill"
+                    Source="calle.jpg"
+                    VerticalOptions="End" />
+                <Image
+                    Grid.RowSpan="4"
+                    Margin="0"
+                    Aspect="Fill"
+                    HorizontalOptions="Fill"
+                    Opacity="0.75"
+                    Source="cuadrante_morado.png"
+                    VerticalOptions="End" />
+                <Image
+                    Grid.Row="1"
+                    HeightRequest="60"
+                    HorizontalOptions="CenterAndExpand"
+                    Source="mapa.png"
+                    VerticalOptions="Center"
+                    WidthRequest="60" />
+                <Label
+                    Grid.Row="2"
+                    FontFamily="Segoe UI"
+                    FontSize="25"
+                    HorizontalOptions="CenterAndExpand"
+                    HorizontalTextAlignment="Center"
+                    Text="PUNTOS DE CONTROL"
+                    TextColor="White"
+                    VerticalOptions="Center" />
+            </Grid>
+        </StackLayout>
+        <StackLayout
+            x:Name="btnDeudas"
+            Grid.Row="2"
+            Grid.Column="0"
+            Padding="0">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="0.15*" />
+                    <RowDefinition Height="0.40*" />
+                    <RowDefinition Height="0.30*" />
+                    <RowDefinition Height="0.15*" />
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+
+                <Image
+                    Grid.RowSpan="4"
+                    Aspect="Fill"
+                    HorizontalOptions="Fill"
+                    Source="dinero.jpg"
+                    VerticalOptions="End" />
+                <Image
+                    Grid.RowSpan="4"
+                    Margin="0"
+                    Aspect="Fill"
+                    HorizontalOptions="Fill"
+                    Opacity="0.75"
+                    Source="cuadrante_azul.png"
+                    VerticalOptions="End" />
+                <Image
+                    Grid.Row="1"
+                    HeightRequest="60"
+                    HorizontalOptions="CenterAndExpand"
+                    Source="deuda.png"
+                    VerticalOptions="Center"
+                    WidthRequest="60" />
+                <Label
+                    Grid.Row="2"
+                    FontFamily="Segoe UI"
+                    FontSize="25"
+                    HorizontalOptions="CenterAndExpand"
+                    HorizontalTextAlignment="Center"
+                    Text="RESUMEN DE DEUDAS"
+                    TextColor="White"
+                    VerticalOptions="Center" />
+            </Grid>
+        </StackLayout>
+        <StackLayout
+            x:Name="btnContacto"
+            Grid.Row="3"
+            Grid.Column="0"
+            Padding="0">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="0.15*" />
+                    <RowDefinition Height="0.40*" />
+                    <RowDefinition Height="0.30*" />
+                    <RowDefinition Height="0.15*" />
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+
+                <Image
+                    Grid.RowSpan="4"
+                    Aspect="Fill"
+                    HorizontalOptions="Fill"
+                    Source="smartphone.jpg"
+                    VerticalOptions="End" />
+                <Image
+                    Grid.RowSpan="4"
+                    Margin="0"
+                    Aspect="Fill"
+                    HorizontalOptions="Fill"
+                    Opacity="0.75"
+                    Source="cuadrante_amarillo.png"
+                    VerticalOptions="End" />
+                <Image
+                    Grid.Row="1"
+                    HeightRequest="60"
+                    HorizontalOptions="CenterAndExpand"
+                    Source="contacto.png"
+                    VerticalOptions="Center"
+                    WidthRequest="60" />
+                <Label
+                    Grid.Row="2"
+                    FontFamily="Segoe UI"
+                    FontSize="25"
+                    HorizontalOptions="CenterAndExpand"
+                    HorizontalTextAlignment="Center"
+                    Text="CONTACTO"
+                    TextColor="White"
+                    VerticalOptions="Center" />
+            </Grid>
+        </StackLayout>
+    </Grid>
+
+</ContentPage>

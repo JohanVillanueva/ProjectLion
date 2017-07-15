@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ProjectLion.Views.MultaViewMaster"
+             Title="Master">
+    <StackLayout>
+        <ListView
+            x:Name="MenuItemsListView"
+            HasUnevenRows="true"
+            ItemsSource="{Binding MenuItems}"
+            SeparatorVisibility="None">
+            <ListView.Header>
+                <Grid HorizontalOptions="StartAndExpand" VerticalOptions="CenterAndExpand">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*" />
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="30" />
+                        <RowDefinition Height="65" />
+                        <RowDefinition Height="*" />
+                        <RowDefinition Height="25" />
+                    </Grid.RowDefinitions>
+                    <Image
+                        Grid.RowSpan="4"
+                        Aspect="Fill"
+                        HorizontalOptions="Fill"
+                        Source="semaforo.jpg"
+                        VerticalOptions="End" />
+                    <Image
+                        Grid.RowSpan="4"
+                        Margin="0"
+                        Aspect="Fill"
+                        HorizontalOptions="Fill"
+                        Opacity="0.85"
+                        Source="cuadrante_azul.png"
+                        VerticalOptions="End" />
+                    <Label
+                        Grid.Row="2"
+                        FontSize="Large"
+                        Style="{DynamicResource SubtitleStyle}"
+                        Text="  TuMulta"
+                        TextColor="White" />
+                </Grid>
+            </ListView.Header>
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ImageCell ImageSource="{Binding Source}" Text="{Binding Title}" />
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </StackLayout>
+</ContentPage>
