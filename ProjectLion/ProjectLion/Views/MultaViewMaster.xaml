@@ -1,8 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
-<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
-             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="ProjectLion.Views.MultaViewMaster"
-             Title="Master">
+<ContentPage
+    x:Class="ProjectLion.Views.MultaViewMaster"
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    Title="Master"
+    BackgroundColor="#1A1A1A">
     <StackLayout>
         <ListView
             x:Name="MenuItemsListView"
@@ -36,15 +38,61 @@
                         VerticalOptions="End" />
                     <Label
                         Grid.Row="2"
-                        FontSize="Large"
-                        Style="{DynamicResource SubtitleStyle}"
+                        FontSize="26"
+                        Style="{DynamicResource Subtitlestyle}"
                         Text="  TuMulta"
                         TextColor="White" />
                 </Grid>
             </ListView.Header>
             <ListView.ItemTemplate>
                 <DataTemplate>
-                    <ImageCell ImageSource="{Binding Source}" Text="{Binding Title}" />
+                    <ViewCell>
+                        <StackLayout
+                            BackgroundColor="#1A1A1A"
+                            HeightRequest="60"
+                            Orientation="Vertical">
+                            <Grid VerticalOptions="CenterAndExpand">
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="*" />
+                                </Grid.RowDefinitions>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="0.16*" />
+                                    <ColumnDefinition Width="0.85*" />
+                                </Grid.ColumnDefinitions>
+
+                                <StackLayout
+                                    Grid.Row="0"
+                                    Grid.Column="0"
+                                    Padding="20,8,8,8"
+                                    Orientation="Horizontal">
+                                    <Image
+                                        x:Name="iconMenu"
+                                        Aspect="AspectFill"
+                                        HeightRequest="18"
+                                        HorizontalOptions="CenterAndExpand"
+                                        Opacity="0.6"
+                                        Source="{Binding imageUrl}"
+                                        VerticalOptions="Center"
+                                        WidthRequest="18" />
+                                </StackLayout>
+                                <Label
+                                    Grid.Row="0"
+                                    Grid.Column="1"
+                                    FontFamily="Segoe UI"
+                                    FontSize="Small"
+                                    HorizontalOptions="StartAndExpand"
+                                    Text="{Binding Title}"
+                                    TextColor="White"
+                                    VerticalTextAlignment="Center" />
+                            </Grid>
+                        </StackLayout>
+                    </ViewCell>
+                    <!--<ImageCell
+                        Height="60"
+                        DetailColor="White"
+                        ImageSource="{Binding imageUrl}"
+                        Text="{Binding Title}"
+                        TextColor="White" />-->
                 </DataTemplate>
             </ListView.ItemTemplate>
         </ListView>

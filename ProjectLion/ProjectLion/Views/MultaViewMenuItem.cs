@@ -12,6 +12,8 @@ namespace ProjectLion.Views
         public MultaViewMenuItem()
         {
         }
+
+        public string imageUrl { get; set; }
         public int Id { get; set; }
         public string Title { get; set; }
         public Type TargetType { get; set; }
