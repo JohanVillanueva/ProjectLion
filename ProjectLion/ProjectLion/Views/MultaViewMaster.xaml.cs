@@ -23,6 +23,7 @@ namespace ProjectLion.Views
 
             BindingContext = new MultaViewMasterViewModel();
             ListView = MenuItemsListView;
+           
         }
 
         class MultaViewMasterViewModel : INotifyPropertyChanged

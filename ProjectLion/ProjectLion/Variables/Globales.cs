@@ -19,22 +19,22 @@ namespace ProjectLion.Variables
 
         public static ObservableCollection<MultaViewMenuItem> menuNoLogin = new ObservableCollection<MultaViewMenuItem>(new[]
         {
-            new MultaViewMenuItem { Id = 0, Title = "Inicio", TargetType=null },
-            new MultaViewMenuItem { Id = 1, Title = "Consulta rapida", TargetType=typeof(Consulta) },
-            new MultaViewMenuItem { Id = 2, Title = "Puntos de control", TargetType=typeof(Mapa) },
-            new MultaViewMenuItem { Id = 3, Title = "Resumen de deudas", TargetType=typeof(Resumen) },
-            new MultaViewMenuItem { Id = 4, Title = "Contacto", TargetType=typeof(Contacto) },
-            new MultaViewMenuItem { Id = 5, Title = "Login", TargetType=typeof(Login) },
+            new MultaViewMenuItem {imageUrl="home.png",  Id = 0, Title = "Inicio", TargetType=null },
+            new MultaViewMenuItem {imageUrl="lupaicon.png",  Id = 1, Title = "Consulta rapida", TargetType=typeof(Consulta) },
+            new MultaViewMenuItem {imageUrl="mapa.png",  Id = 2, Title = "Puntos de control", TargetType=typeof(Mapa) },
+            new MultaViewMenuItem {imageUrl="deuda.png",  Id = 3, Title = "Resumen de deudas", TargetType=typeof(Resumen) },
+            new MultaViewMenuItem {imageUrl="contacto.png",  Id = 4, Title = "Contacto", TargetType=typeof(Contacto) },
+            new MultaViewMenuItem {imageUrl="login.png",  Id = 5, Title = "Iniciar Sesión", TargetType=typeof(Login) },
         });
 
         public static ObservableCollection<MultaViewMenuItem> menuLogin = new ObservableCollection<MultaViewMenuItem>(new[]
         {
-            new MultaViewMenuItem { Id = 0, Title = "Inicio", TargetType=null },
-            new MultaViewMenuItem { Id = 1, Title = "Consulta rapida", TargetType=typeof(Consulta) },
-            new MultaViewMenuItem { Id = 2, Title = "Puntos de control", TargetType=typeof(Mapa) },
-            new MultaViewMenuItem { Id = 3, Title = "Resumen de deudas", TargetType=typeof(Resumen) },
-            new MultaViewMenuItem { Id = 4, Title = "Contacto", TargetType=typeof(Contacto) },
-            new MultaViewMenuItem { Id = 5, Title = "Salir", TargetType=typeof(int) },
+            new MultaViewMenuItem {imageUrl="home.png" ,Id = 0, Title = "Inicio", TargetType=null },
+            new MultaViewMenuItem {imageUrl="lupaicon.png",   Id = 1, Title = "Consulta rapida", TargetType=typeof(Consulta) },
+            new MultaViewMenuItem {imageUrl="mapa.png",   Id = 2, Title = "Puntos de control", TargetType=typeof(Mapa) },
+            new MultaViewMenuItem {imageUrl="deuda.png",  Id = 3, Title = "Resumen de deudas", TargetType=typeof(Resumen) },
+            new MultaViewMenuItem {imageUrl="contacto.png", Id = 4, Title = "Contacto", TargetType=typeof(Contacto) },
+            new MultaViewMenuItem {imageUrl="logout.png", Id = 5, Title = "Cerrar Sesión", TargetType=typeof(int) },
         });
     }
 }
