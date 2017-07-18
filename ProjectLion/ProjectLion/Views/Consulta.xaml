@@ -1,17 +1,74 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
-<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
-             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="ProjectLion.Views.Consulta"
-             xmlns:xuni="clr-namespace:Xuni.Forms.FlexGrid;assembly=Xuni.Forms.FlexGrid"
-             Title="Consulta Rapida">
-    <StackLayout x:Name="contenedorMulta" VerticalOptions="FillAndExpand">
-        <StackLayout Orientation="Horizontal">
-            <Label FontSize="Medium" VerticalTextAlignment="Center">Busca</Label>
-            <Entry x:Name="txtBuscar" HorizontalOptions="FillAndExpand" />
+<ContentPage
+    x:Class="ProjectLion.Views.Consulta"
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:xuni="clr-namespace:Xuni.Forms.FlexGrid;assembly=Xuni.Forms.FlexGrid"
+    Title="Consulta Rapida">
+    <StackLayout x:Name="contenedorMulta">
+        <StackLayout Padding="20,10" Orientation="Vertical">
+            <Label
+                FontFamily="Segoe UI"
+                FontSize="Large"
+                HorizontalOptions="Center"
+                Text="Consultar por"
+                VerticalTextAlignment="Center" />
+            <Grid
+                Margin="30,40"
+                ColumnSpacing="0"
+                HorizontalOptions="Fill">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*" />
+                    <RowDefinition Height="*" />
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="0.5*" />
+                    <ColumnDefinition Width="0.5*" />
+                </Grid.ColumnDefinitions>
+                <Button
+                    x:Name="btnDNI"
+                    Grid.Row="0"
+                    Grid.Column="0"
+                    BackgroundColor="#418ED6"
+                    BorderColor="#418ED6"
+                    BorderWidth="1"
+                    Clicked="btnDNI_Clicked"
+                    FontSize="Medium"
+                    HorizontalOptions="Fill"
+                    Text="DNI"
+                    VerticalOptions="Fill" />
+                <Button
+                    x:Name="btnPlaca"
+                    Grid.Row="0"
+                    Grid.Column="1"
+                    BackgroundColor="#DADAD4"
+                    BorderColor="#418ED6"
+                    BorderWidth="3"
+                    Clicked="btnPlaca_Clicked"
+                    FontSize="Medium"
+                    HorizontalOptions="Fill"
+                    Text="PLACA"
+                    VerticalOptions="Fill" />
+                <Entry
+                    x:Name="txtBuscar"
+                    Grid.Row="1"
+                    Grid.ColumnSpan="2"
+                    HorizontalOptions="FillAndExpand"
+                    Placeholder="Ingrese N° de DNI" />
+            </Grid>
         </StackLayout>
-        <xuni:FlexGrid x:Name="grid" AutoGenerateColumns="False" VerticalOptions="FillAndExpand" IsReadOnly="True">
+        <xuni:FlexGrid
+            x:Name="grid"
+            AutoGenerateColumns="False"
+            IsReadOnly="True"
+            IsVisible="False"
+            VerticalOptions="FillAndExpand">
             <xuni:FlexGrid.Behaviors>
-                <xuni:FullTextFilterBehavior FilterEntry="{x:Reference Name=txtBuscar}" Mode="WhileTyping" MatchNumbers="True" TreatSpacesAsAndOperator="True" />
+                <xuni:FullTextFilterBehavior
+                    FilterEntry="{x:Reference Name=txtBuscar}"
+                    MatchNumbers="True"
+                    Mode="WhileTyping"
+                    TreatSpacesAsAndOperator="True" />
                 <xuni:FlexGridDetailProvider x:Name="details" Height="170">
                     <DataTemplate>
                         <Grid>
@@ -26,24 +83,39 @@
                                 <ColumnDefinition Width="*" />
                                 <ColumnDefinition Width="*" />
                             </Grid.ColumnDefinitions>
-                            <Label Text="Propietario:"/>
-                            <Label Text="{Binding Propietario}" Grid.Column="1"/>
-                            <Label Text="Placa:" Grid.Row="1"/>
-                            <Label Text="{Binding Placa}" Grid.Row="1" Grid.Column="1"/>
-                            <Label Text="Fecha:" Grid.Row="2"/>
-                            <Label Text="{Binding Fecha}" Grid.Row="2" Grid.Column="1"/>
-                            <Label Text="Direccion:" Grid.Row="3"/>
-                            <Label Text="{Binding Direccion}" Grid.Row="3" Grid.Column="1"/>
-                            <Label Text="Plazo:" Grid.Row="4"/>
-                            <Label Text="{Binding Plazo}" Grid.Row="4" Grid.Column="1"/>
+                            <Label Text="Propietario:" />
+                            <Label Grid.Column="1" Text="{Binding Propietario}" />
+                            <Label Grid.Row="1" Text="Placa:" />
+                            <Label
+                                Grid.Row="1"
+                                Grid.Column="1"
+                                Text="{Binding Placa}" />
+                            <Label Grid.Row="2" Text="Fecha:" />
+                            <Label
+                                Grid.Row="2"
+                                Grid.Column="1"
+                                Text="{Binding Fecha}" />
+                            <Label Grid.Row="3" Text="Direccion:" />
+                            <Label
+                                Grid.Row="3"
+                                Grid.Column="1"
+                                Text="{Binding Direccion}" />
+                            <Label Grid.Row="4" Text="Plazo:" />
+                            <Label
+                                Grid.Row="4"
+                                Grid.Column="1"
+                                Text="{Binding Plazo}" />
                         </Grid>
                     </DataTemplate>
                 </xuni:FlexGridDetailProvider>
             </xuni:FlexGrid.Behaviors>
             <xuni:FlexGrid.Columns>
-                <xuni:GridColumn Binding="Placa" Width="75"/>
-                <xuni:GridColumn Binding="Propietario" Width="*"/>
-                <xuni:GridColumn Binding="Fecha" Format="d" Width="85"/>
+                <xuni:GridColumn Width="75" Binding="Placa" />
+                <xuni:GridColumn Width="*" Binding="Propietario" />
+                <xuni:GridColumn
+                    Width="85"
+                    Binding="Fecha"
+                    Format="d" />
             </xuni:FlexGrid.Columns>
         </xuni:FlexGrid>
     </StackLayout>

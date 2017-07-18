@@ -13,8 +13,6 @@ namespace ProjectLion.Variables
     {
         public static int ADMIN = 4;
         
-        public static int id = null;
-
         public static List<Multa> multas = new List<Multa>();
 
         public static Propietario propietario = null;
