@@ -73,8 +73,14 @@
         <xuni:FlexGrid
             x:Name="grid"
             AutoGenerateColumns="False"
+            ColumnHeaderBackgroundColor="#37474F"
+            ColumnHeaderTextColor="White"
+            GroupRowBackgroundColor="White"
+            GroupRowTextColor="Black"
             IsReadOnly="True"
-            IsVisible="True"
+            IsVisible="False"
+            SelectionBackgroundColor="#626769"
+            SelectionTextColor="Black"
             VerticalOptions="FillAndExpand">
             <xuni:FlexGrid.Behaviors>
                 <xuni:FullTextFilterBehavior
@@ -134,10 +140,10 @@
                 </xuni:FlexGridDetailProvider>
             </xuni:FlexGrid.Behaviors>
             <xuni:FlexGrid.Columns>
-                <xuni:GridColumn Width="75" Binding="Placa" />
-                <xuni:GridColumn Width="*" Binding="Direccion" />
+                <xuni:GridColumn Width="*" Binding="Placa" />
+                <xuni:GridColumn Width="*" Binding="Dni" />
                 <xuni:GridColumn
-                    Width="85"
+                    Width="*"
                     Binding="Fecha"
                     Format="d" />
             </xuni:FlexGrid.Columns>

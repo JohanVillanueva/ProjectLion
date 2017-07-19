@@ -29,16 +29,21 @@ namespace ProjectLion.Views
         
         private void btnPlaca_Clicked(object sender, EventArgs e)
         {
+            grid.IsVisible = false;
+            txtBuscar.Text = string.Empty;
             Button boton = (Button)sender;
             boton.BackgroundColor = Color.FromHex("#418ED6");
             btnDNI.BackgroundColor = Color.FromHex("#DADAD4");
             modoBusqueda = 2;
             txtBuscar.Keyboard = Keyboard.Text;
             txtBuscar.Placeholder = "Ingrese N° de Placa";
+
         }
         private void btnDNI_Clicked(object sender, EventArgs e)
         {
             Button boton = (Button)sender;
+            txtBuscar.Text = string.Empty;
+            grid.IsVisible = false;
             boton.BackgroundColor = Color.FromHex("#418ED6");
             btnPlaca.BackgroundColor = Color.FromHex("#DADAD4");            
             modoBusqueda = 1;
@@ -49,12 +54,13 @@ namespace ProjectLion.Views
         private void btnBuscar_Clicked(object sender, EventArgs e)
         {
             grid.IsVisible = true;
+            btnBuscar.IsEnabled = false;
         }
 
         private void txtBuscar_TextChanged(object sender, TextChangedEventArgs e)
         {
             int caracteres = txtBuscar.Text.Length;
-            txtBuscar.Text=  txtBuscar.Text.ToUpper();
+            txtBuscar.Text=  txtBuscar.Text.ToString().ToUpper();
             if (modoBusqueda == 1)
             {
                 if (caracteres == 8)
