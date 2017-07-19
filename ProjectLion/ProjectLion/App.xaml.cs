@@ -17,22 +17,29 @@ namespace ProjectLion
         {
             InitializeComponent();
             MainPage = new ProjectLion.Views.MultaView();
-
-            iniciar();
         }
 
         public async void iniciar()
         {
             var client = new HttpClient();
+            string json;
+            try
+            {
             client.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("application/json"));
             HttpResponseMessage response = await client.GetAsync("https://apimultas.azurewebsites.net/api/multas/");
-            string json = response.Content.ReadAsStringAsync().Result;
-            Variables.Globales.multas = JsonConvert.DeserializeObject<List<Multa>>(json);
+            json = response.Content.ReadAsStringAsync().Result;
+                Variables.Globales.multas = JsonConvert.DeserializeObject<List<Multa>>(json);
+            }
+            catch (Exception)
+            {
+                throw;
+            }
+            
         }
 
         protected override void OnStart()
         {
-            // Handle when your app starts
+            iniciar();
         }
 
         protected override void OnSleep()
