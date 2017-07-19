@@ -28,7 +28,7 @@ namespace ProjectLion
             client.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("application/json"));
             HttpResponseMessage response = await client.GetAsync("https://apimultas.azurewebsites.net/api/multas/");
             json = response.Content.ReadAsStringAsync().Result;
-                Variables.Globales.multas = JsonConvert.DeserializeObject<List<Multa>>(json);
+                Variables.Globales.multas = JsonConvert.DeserializeObject<List<Multa>>(json);              
             }
             catch (Exception)
             {

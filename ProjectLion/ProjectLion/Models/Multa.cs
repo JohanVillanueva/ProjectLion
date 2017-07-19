@@ -80,6 +80,13 @@ namespace ProjectLion.Models
             set { direccion = value; }
         }
 
+        private string dni;
+
+        public string Dni
+        {
+            get { return dni; }
+            set { dni = value; }
+        }
         private string latitud;
 
         public string Latitud

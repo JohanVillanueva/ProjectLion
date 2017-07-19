@@ -14,10 +14,12 @@
                 Text="Consultar por"
                 VerticalTextAlignment="Center" />
             <Grid
-                Margin="30,40"
+                Margin="30,10"
+                Padding="0"
                 ColumnSpacing="0"
                 HorizontalOptions="Fill">
                 <Grid.RowDefinitions>
+                    <RowDefinition Height="*" />
                     <RowDefinition Height="*" />
                     <RowDefinition Height="*" />
                 </Grid.RowDefinitions>
@@ -30,8 +32,7 @@
                     Grid.Row="0"
                     Grid.Column="0"
                     BackgroundColor="#418ED6"
-                    BorderColor="#418ED6"
-                    BorderWidth="1"
+                    BorderWidth="0"
                     Clicked="btnDNI_Clicked"
                     FontSize="Medium"
                     HorizontalOptions="Fill"
@@ -42,8 +43,7 @@
                     Grid.Row="0"
                     Grid.Column="1"
                     BackgroundColor="#DADAD4"
-                    BorderColor="#418ED6"
-                    BorderWidth="3"
+                    BorderWidth="0"
                     Clicked="btnPlaca_Clicked"
                     FontSize="Medium"
                     HorizontalOptions="Fill"
@@ -54,14 +54,27 @@
                     Grid.Row="1"
                     Grid.ColumnSpan="2"
                     HorizontalOptions="FillAndExpand"
-                    Placeholder="Ingrese N° de DNI" />
+                    Keyboard="Numeric"
+                    Placeholder="Ingrese N° de DNI"
+                    TextChanged="txtBuscar_TextChanged" />
+                <Button
+                    x:Name="btnBuscar"
+                    Grid.Row="2"
+                    Grid.ColumnSpan="2"
+                    BackgroundColor="#37474F"
+                    Clicked="btnBuscar_Clicked"
+                    HorizontalOptions="FillAndExpand"
+                    IsEnabled="False"
+                    Text="Consultar"
+                    TextColor="White"
+                    VerticalOptions="End" />
             </Grid>
         </StackLayout>
         <xuni:FlexGrid
             x:Name="grid"
             AutoGenerateColumns="False"
             IsReadOnly="True"
-            IsVisible="False"
+            IsVisible="True"
             VerticalOptions="FillAndExpand">
             <xuni:FlexGrid.Behaviors>
                 <xuni:FullTextFilterBehavior
@@ -78,13 +91,19 @@
                                 <RowDefinition />
                                 <RowDefinition />
                                 <RowDefinition />
+                                <RowDefinition />
                             </Grid.RowDefinitions>
                             <Grid.ColumnDefinitions>
                                 <ColumnDefinition Width="*" />
                                 <ColumnDefinition Width="*" />
                             </Grid.ColumnDefinitions>
-                            <Label Text="Propietario:" />
-                            <Label Grid.Column="1" Text="{Binding Propietario}" />
+                            <!--<Label Text="Propietario:" />
+                            <Label Grid.Column="1" Text="{Binding Propietario}" />-->
+                            <Label Grid.Row="0" Text="DNI:" />
+                            <Label
+                                Grid.Row="0"
+                                Grid.Column="1"
+                                Text="{Binding Dni}" />
                             <Label Grid.Row="1" Text="Placa:" />
                             <Label
                                 Grid.Row="1"
@@ -100,9 +119,14 @@
                                 Grid.Row="3"
                                 Grid.Column="1"
                                 Text="{Binding Direccion}" />
-                            <Label Grid.Row="4" Text="Plazo:" />
+                            <Label Grid.Row="4" Text="Monto a Pagar:" />
                             <Label
                                 Grid.Row="4"
+                                Grid.Column="1"
+                                Text="{Binding Monto}" />
+                            <Label Grid.Row="5" Text="Plazo:" />
+                            <Label
+                                Grid.Row="5"
                                 Grid.Column="1"
                                 Text="{Binding Plazo}" />
                         </Grid>
@@ -111,7 +135,7 @@
             </xuni:FlexGrid.Behaviors>
             <xuni:FlexGrid.Columns>
                 <xuni:GridColumn Width="75" Binding="Placa" />
-                <xuni:GridColumn Width="*" Binding="Propietario" />
+                <xuni:GridColumn Width="*" Binding="Direccion" />
                 <xuni:GridColumn
                     Width="85"
                     Binding="Fecha"

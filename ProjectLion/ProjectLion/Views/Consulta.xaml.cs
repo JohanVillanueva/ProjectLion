@@ -33,6 +33,7 @@ namespace ProjectLion.Views
             boton.BackgroundColor = Color.FromHex("#418ED6");
             btnDNI.BackgroundColor = Color.FromHex("#DADAD4");
             modoBusqueda = 2;
+            txtBuscar.Keyboard = Keyboard.Text;
             txtBuscar.Placeholder = "Ingrese N° de Placa";
         }
         private void btnDNI_Clicked(object sender, EventArgs e)
@@ -41,7 +42,40 @@ namespace ProjectLion.Views
             boton.BackgroundColor = Color.FromHex("#418ED6");
             btnPlaca.BackgroundColor = Color.FromHex("#DADAD4");            
             modoBusqueda = 1;
+            txtBuscar.Keyboard = Keyboard.Numeric;
             txtBuscar.Placeholder = "Ingrese N° de DNI";
+        }
+
+        private void btnBuscar_Clicked(object sender, EventArgs e)
+        {
+            grid.IsVisible = true;
+        }
+
+        private void txtBuscar_TextChanged(object sender, TextChangedEventArgs e)
+        {
+            int caracteres = txtBuscar.Text.Length;
+            txtBuscar.Text=  txtBuscar.Text.ToUpper();
+            if (modoBusqueda == 1)
+            {
+                if (caracteres == 8)
+                {
+                    btnBuscar.IsEnabled = true;
+                }
+                else
+                {
+                    btnBuscar.IsEnabled = false;
+                }
+            }
+            else if (modoBusqueda == 2) {
+                if (caracteres == 8)
+                {
+                    btnBuscar.IsEnabled = true;
+                }
+                else
+                {
+                    btnBuscar.IsEnabled = false;
+                }
+            }
         }
     }
 }
