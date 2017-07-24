@@ -1,4 +1,4 @@
-﻿using ProjectLion.Controller;
+﻿﻿using ProjectLion.Controller;
 using ProjectLion.Models;
 using System;
 using System.Collections.Generic;
@@ -7,7 +7,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 using Xamarin.Forms;
-using Xamarin.Forms.Maps;
+using Xamarin.Forms.GoogleMaps;
 using Xamarin.Forms.Xaml;
 
 namespace ProjectLion.Views
@@ -18,16 +18,17 @@ namespace ProjectLion.Views
         public Mapa()
         {
             InitializeComponent();
-            var map = new Map(MapSpan.FromCenterAndRadius(
-                new Position(-8.113097, -79.0315039),
-                Distance.FromMiles(0.5)))
-            {
-                IsShowingUser = true,
-                VerticalOptions = LayoutOptions.FillAndExpand
-            };
+            Map map = new Map();
+			//var map = new Map(MapSpan.FromCenterAndRadius(
+			//    new Position(-8.113097, -79.0315039),
+			//    Distance.FromMiles(0.5)))
+			//{
+			//    IsShowingUser = true,
+			//    VerticalOptions = LayoutOptions.FillAndExpand
+			//};
+            map.InitialCameraUpdate=CameraUpdateFactory.NewPositionZoom(new Position(-8.113097, -79.0315039), 10);
 
-            Content = map;
-
+            map.VerticalOptions=LayoutOptions.FillAndExpand;
             MultasController mc = new MultasController();
             List<Multa> multas = new List<Multa>();
 
@@ -47,6 +48,7 @@ namespace ProjectLion.Views
                 };
                 map.Pins.Add(pin);
             }
+            Content = map;
         }
     }
 }

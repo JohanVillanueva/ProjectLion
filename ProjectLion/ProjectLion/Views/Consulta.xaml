@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage
     x:Class="ProjectLion.Views.Consulta"
     xmlns="http://xamarin.com/schemas/2014/forms"
@@ -35,6 +35,7 @@
                     BorderWidth="0"
                     Clicked="btnDNI_Clicked"
                     FontSize="Medium"
+                    TextColor="White"
                     HorizontalOptions="Fill"
                     Text="DNI"
                     VerticalOptions="Fill" />
@@ -77,8 +78,8 @@
             ColumnHeaderTextColor="White"
             GroupRowBackgroundColor="White"
             GroupRowTextColor="Black"
-            IsReadOnly="True"
-            IsVisible="False"
+            IsReadOnly="true"
+            IsVisible="false"
             SelectionBackgroundColor="#626769"
             SelectionTextColor="Black"
             VerticalOptions="FillAndExpand">

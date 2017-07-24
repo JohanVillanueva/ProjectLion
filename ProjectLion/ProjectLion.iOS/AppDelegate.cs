@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-
+using Xamarin.Forms.GoogleMaps;
 using Foundation;
 using UIKit;
 
@@ -20,10 +20,13 @@ namespace ProjectLion.iOS
         //
         // You have 17 seconds to return from this method, or iOS will terminate your application.
         //
+
         public override bool FinishedLaunching(UIApplication app, NSDictionary options)
         {
             global::Xamarin.Forms.Forms.Init();
             LoadApplication(new App());
+            Xuni.Forms.FlexGrid.Platform.iOS.Forms.Init();
+            Xamarin.FormsGoogleMaps.Init("AIzaSyBVVs0r4ab2inlCJmkQyo8FC_97qSW8_JI");
 
             return base.FinishedLaunching(app, options);
         }

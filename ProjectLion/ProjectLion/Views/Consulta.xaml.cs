@@ -23,10 +23,10 @@ namespace ProjectLion.Views
             grid.BindingContext = multa;
             grid.ItemsSource = multa.data;
             grid.VerticalOptions = LayoutOptions.FillAndExpand;
-            
+
         }
-       
-        
+
+
         private void btnPlaca_Clicked(object sender, EventArgs e)
         {
             grid.IsVisible = false;
@@ -34,6 +34,7 @@ namespace ProjectLion.Views
             Button boton = (Button)sender;
             boton.BackgroundColor = Color.FromHex("#418ED6");
             btnDNI.BackgroundColor = Color.FromHex("#DADAD4");
+            boton.TextColor = Color.White;
             modoBusqueda = 2;
             txtBuscar.Keyboard = Keyboard.Text;
             txtBuscar.Placeholder = "Ingrese N° de Placa";
@@ -45,7 +46,8 @@ namespace ProjectLion.Views
             txtBuscar.Text = string.Empty;
             grid.IsVisible = false;
             boton.BackgroundColor = Color.FromHex("#418ED6");
-            btnPlaca.BackgroundColor = Color.FromHex("#DADAD4");            
+            btnPlaca.BackgroundColor = Color.FromHex("#DADAD4");
+            boton.TextColor=Color.White;
             modoBusqueda = 1;
             txtBuscar.Keyboard = Keyboard.Numeric;
             txtBuscar.Placeholder = "Ingrese N° de DNI";

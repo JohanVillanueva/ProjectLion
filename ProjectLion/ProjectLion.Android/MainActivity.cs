@@ -6,7 +6,7 @@ using Android.Runtime;
 using Android.Views;
 using Android.Widget;
 using Android.OS;
-
+using Xamarin.Forms.GoogleMaps;
 namespace ProjectLion.Droid
 {
     [Activity(Label = "ProjectLion", Icon = "@drawable/icon", Theme = "@style/MainTheme", MainLauncher = true, ConfigurationChanges = ConfigChanges.ScreenSize | ConfigChanges.Orientation)]
@@ -21,7 +21,7 @@ namespace ProjectLion.Droid
 
             global::Xamarin.Forms.Forms.Init(this, bundle);
 
-            Xamarin.FormsMaps.Init(this, bundle);
+            Xamarin.FormsGoogleMaps.Init(this, bundle);
 
             LoadApplication(new App());
         }
