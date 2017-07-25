@@ -193,6 +193,15 @@
     <Reference Include="Xamarin.Forms.GoogleMaps.iOS">
       <HintPath>..\..\packages\Xamarin.Forms.GoogleMaps.2.0.0\lib\Xamarin.iOS10\Xamarin.Forms.GoogleMaps.iOS.dll</HintPath>
     </Reference>
+    <Reference Include="Xuni.iOS.FlexPie">
+      <HintPath>..\..\packages\Xuni.iOS.FlexPie.2.3.20171.185\lib\Xamarin.iOS10\Xuni.iOS.FlexPie.dll</HintPath>
+    </Reference>
+    <Reference Include="Xuni.Forms.FlexPie">
+      <HintPath>..\..\packages\Xuni.Forms.FlexPie.2.3.20171.185\lib\Xamarin.iOS10\Xuni.Forms.FlexPie.dll</HintPath>
+    </Reference>
+    <Reference Include="Xuni.Forms.FlexPie.Platform.iOS">
+      <HintPath>..\..\packages\Xuni.Forms.FlexPie.2.3.20171.185\lib\Xamarin.iOS10\Xuni.Forms.FlexPie.Platform.iOS.dll</HintPath>
+    </Reference>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\ProjectLion\ProjectLion.csproj">

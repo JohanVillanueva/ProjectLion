@@ -148,6 +148,15 @@
     <Reference Include="Xamarin.Forms.GoogleMaps">
       <HintPath>..\..\packages\Xamarin.Forms.GoogleMaps.1.8.1\lib\MonoAndroid10\Xamarin.Forms.GoogleMaps.dll</HintPath>
     </Reference>
+    <Reference Include="Xuni.Android.FlexPie">
+      <HintPath>..\..\packages\Xuni.Android.FlexPie.2.3.20171.185\lib\MonoAndroid10\Xuni.Android.FlexPie.dll</HintPath>
+    </Reference>
+    <Reference Include="Xuni.Forms.FlexPie">
+      <HintPath>..\..\packages\Xuni.Forms.FlexPie.2.3.20171.185\lib\MonoAndroid10\Xuni.Forms.FlexPie.dll</HintPath>
+    </Reference>
+    <Reference Include="Xuni.Forms.FlexPie.Platform.Android">
+      <HintPath>..\..\packages\Xuni.Forms.FlexPie.2.3.20171.185\lib\MonoAndroid10\Xuni.Forms.FlexPie.Platform.Android.dll</HintPath>
+    </Reference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="MainActivity.cs" />

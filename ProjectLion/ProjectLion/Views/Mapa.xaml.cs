@@ -19,14 +19,8 @@ namespace ProjectLion.Views
         {
             InitializeComponent();
             Map map = new Map();
-			//var map = new Map(MapSpan.FromCenterAndRadius(
-			//    new Position(-8.113097, -79.0315039),
-			//    Distance.FromMiles(0.5)))
-			//{
-			//    IsShowingUser = true,
-			//    VerticalOptions = LayoutOptions.FillAndExpand
-			//};
-            map.InitialCameraUpdate=CameraUpdateFactory.NewPositionZoom(new Position(-8.113097, -79.0315039), 10);
+
+            map.InitialCameraUpdate=CameraUpdateFactory.NewPositionZoom(new Position(-8.113097, -79.0315039), 15);
 
             map.VerticalOptions=LayoutOptions.FillAndExpand;
             MultasController mc = new MultasController();

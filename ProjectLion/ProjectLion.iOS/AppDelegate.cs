@@ -4,6 +4,9 @@ using System.Linq;
 using Xamarin.Forms.GoogleMaps;
 using Foundation;
 using UIKit;
+using Xamarin.Forms;
+using Xamarin.Forms.Platform.iOS;
+
 
 namespace ProjectLion.iOS
 {
@@ -13,21 +16,16 @@ namespace ProjectLion.iOS
     [Register("AppDelegate")]
     public partial class AppDelegate : global::Xamarin.Forms.Platform.iOS.FormsApplicationDelegate
     {
-        //
-        // This method is invoked when the application has loaded and is ready to run. In this 
-        // method you should instantiate the window, load the UI into it and then make the window
-        // visible.
-        //
-        // You have 17 seconds to return from this method, or iOS will terminate your application.
-        //
-
         public override bool FinishedLaunching(UIApplication app, NSDictionary options)
         {
-            global::Xamarin.Forms.Forms.Init();
-            LoadApplication(new App());
-            Xuni.Forms.FlexGrid.Platform.iOS.Forms.Init();
-            Xamarin.FormsGoogleMaps.Init("AIzaSyBVVs0r4ab2inlCJmkQyo8FC_97qSW8_JI");
+            UINavigationBar.Appearance.BarTintColor=Color.FromHex("#37474F").ToUIColor();
+			UINavigationBar.Appearance.TitleTextAttributes = new UIStringAttributes {ForegroundColor = UIColor.White};
+			global::Xamarin.Forms.Forms.Init();
 
+			Xuni.Forms.FlexPie.Platform.iOS.Forms.Init();//problem
+            Xuni.Forms.FlexGrid.Platform.iOS.Forms.Init();
+            LoadApplication(new App());
+            Xamarin.FormsGoogleMaps.Init("AIzaSyBVVs0r4ab2inlCJmkQyo8FC_97qSW8_JI");
             return base.FinishedLaunching(app, options);
         }
     }
