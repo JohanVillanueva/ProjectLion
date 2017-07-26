@@ -16,6 +16,7 @@
                 PlaceholderColor="#cbcbcb" />
             <Entry
                 x:Name="txtPassword"
+                IsPassword="true"
                 Placeholder="Contraseña"
                 PlaceholderColor="#cbcbcb" />
             <Button
@@ -25,6 +26,7 @@
                 TextColor="White" />
             <Button
                 x:Name="btnCrear"
+
                 BackgroundColor="#bbbbbb"
                 Text="Crear cuenta"
                 TextColor="White" />

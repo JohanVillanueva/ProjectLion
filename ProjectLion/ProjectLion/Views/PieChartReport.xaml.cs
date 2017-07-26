@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using ProjectLion.Controller;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
-using Xuni.Forms.FlexPie;
 
 namespace ProjectLion.Views
 {

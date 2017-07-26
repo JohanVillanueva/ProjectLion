@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+    x:Class="ProjectLion.Views.DetalleMulta"
+    Title="Detalle de la multa">
+	<Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.5*"/>
+            <RowDefinition Height="0.5*"/>
+
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+        <StackLayout x:Name="ContenedorMapaDetalle" Orientation="Vertical" Grid.ColumnSpan="2" Grid.Row="0" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" >
+        </StackLayout>
+         <StackLayout  Grid.ColumnSpan="2" Grid.Row="1" Orientation="Vertical" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" >
+               <Grid HorizontalOptions="Center">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="0.2*"/>
+                        <RowDefinition Height="0.2*"/>
+                        <RowDefinition Height="0.2*"/>
+                        <RowDefinition Height="0.2*"/>
+                        <RowDefinition Height="0.2*"/>
+                        <RowDefinition Height="0.2*"/>
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="0.5*" />
+                        <ColumnDefinition Width="0.5*" />
+                    </Grid.ColumnDefinitions>
+                    <Label Text="{Binding Propietario}" FontAttributes="Bold" HorizontalTextAlignment="Center" Grid.Row="0" Grid.ColumnSpan="2"></Label>
+                    <Label Text="DNI:   " FontAttributes="Bold" HorizontalTextAlignment="End" Grid.Row="1" Grid.Column="0"></Label>
+                    <Label Text="{Binding Dni}" HorizontalTextAlignment="Start" Grid.Row="1" Grid.Column="1"></Label>
+                    <Label Text="Placa del vehiculo:   " FontAttributes="Bold" HorizontalTextAlignment="End" Grid.Row="2" Grid.Column="0"></Label>
+                    <Label Text="{Binding Placa}" HorizontalTextAlignment="Start" Grid.Row="2" Grid.Column="1"></Label>
+                    <Label Text="Fecha de infraccion:   " FontAttributes="Bold" HorizontalTextAlignment="End" Grid.Row="3" Grid.Column="0"></Label>
+                    <Label Text="{Binding Fecha}" HorizontalTextAlignment="Start" Grid.Row="3" Grid.Column="1"></Label>
+                    <Label Text="Monto a pagar (S/.):   " FontAttributes="Bold" HorizontalTextAlignment="End" Grid.Row="4" Grid.Column="0"></Label>
+                    <Label Text="{Binding Monto}" HorizontalTextAlignment="Start" Grid.Row="4" Grid.Column="1"></Label>
+                    <Label Text="Fecha de Limite de pago:   " FontAttributes="Bold" HorizontalTextAlignment="End" Grid.Row="5" Grid.Column="0"></Label>
+                    <Label Text="{Binding Plazo}" HorizontalTextAlignment="Start" Grid.Row="5" Grid.Column="1"></Label>
+                </Grid>
+        </StackLayout>
+    </Grid>
+</ContentPage>

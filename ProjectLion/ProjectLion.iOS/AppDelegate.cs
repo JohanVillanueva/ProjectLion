@@ -18,11 +18,11 @@ namespace ProjectLion.iOS
     {
         public override bool FinishedLaunching(UIApplication app, NSDictionary options)
         {
-            UINavigationBar.Appearance.BarTintColor=Color.FromHex("#37474F").ToUIColor();
-			UINavigationBar.Appearance.TitleTextAttributes = new UIStringAttributes {ForegroundColor = UIColor.White};
+            UINavigationBar.Appearance.BarTintColor=Color.FromHex("#d2d9db").ToUIColor();
+            UINavigationBar.Appearance.TitleTextAttributes = new UIStringAttributes {ForegroundColor = UIColor.Black};
 			global::Xamarin.Forms.Forms.Init();
 
-			Xuni.Forms.FlexPie.Platform.iOS.Forms.Init();//problem
+			
             Xuni.Forms.FlexGrid.Platform.iOS.Forms.Init();
             LoadApplication(new App());
             Xamarin.FormsGoogleMaps.Init("AIzaSyBVVs0r4ab2inlCJmkQyo8FC_97qSW8_JI");

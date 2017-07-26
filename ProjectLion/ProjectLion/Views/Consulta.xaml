@@ -78,6 +78,7 @@
             ColumnHeaderTextColor="White"
             GroupRowBackgroundColor="White"
             GroupRowTextColor="Black"
+            FontSize="12"
             IsReadOnly="true"
             IsVisible="false"
             SelectionBackgroundColor="#626769"
@@ -89,24 +90,23 @@
                     MatchNumbers="True"
                     Mode="WhileTyping"
                     TreatSpacesAsAndOperator="True" />
-                <xuni:FlexGridDetailProvider x:Name="details" Height="170">
+                <xuni:FlexGridDetailProvider x:Name="details" Height="50">
                     <DataTemplate>
-                        <Grid>
+                        <Grid >
                             <Grid.RowDefinitions>
                                 <RowDefinition />
+                               <!-- <RowDefinition />
                                 <RowDefinition />
                                 <RowDefinition />
-                                <RowDefinition />
-                                <RowDefinition />
-                                <RowDefinition />
+                                <RowDefinition />-->
+                               
                             </Grid.RowDefinitions>
                             <Grid.ColumnDefinitions>
                                 <ColumnDefinition Width="*" />
                                 <ColumnDefinition Width="*" />
                             </Grid.ColumnDefinitions>
-                            <!--<Label Text="Propietario:" />
-                            <Label Grid.Column="1" Text="{Binding Propietario}" />-->
-                            <Label Grid.Row="0" Text="DNI:" />
+                          
+                           <!-- <Label Grid.Row="0" Text="DNI:" />
                             <Label
                                 Grid.Row="0"
                                 Grid.Column="1"
@@ -120,22 +120,17 @@
                             <Label
                                 Grid.Row="2"
                                 Grid.Column="1"
-                                Text="{Binding Fecha}" />
-                            <Label Grid.Row="3" Text="Direccion:" />
-                            <Label
-                                Grid.Row="3"
-                                Grid.Column="1"
-                                Text="{Binding Direccion}" />
-                            <Label Grid.Row="4" Text="Monto a Pagar:" />
-                            <Label
-                                Grid.Row="4"
-                                Grid.Column="1"
-                                Text="{Binding Monto}" />
-                            <Label Grid.Row="5" Text="Plazo:" />
-                            <Label
-                                Grid.Row="5"
-                                Grid.Column="1"
-                                Text="{Binding Plazo}" />
+                                Text="{Binding Fecha}" />-->
+                          <Button
+                                x:Name="btnDetalleMulta"
+                                Grid.Row="0"
+
+                                Grid.ColumnSpan="2"
+                                BackgroundColor="#7dbde5"
+                                Clicked="btnDetalleMulta_Clicked"
+                                HorizontalOptions="FillAndExpand"
+                                Text="Detalle"
+                                VerticalOptions="FillAndExpand" />
                         </Grid>
                     </DataTemplate>
                 </xuni:FlexGridDetailProvider>

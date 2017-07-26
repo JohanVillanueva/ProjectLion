@@ -14,10 +14,7 @@ namespace ProjectLion.iOS
         {
 			// if you want to use a different Application Delegate class from "AppDelegate"
 			// you can specify it here.
-			UITabBar.Appearance.BarTintColor = UIColor.FromRGB(0x91, 0xCA, 0x47); // green
-																				  // switch
-			UINavigationBar.Appearance.BackgroundColor = UIColor.FromRGB(0x91, 0xCA, 0x47); // green
-
+			
 			UIApplication.Main(args, null, "AppDelegate");
         }
     }

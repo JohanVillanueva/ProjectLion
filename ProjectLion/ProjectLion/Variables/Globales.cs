@@ -34,8 +34,7 @@ namespace ProjectLion.Variables
             new MultaViewMenuItem {imageUrl="mapa.png",   Id = 2, Title = "Puntos de control", TargetType=typeof(Mapa) },
             new MultaViewMenuItem {imageUrl="deuda.png",  Id = 3, Title = "Resumen de deudas", TargetType=typeof(Resumen) },
             new MultaViewMenuItem {imageUrl="contacto.png", Id = 4, Title = "Contacto", TargetType=typeof(Contacto) },
-            new MultaViewMenuItem {imageUrl="lupaicon.png", Id = 5, Title = "Reportes", TargetType=typeof(PieChartReport)},
-            new MultaViewMenuItem {imageUrl="logout.png", Id = 6, Title = "Cerrar Sesión", TargetType=typeof(int) }
+            new MultaViewMenuItem {imageUrl="logout.png", Id = 5, Title = "Cerrar Sesión", TargetType=typeof(int) }
         });
     }
 }

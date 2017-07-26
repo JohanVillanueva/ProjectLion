@@ -7579,1937 +7579,6 @@ namespace ProjectLion.Droid
 			global::Xuni.Forms.FlexGrid.Platform.Android.Resource.Styleable.ViewStubCompat_android_id = global::ProjectLion.Droid.Resource.Styleable.ViewStubCompat_android_id;
 			global::Xuni.Forms.FlexGrid.Platform.Android.Resource.Styleable.ViewStubCompat_android_inflatedId = global::ProjectLion.Droid.Resource.Styleable.ViewStubCompat_android_inflatedId;
 			global::Xuni.Forms.FlexGrid.Platform.Android.Resource.Styleable.ViewStubCompat_android_layout = global::ProjectLion.Droid.Resource.Styleable.ViewStubCompat_android_layout;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Animation.abc_fade_in = global::ProjectLion.Droid.Resource.Animation.abc_fade_in;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Animation.abc_fade_out = global::ProjectLion.Droid.Resource.Animation.abc_fade_out;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Animation.abc_grow_fade_in_from_bottom = global::ProjectLion.Droid.Resource.Animation.abc_grow_fade_in_from_bottom;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Animation.abc_popup_enter = global::ProjectLion.Droid.Resource.Animation.abc_popup_enter;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Animation.abc_popup_exit = global::ProjectLion.Droid.Resource.Animation.abc_popup_exit;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Animation.abc_shrink_fade_out_from_bottom = global::ProjectLion.Droid.Resource.Animation.abc_shrink_fade_out_from_bottom;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Animation.abc_slide_in_bottom = global::ProjectLion.Droid.Resource.Animation.abc_slide_in_bottom;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Animation.abc_slide_in_top = global::ProjectLion.Droid.Resource.Animation.abc_slide_in_top;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Animation.abc_slide_out_bottom = global::ProjectLion.Droid.Resource.Animation.abc_slide_out_bottom;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Animation.abc_slide_out_top = global::ProjectLion.Droid.Resource.Animation.abc_slide_out_top;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Animation.design_bottom_sheet_slide_in = global::ProjectLion.Droid.Resource.Animation.design_bottom_sheet_slide_in;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Animation.design_bottom_sheet_slide_out = global::ProjectLion.Droid.Resource.Animation.design_bottom_sheet_slide_out;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Animation.design_fab_in = global::ProjectLion.Droid.Resource.Animation.design_fab_in;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Animation.design_fab_out = global::ProjectLion.Droid.Resource.Animation.design_fab_out;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Animation.design_snackbar_in = global::ProjectLion.Droid.Resource.Animation.design_snackbar_in;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Animation.design_snackbar_out = global::ProjectLion.Droid.Resource.Animation.design_snackbar_out;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Array.flexPieCerulanPalette = global::ProjectLion.Droid.Resource.Array.flexPieCerulanPalette;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Array.flexPieCocoaPalette = global::ProjectLion.Droid.Resource.Array.flexPieCocoaPalette;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Array.flexPieCoralPalette = global::ProjectLion.Droid.Resource.Array.flexPieCoralPalette;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Array.flexPieCyborgPalette = global::ProjectLion.Droid.Resource.Array.flexPieCyborgPalette;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Array.flexPieDarkPalette = global::ProjectLion.Droid.Resource.Array.flexPieDarkPalette;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Array.flexPieDarklyPalette = global::ProjectLion.Droid.Resource.Array.flexPieDarklyPalette;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Array.flexPieDefaultflexPiePalette = global::ProjectLion.Droid.Resource.Array.flexPieDefaultflexPiePalette;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Array.flexPieFlatlyPalette = global::ProjectLion.Droid.Resource.Array.flexPieFlatlyPalette;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Array.flexPieHighConstrastPalette = global::ProjectLion.Droid.Resource.Array.flexPieHighConstrastPalette;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Array.flexPieLightPalette = global::ProjectLion.Droid.Resource.Array.flexPieLightPalette;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Array.flexPieMaterialPalette = global::ProjectLion.Droid.Resource.Array.flexPieMaterialPalette;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Array.flexPieMidnightPalette = global::ProjectLion.Droid.Resource.Array.flexPieMidnightPalette;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Array.flexPieMinimalPalette = global::ProjectLion.Droid.Resource.Array.flexPieMinimalPalette;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Array.flexPieModernPalette = global::ProjectLion.Droid.Resource.Array.flexPieModernPalette;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Array.flexPieOrganicPalette = global::ProjectLion.Droid.Resource.Array.flexPieOrganicPalette;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Array.flexPieSlatePalette = global::ProjectLion.Droid.Resource.Array.flexPieSlatePalette;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Array.flexPieSuperheroPalette = global::ProjectLion.Droid.Resource.Array.flexPieSuperheroPalette;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.MediaRouteControllerWindowBackground = global::ProjectLion.Droid.Resource.Attribute.MediaRouteControllerWindowBackground;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.actionBarDivider = global::ProjectLion.Droid.Resource.Attribute.actionBarDivider;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.actionBarItemBackground = global::ProjectLion.Droid.Resource.Attribute.actionBarItemBackground;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.actionBarPopupTheme = global::ProjectLion.Droid.Resource.Attribute.actionBarPopupTheme;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.actionBarSize = global::ProjectLion.Droid.Resource.Attribute.actionBarSize;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.actionBarSplitStyle = global::ProjectLion.Droid.Resource.Attribute.actionBarSplitStyle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.actionBarStyle = global::ProjectLion.Droid.Resource.Attribute.actionBarStyle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.actionBarTabBarStyle = global::ProjectLion.Droid.Resource.Attribute.actionBarTabBarStyle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.actionBarTabStyle = global::ProjectLion.Droid.Resource.Attribute.actionBarTabStyle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.actionBarTabTextStyle = global::ProjectLion.Droid.Resource.Attribute.actionBarTabTextStyle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.actionBarTheme = global::ProjectLion.Droid.Resource.Attribute.actionBarTheme;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.actionBarWidgetTheme = global::ProjectLion.Droid.Resource.Attribute.actionBarWidgetTheme;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.actionButtonStyle = global::ProjectLion.Droid.Resource.Attribute.actionButtonStyle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.actionDropDownStyle = global::ProjectLion.Droid.Resource.Attribute.actionDropDownStyle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.actionLayout = global::ProjectLion.Droid.Resource.Attribute.actionLayout;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.actionMenuTextAppearance = global::ProjectLion.Droid.Resource.Attribute.actionMenuTextAppearance;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.actionMenuTextColor = global::ProjectLion.Droid.Resource.Attribute.actionMenuTextColor;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.actionModeBackground = global::ProjectLion.Droid.Resource.Attribute.actionModeBackground;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.actionModeCloseButtonStyle = global::ProjectLion.Droid.Resource.Attribute.actionModeCloseButtonStyle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.actionModeCloseDrawable = global::ProjectLion.Droid.Resource.Attribute.actionModeCloseDrawable;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.actionModeCopyDrawable = global::ProjectLion.Droid.Resource.Attribute.actionModeCopyDrawable;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.actionModeCutDrawable = global::ProjectLion.Droid.Resource.Attribute.actionModeCutDrawable;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.actionModeFindDrawable = global::ProjectLion.Droid.Resource.Attribute.actionModeFindDrawable;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.actionModePasteDrawable = global::ProjectLion.Droid.Resource.Attribute.actionModePasteDrawable;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.actionModePopupWindowStyle = global::ProjectLion.Droid.Resource.Attribute.actionModePopupWindowStyle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.actionModeSelectAllDrawable = global::ProjectLion.Droid.Resource.Attribute.actionModeSelectAllDrawable;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.actionModeShareDrawable = global::ProjectLion.Droid.Resource.Attribute.actionModeShareDrawable;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.actionModeSplitBackground = global::ProjectLion.Droid.Resource.Attribute.actionModeSplitBackground;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.actionModeStyle = global::ProjectLion.Droid.Resource.Attribute.actionModeStyle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.actionModeWebSearchDrawable = global::ProjectLion.Droid.Resource.Attribute.actionModeWebSearchDrawable;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.actionOverflowButtonStyle = global::ProjectLion.Droid.Resource.Attribute.actionOverflowButtonStyle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.actionOverflowMenuStyle = global::ProjectLion.Droid.Resource.Attribute.actionOverflowMenuStyle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.actionProviderClass = global::ProjectLion.Droid.Resource.Attribute.actionProviderClass;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.actionViewClass = global::ProjectLion.Droid.Resource.Attribute.actionViewClass;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.activityChooserViewStyle = global::ProjectLion.Droid.Resource.Attribute.activityChooserViewStyle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.alertDialogButtonGroupStyle = global::ProjectLion.Droid.Resource.Attribute.alertDialogButtonGroupStyle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.alertDialogCenterButtons = global::ProjectLion.Droid.Resource.Attribute.alertDialogCenterButtons;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.alertDialogStyle = global::ProjectLion.Droid.Resource.Attribute.alertDialogStyle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.alertDialogTheme = global::ProjectLion.Droid.Resource.Attribute.alertDialogTheme;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.allowStacking = global::ProjectLion.Droid.Resource.Attribute.allowStacking;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.arrowHeadLength = global::ProjectLion.Droid.Resource.Attribute.arrowHeadLength;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.arrowShaftLength = global::ProjectLion.Droid.Resource.Attribute.arrowShaftLength;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.autoCompleteTextViewStyle = global::ProjectLion.Droid.Resource.Attribute.autoCompleteTextViewStyle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.background = global::ProjectLion.Droid.Resource.Attribute.background;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.backgroundSplit = global::ProjectLion.Droid.Resource.Attribute.backgroundSplit;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.backgroundStacked = global::ProjectLion.Droid.Resource.Attribute.backgroundStacked;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.backgroundTint = global::ProjectLion.Droid.Resource.Attribute.backgroundTint;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.backgroundTintMode = global::ProjectLion.Droid.Resource.Attribute.backgroundTintMode;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.barLength = global::ProjectLion.Droid.Resource.Attribute.barLength;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.behavior_hideable = global::ProjectLion.Droid.Resource.Attribute.behavior_hideable;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.behavior_overlapTop = global::ProjectLion.Droid.Resource.Attribute.behavior_overlapTop;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.behavior_peekHeight = global::ProjectLion.Droid.Resource.Attribute.behavior_peekHeight;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.borderWidth = global::ProjectLion.Droid.Resource.Attribute.borderWidth;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.borderlessButtonStyle = global::ProjectLion.Droid.Resource.Attribute.borderlessButtonStyle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.bottomSheetDialogTheme = global::ProjectLion.Droid.Resource.Attribute.bottomSheetDialogTheme;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.bottomSheetStyle = global::ProjectLion.Droid.Resource.Attribute.bottomSheetStyle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.buttonBarButtonStyle = global::ProjectLion.Droid.Resource.Attribute.buttonBarButtonStyle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.buttonBarNegativeButtonStyle = global::ProjectLion.Droid.Resource.Attribute.buttonBarNegativeButtonStyle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.buttonBarNeutralButtonStyle = global::ProjectLion.Droid.Resource.Attribute.buttonBarNeutralButtonStyle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.buttonBarPositiveButtonStyle = global::ProjectLion.Droid.Resource.Attribute.buttonBarPositiveButtonStyle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.buttonBarStyle = global::ProjectLion.Droid.Resource.Attribute.buttonBarStyle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.buttonPanelSideLayout = global::ProjectLion.Droid.Resource.Attribute.buttonPanelSideLayout;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.buttonStyle = global::ProjectLion.Droid.Resource.Attribute.buttonStyle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.buttonStyleSmall = global::ProjectLion.Droid.Resource.Attribute.buttonStyleSmall;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.buttonTint = global::ProjectLion.Droid.Resource.Attribute.buttonTint;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.buttonTintMode = global::ProjectLion.Droid.Resource.Attribute.buttonTintMode;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.cardBackgroundColor = global::ProjectLion.Droid.Resource.Attribute.cardBackgroundColor;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.cardCornerRadius = global::ProjectLion.Droid.Resource.Attribute.cardCornerRadius;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.cardElevation = global::ProjectLion.Droid.Resource.Attribute.cardElevation;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.cardMaxElevation = global::ProjectLion.Droid.Resource.Attribute.cardMaxElevation;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.cardPreventCornerOverlap = global::ProjectLion.Droid.Resource.Attribute.cardPreventCornerOverlap;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.cardUseCompatPadding = global::ProjectLion.Droid.Resource.Attribute.cardUseCompatPadding;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.checkboxStyle = global::ProjectLion.Droid.Resource.Attribute.checkboxStyle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.checkedTextViewStyle = global::ProjectLion.Droid.Resource.Attribute.checkedTextViewStyle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.closeIcon = global::ProjectLion.Droid.Resource.Attribute.closeIcon;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.closeItemLayout = global::ProjectLion.Droid.Resource.Attribute.closeItemLayout;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.collapseContentDescription = global::ProjectLion.Droid.Resource.Attribute.collapseContentDescription;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.collapseIcon = global::ProjectLion.Droid.Resource.Attribute.collapseIcon;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.collapsedTitleGravity = global::ProjectLion.Droid.Resource.Attribute.collapsedTitleGravity;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.collapsedTitleTextAppearance = global::ProjectLion.Droid.Resource.Attribute.collapsedTitleTextAppearance;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.color = global::ProjectLion.Droid.Resource.Attribute.color;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.colorAccent = global::ProjectLion.Droid.Resource.Attribute.colorAccent;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.colorButtonNormal = global::ProjectLion.Droid.Resource.Attribute.colorButtonNormal;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.colorControlActivated = global::ProjectLion.Droid.Resource.Attribute.colorControlActivated;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.colorControlHighlight = global::ProjectLion.Droid.Resource.Attribute.colorControlHighlight;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.colorControlNormal = global::ProjectLion.Droid.Resource.Attribute.colorControlNormal;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.colorPrimary = global::ProjectLion.Droid.Resource.Attribute.colorPrimary;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.colorPrimaryDark = global::ProjectLion.Droid.Resource.Attribute.colorPrimaryDark;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.colorSwitchThumbNormal = global::ProjectLion.Droid.Resource.Attribute.colorSwitchThumbNormal;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.commitIcon = global::ProjectLion.Droid.Resource.Attribute.commitIcon;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.contentInsetEnd = global::ProjectLion.Droid.Resource.Attribute.contentInsetEnd;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.contentInsetLeft = global::ProjectLion.Droid.Resource.Attribute.contentInsetLeft;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.contentInsetRight = global::ProjectLion.Droid.Resource.Attribute.contentInsetRight;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.contentInsetStart = global::ProjectLion.Droid.Resource.Attribute.contentInsetStart;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.contentPadding = global::ProjectLion.Droid.Resource.Attribute.contentPadding;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.contentPaddingBottom = global::ProjectLion.Droid.Resource.Attribute.contentPaddingBottom;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.contentPaddingLeft = global::ProjectLion.Droid.Resource.Attribute.contentPaddingLeft;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.contentPaddingRight = global::ProjectLion.Droid.Resource.Attribute.contentPaddingRight;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.contentPaddingTop = global::ProjectLion.Droid.Resource.Attribute.contentPaddingTop;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.contentScrim = global::ProjectLion.Droid.Resource.Attribute.contentScrim;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.controlBackground = global::ProjectLion.Droid.Resource.Attribute.controlBackground;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.counterEnabled = global::ProjectLion.Droid.Resource.Attribute.counterEnabled;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.counterMaxLength = global::ProjectLion.Droid.Resource.Attribute.counterMaxLength;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.counterOverflowTextAppearance = global::ProjectLion.Droid.Resource.Attribute.counterOverflowTextAppearance;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.counterTextAppearance = global::ProjectLion.Droid.Resource.Attribute.counterTextAppearance;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.customNavigationLayout = global::ProjectLion.Droid.Resource.Attribute.customNavigationLayout;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.defaultQueryHint = global::ProjectLion.Droid.Resource.Attribute.defaultQueryHint;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.dialogPreferredPadding = global::ProjectLion.Droid.Resource.Attribute.dialogPreferredPadding;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.dialogTheme = global::ProjectLion.Droid.Resource.Attribute.dialogTheme;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.displayOptions = global::ProjectLion.Droid.Resource.Attribute.displayOptions;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.divider = global::ProjectLion.Droid.Resource.Attribute.divider;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.dividerHorizontal = global::ProjectLion.Droid.Resource.Attribute.dividerHorizontal;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.dividerPadding = global::ProjectLion.Droid.Resource.Attribute.dividerPadding;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.dividerVertical = global::ProjectLion.Droid.Resource.Attribute.dividerVertical;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.drawableSize = global::ProjectLion.Droid.Resource.Attribute.drawableSize;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.drawerArrowStyle = global::ProjectLion.Droid.Resource.Attribute.drawerArrowStyle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.dropDownListViewStyle = global::ProjectLion.Droid.Resource.Attribute.dropDownListViewStyle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.dropdownListPreferredItemHeight = global::ProjectLion.Droid.Resource.Attribute.dropdownListPreferredItemHeight;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.editTextBackground = global::ProjectLion.Droid.Resource.Attribute.editTextBackground;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.editTextColor = global::ProjectLion.Droid.Resource.Attribute.editTextColor;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.editTextStyle = global::ProjectLion.Droid.Resource.Attribute.editTextStyle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.elevation = global::ProjectLion.Droid.Resource.Attribute.elevation;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.errorEnabled = global::ProjectLion.Droid.Resource.Attribute.errorEnabled;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.errorTextAppearance = global::ProjectLion.Droid.Resource.Attribute.errorTextAppearance;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.expandActivityOverflowButtonDrawable = global::ProjectLion.Droid.Resource.Attribute.expandActivityOverflowButtonDrawable;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.expanded = global::ProjectLion.Droid.Resource.Attribute.expanded;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.expandedTitleGravity = global::ProjectLion.Droid.Resource.Attribute.expandedTitleGravity;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.expandedTitleMargin = global::ProjectLion.Droid.Resource.Attribute.expandedTitleMargin;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.expandedTitleMarginBottom = global::ProjectLion.Droid.Resource.Attribute.expandedTitleMarginBottom;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.expandedTitleMarginEnd = global::ProjectLion.Droid.Resource.Attribute.expandedTitleMarginEnd;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.expandedTitleMarginStart = global::ProjectLion.Droid.Resource.Attribute.expandedTitleMarginStart;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.expandedTitleMarginTop = global::ProjectLion.Droid.Resource.Attribute.expandedTitleMarginTop;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.expandedTitleTextAppearance = global::ProjectLion.Droid.Resource.Attribute.expandedTitleTextAppearance;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.externalRouteEnabledDrawable = global::ProjectLion.Droid.Resource.Attribute.externalRouteEnabledDrawable;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.fabSize = global::ProjectLion.Droid.Resource.Attribute.fabSize;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.flexPie_animated = global::ProjectLion.Droid.Resource.Attribute.flexPie_animated;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.flexPie_backgroundColor = global::ProjectLion.Droid.Resource.Attribute.flexPie_backgroundColor;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.flexPie_binding = global::ProjectLion.Droid.Resource.Attribute.flexPie_binding;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.flexPie_bindingName = global::ProjectLion.Droid.Resource.Attribute.flexPie_bindingName;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.flexPie_borderColor = global::ProjectLion.Droid.Resource.Attribute.flexPie_borderColor;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.flexPie_borderWidth = global::ProjectLion.Droid.Resource.Attribute.flexPie_borderWidth;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.flexPie_datalabel_FontColor = global::ProjectLion.Droid.Resource.Attribute.flexPie_datalabel_FontColor;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.flexPie_datalabel_FontSize = global::ProjectLion.Droid.Resource.Attribute.flexPie_datalabel_FontSize;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.flexPie_datalabel_FontTypeface = global::ProjectLion.Droid.Resource.Attribute.flexPie_datalabel_FontTypeface;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.flexPie_datalabel_FontWeight = global::ProjectLion.Droid.Resource.Attribute.flexPie_datalabel_FontWeight;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.flexPie_datalabel_backgroundColor = global::ProjectLion.Droid.Resource.Attribute.flexPie_datalabel_backgroundColor;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.flexPie_datalabel_borderColor = global::ProjectLion.Droid.Resource.Attribute.flexPie_datalabel_borderColor;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.flexPie_datalabel_borderWidth = global::ProjectLion.Droid.Resource.Attribute.flexPie_datalabel_borderWidth;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.flexPie_datalabel_position = global::ProjectLion.Droid.Resource.Attribute.flexPie_datalabel_position;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.flexPie_footer = global::ProjectLion.Droid.Resource.Attribute.flexPie_footer;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.flexPie_footerFontColor = global::ProjectLion.Droid.Resource.Attribute.flexPie_footerFontColor;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.flexPie_footerFontGravity = global::ProjectLion.Droid.Resource.Attribute.flexPie_footerFontGravity;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.flexPie_footerFontSize = global::ProjectLion.Droid.Resource.Attribute.flexPie_footerFontSize;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.flexPie_footerFontTypeface = global::ProjectLion.Droid.Resource.Attribute.flexPie_footerFontTypeface;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.flexPie_footerFontWeight = global::ProjectLion.Droid.Resource.Attribute.flexPie_footerFontWeight;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.flexPie_header = global::ProjectLion.Droid.Resource.Attribute.flexPie_header;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.flexPie_headerFontColor = global::ProjectLion.Droid.Resource.Attribute.flexPie_headerFontColor;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.flexPie_headerFontGravity = global::ProjectLion.Droid.Resource.Attribute.flexPie_headerFontGravity;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.flexPie_headerFontSize = global::ProjectLion.Droid.Resource.Attribute.flexPie_headerFontSize;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.flexPie_headerFontTypeface = global::ProjectLion.Droid.Resource.Attribute.flexPie_headerFontTypeface;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.flexPie_headerFontWeight = global::ProjectLion.Droid.Resource.Attribute.flexPie_headerFontWeight;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.flexPie_innerRadius = global::ProjectLion.Droid.Resource.Attribute.flexPie_innerRadius;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.flexPie_legend_FontColor = global::ProjectLion.Droid.Resource.Attribute.flexPie_legend_FontColor;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.flexPie_legend_FontSize = global::ProjectLion.Droid.Resource.Attribute.flexPie_legend_FontSize;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.flexPie_legend_FontTypeface = global::ProjectLion.Droid.Resource.Attribute.flexPie_legend_FontTypeface;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.flexPie_legend_FontWeight = global::ProjectLion.Droid.Resource.Attribute.flexPie_legend_FontWeight;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.flexPie_legend_backgroundColor = global::ProjectLion.Droid.Resource.Attribute.flexPie_legend_backgroundColor;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.flexPie_legend_borderColor = global::ProjectLion.Droid.Resource.Attribute.flexPie_legend_borderColor;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.flexPie_legend_borderWidth = global::ProjectLion.Droid.Resource.Attribute.flexPie_legend_borderWidth;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.flexPie_legend_orientation = global::ProjectLion.Droid.Resource.Attribute.flexPie_legend_orientation;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.flexPie_legend_position = global::ProjectLion.Droid.Resource.Attribute.flexPie_legend_position;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.flexPie_loadAnimation_duration = global::ProjectLion.Droid.Resource.Attribute.flexPie_loadAnimation_duration;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.flexPie_loadAnimation_loadAnimationMode = global::ProjectLion.Droid.Resource.Attribute.flexPie_loadAnimation_loadAnimationMode;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.flexPie_loadAnimation_startDelay = global::ProjectLion.Droid.Resource.Attribute.flexPie_loadAnimation_startDelay;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.flexPie_offset = global::ProjectLion.Droid.Resource.Attribute.flexPie_offset;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.flexPie_palette = global::ProjectLion.Droid.Resource.Attribute.flexPie_palette;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.flexPie_plotAreabackgroundColor = global::ProjectLion.Droid.Resource.Attribute.flexPie_plotAreabackgroundColor;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.flexPie_reversed = global::ProjectLion.Droid.Resource.Attribute.flexPie_reversed;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.flexPie_selectAnimation_duration = global::ProjectLion.Droid.Resource.Attribute.flexPie_selectAnimation_duration;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.flexPie_selectAnimation_startDelay = global::ProjectLion.Droid.Resource.Attribute.flexPie_selectAnimation_startDelay;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.flexPie_selectedBorderColor = global::ProjectLion.Droid.Resource.Attribute.flexPie_selectedBorderColor;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.flexPie_selectedBorderWidth = global::ProjectLion.Droid.Resource.Attribute.flexPie_selectedBorderWidth;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.flexPie_selectedItemOffset = global::ProjectLion.Droid.Resource.Attribute.flexPie_selectedItemOffset;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.flexPie_selectedItemPosition = global::ProjectLion.Droid.Resource.Attribute.flexPie_selectedItemPosition;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.flexPie_selectionMode = global::ProjectLion.Droid.Resource.Attribute.flexPie_selectionMode;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.flexPie_sliceBorderWidth = global::ProjectLion.Droid.Resource.Attribute.flexPie_sliceBorderWidth;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.flexPie_startAngle = global::ProjectLion.Droid.Resource.Attribute.flexPie_startAngle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.flexPie_updateAnimation_duration = global::ProjectLion.Droid.Resource.Attribute.flexPie_updateAnimation_duration;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.flexPie_updateAnimation_startDelay = global::ProjectLion.Droid.Resource.Attribute.flexPie_updateAnimation_startDelay;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.foregroundInsidePadding = global::ProjectLion.Droid.Resource.Attribute.foregroundInsidePadding;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.gapBetweenBars = global::ProjectLion.Droid.Resource.Attribute.gapBetweenBars;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.goIcon = global::ProjectLion.Droid.Resource.Attribute.goIcon;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.headerLayout = global::ProjectLion.Droid.Resource.Attribute.headerLayout;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.height = global::ProjectLion.Droid.Resource.Attribute.height;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.hideOnContentScroll = global::ProjectLion.Droid.Resource.Attribute.hideOnContentScroll;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.hintAnimationEnabled = global::ProjectLion.Droid.Resource.Attribute.hintAnimationEnabled;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.hintEnabled = global::ProjectLion.Droid.Resource.Attribute.hintEnabled;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.hintTextAppearance = global::ProjectLion.Droid.Resource.Attribute.hintTextAppearance;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.homeAsUpIndicator = global::ProjectLion.Droid.Resource.Attribute.homeAsUpIndicator;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.homeLayout = global::ProjectLion.Droid.Resource.Attribute.homeLayout;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.icon = global::ProjectLion.Droid.Resource.Attribute.icon;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.iconifiedByDefault = global::ProjectLion.Droid.Resource.Attribute.iconifiedByDefault;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.imageButtonStyle = global::ProjectLion.Droid.Resource.Attribute.imageButtonStyle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.indeterminateProgressStyle = global::ProjectLion.Droid.Resource.Attribute.indeterminateProgressStyle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.initialActivityCount = global::ProjectLion.Droid.Resource.Attribute.initialActivityCount;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.insetForeground = global::ProjectLion.Droid.Resource.Attribute.insetForeground;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.isLightTheme = global::ProjectLion.Droid.Resource.Attribute.isLightTheme;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.itemBackground = global::ProjectLion.Droid.Resource.Attribute.itemBackground;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.itemIconTint = global::ProjectLion.Droid.Resource.Attribute.itemIconTint;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.itemPadding = global::ProjectLion.Droid.Resource.Attribute.itemPadding;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.itemTextAppearance = global::ProjectLion.Droid.Resource.Attribute.itemTextAppearance;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.itemTextColor = global::ProjectLion.Droid.Resource.Attribute.itemTextColor;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.keylines = global::ProjectLion.Droid.Resource.Attribute.keylines;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.layout = global::ProjectLion.Droid.Resource.Attribute.layout;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.layoutManager = global::ProjectLion.Droid.Resource.Attribute.layoutManager;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.layout_anchor = global::ProjectLion.Droid.Resource.Attribute.layout_anchor;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.layout_anchorGravity = global::ProjectLion.Droid.Resource.Attribute.layout_anchorGravity;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.layout_behavior = global::ProjectLion.Droid.Resource.Attribute.layout_behavior;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.layout_collapseMode = global::ProjectLion.Droid.Resource.Attribute.layout_collapseMode;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.layout_collapseParallaxMultiplier = global::ProjectLion.Droid.Resource.Attribute.layout_collapseParallaxMultiplier;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.layout_keyline = global::ProjectLion.Droid.Resource.Attribute.layout_keyline;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.layout_scrollFlags = global::ProjectLion.Droid.Resource.Attribute.layout_scrollFlags;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.layout_scrollInterpolator = global::ProjectLion.Droid.Resource.Attribute.layout_scrollInterpolator;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.listChoiceBackgroundIndicator = global::ProjectLion.Droid.Resource.Attribute.listChoiceBackgroundIndicator;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.listDividerAlertDialog = global::ProjectLion.Droid.Resource.Attribute.listDividerAlertDialog;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.listItemLayout = global::ProjectLion.Droid.Resource.Attribute.listItemLayout;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.listLayout = global::ProjectLion.Droid.Resource.Attribute.listLayout;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.listPopupWindowStyle = global::ProjectLion.Droid.Resource.Attribute.listPopupWindowStyle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.listPreferredItemHeight = global::ProjectLion.Droid.Resource.Attribute.listPreferredItemHeight;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.listPreferredItemHeightLarge = global::ProjectLion.Droid.Resource.Attribute.listPreferredItemHeightLarge;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.listPreferredItemHeightSmall = global::ProjectLion.Droid.Resource.Attribute.listPreferredItemHeightSmall;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.listPreferredItemPaddingLeft = global::ProjectLion.Droid.Resource.Attribute.listPreferredItemPaddingLeft;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.listPreferredItemPaddingRight = global::ProjectLion.Droid.Resource.Attribute.listPreferredItemPaddingRight;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.logo = global::ProjectLion.Droid.Resource.Attribute.logo;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.logoDescription = global::ProjectLion.Droid.Resource.Attribute.logoDescription;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.maxActionInlineWidth = global::ProjectLion.Droid.Resource.Attribute.maxActionInlineWidth;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.maxButtonHeight = global::ProjectLion.Droid.Resource.Attribute.maxButtonHeight;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.measureWithLargestChild = global::ProjectLion.Droid.Resource.Attribute.measureWithLargestChild;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.mediaRouteAudioTrackDrawable = global::ProjectLion.Droid.Resource.Attribute.mediaRouteAudioTrackDrawable;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.mediaRouteBluetoothIconDrawable = global::ProjectLion.Droid.Resource.Attribute.mediaRouteBluetoothIconDrawable;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.mediaRouteButtonStyle = global::ProjectLion.Droid.Resource.Attribute.mediaRouteButtonStyle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.mediaRouteCastDrawable = global::ProjectLion.Droid.Resource.Attribute.mediaRouteCastDrawable;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.mediaRouteChooserPrimaryTextStyle = global::ProjectLion.Droid.Resource.Attribute.mediaRouteChooserPrimaryTextStyle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.mediaRouteChooserSecondaryTextStyle = global::ProjectLion.Droid.Resource.Attribute.mediaRouteChooserSecondaryTextStyle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.mediaRouteCloseDrawable = global::ProjectLion.Droid.Resource.Attribute.mediaRouteCloseDrawable;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.mediaRouteCollapseGroupDrawable = global::ProjectLion.Droid.Resource.Attribute.mediaRouteCollapseGroupDrawable;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.mediaRouteConnectingDrawable = global::ProjectLion.Droid.Resource.Attribute.mediaRouteConnectingDrawable;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.mediaRouteControllerPrimaryTextStyle = global::ProjectLion.Droid.Resource.Attribute.mediaRouteControllerPrimaryTextStyle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.mediaRouteControllerSecondaryTextStyle = global::ProjectLion.Droid.Resource.Attribute.mediaRouteControllerSecondaryTextStyle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.mediaRouteControllerTitleTextStyle = global::ProjectLion.Droid.Resource.Attribute.mediaRouteControllerTitleTextStyle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.mediaRouteDefaultIconDrawable = global::ProjectLion.Droid.Resource.Attribute.mediaRouteDefaultIconDrawable;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.mediaRouteExpandGroupDrawable = global::ProjectLion.Droid.Resource.Attribute.mediaRouteExpandGroupDrawable;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.mediaRouteOffDrawable = global::ProjectLion.Droid.Resource.Attribute.mediaRouteOffDrawable;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.mediaRouteOnDrawable = global::ProjectLion.Droid.Resource.Attribute.mediaRouteOnDrawable;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.mediaRoutePauseDrawable = global::ProjectLion.Droid.Resource.Attribute.mediaRoutePauseDrawable;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.mediaRoutePlayDrawable = global::ProjectLion.Droid.Resource.Attribute.mediaRoutePlayDrawable;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.mediaRouteSpeakerGroupIconDrawable = global::ProjectLion.Droid.Resource.Attribute.mediaRouteSpeakerGroupIconDrawable;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.mediaRouteSpeakerIconDrawable = global::ProjectLion.Droid.Resource.Attribute.mediaRouteSpeakerIconDrawable;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.mediaRouteTvIconDrawable = global::ProjectLion.Droid.Resource.Attribute.mediaRouteTvIconDrawable;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.menu = global::ProjectLion.Droid.Resource.Attribute.menu;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.multiChoiceItemLayout = global::ProjectLion.Droid.Resource.Attribute.multiChoiceItemLayout;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.navigationContentDescription = global::ProjectLion.Droid.Resource.Attribute.navigationContentDescription;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.navigationIcon = global::ProjectLion.Droid.Resource.Attribute.navigationIcon;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.navigationMode = global::ProjectLion.Droid.Resource.Attribute.navigationMode;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.overlapAnchor = global::ProjectLion.Droid.Resource.Attribute.overlapAnchor;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.paddingEnd = global::ProjectLion.Droid.Resource.Attribute.paddingEnd;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.paddingStart = global::ProjectLion.Droid.Resource.Attribute.paddingStart;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.panelBackground = global::ProjectLion.Droid.Resource.Attribute.panelBackground;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.panelMenuListTheme = global::ProjectLion.Droid.Resource.Attribute.panelMenuListTheme;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.panelMenuListWidth = global::ProjectLion.Droid.Resource.Attribute.panelMenuListWidth;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.popupMenuStyle = global::ProjectLion.Droid.Resource.Attribute.popupMenuStyle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.popupTheme = global::ProjectLion.Droid.Resource.Attribute.popupTheme;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.popupWindowStyle = global::ProjectLion.Droid.Resource.Attribute.popupWindowStyle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.preserveIconSpacing = global::ProjectLion.Droid.Resource.Attribute.preserveIconSpacing;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.pressedTranslationZ = global::ProjectLion.Droid.Resource.Attribute.pressedTranslationZ;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.progressBarPadding = global::ProjectLion.Droid.Resource.Attribute.progressBarPadding;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.progressBarStyle = global::ProjectLion.Droid.Resource.Attribute.progressBarStyle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.queryBackground = global::ProjectLion.Droid.Resource.Attribute.queryBackground;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.queryHint = global::ProjectLion.Droid.Resource.Attribute.queryHint;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.radioButtonStyle = global::ProjectLion.Droid.Resource.Attribute.radioButtonStyle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.ratingBarStyle = global::ProjectLion.Droid.Resource.Attribute.ratingBarStyle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.ratingBarStyleIndicator = global::ProjectLion.Droid.Resource.Attribute.ratingBarStyleIndicator;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.ratingBarStyleSmall = global::ProjectLion.Droid.Resource.Attribute.ratingBarStyleSmall;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.reverseLayout = global::ProjectLion.Droid.Resource.Attribute.reverseLayout;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.rippleColor = global::ProjectLion.Droid.Resource.Attribute.rippleColor;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.searchHintIcon = global::ProjectLion.Droid.Resource.Attribute.searchHintIcon;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.searchIcon = global::ProjectLion.Droid.Resource.Attribute.searchIcon;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.searchViewStyle = global::ProjectLion.Droid.Resource.Attribute.searchViewStyle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.seekBarStyle = global::ProjectLion.Droid.Resource.Attribute.seekBarStyle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.selectableItemBackground = global::ProjectLion.Droid.Resource.Attribute.selectableItemBackground;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.selectableItemBackgroundBorderless = global::ProjectLion.Droid.Resource.Attribute.selectableItemBackgroundBorderless;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.showAsAction = global::ProjectLion.Droid.Resource.Attribute.showAsAction;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.showDividers = global::ProjectLion.Droid.Resource.Attribute.showDividers;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.showText = global::ProjectLion.Droid.Resource.Attribute.showText;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.singleChoiceItemLayout = global::ProjectLion.Droid.Resource.Attribute.singleChoiceItemLayout;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.spanCount = global::ProjectLion.Droid.Resource.Attribute.spanCount;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.spinBars = global::ProjectLion.Droid.Resource.Attribute.spinBars;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.spinnerDropDownItemStyle = global::ProjectLion.Droid.Resource.Attribute.spinnerDropDownItemStyle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.spinnerStyle = global::ProjectLion.Droid.Resource.Attribute.spinnerStyle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.splitTrack = global::ProjectLion.Droid.Resource.Attribute.splitTrack;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.srcCompat = global::ProjectLion.Droid.Resource.Attribute.srcCompat;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.stackFromEnd = global::ProjectLion.Droid.Resource.Attribute.stackFromEnd;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.state_above_anchor = global::ProjectLion.Droid.Resource.Attribute.state_above_anchor;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.statusBarBackground = global::ProjectLion.Droid.Resource.Attribute.statusBarBackground;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.statusBarScrim = global::ProjectLion.Droid.Resource.Attribute.statusBarScrim;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.submitBackground = global::ProjectLion.Droid.Resource.Attribute.submitBackground;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.subtitle = global::ProjectLion.Droid.Resource.Attribute.subtitle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.subtitleTextAppearance = global::ProjectLion.Droid.Resource.Attribute.subtitleTextAppearance;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.subtitleTextColor = global::ProjectLion.Droid.Resource.Attribute.subtitleTextColor;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.subtitleTextStyle = global::ProjectLion.Droid.Resource.Attribute.subtitleTextStyle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.suggestionRowLayout = global::ProjectLion.Droid.Resource.Attribute.suggestionRowLayout;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.switchMinWidth = global::ProjectLion.Droid.Resource.Attribute.switchMinWidth;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.switchPadding = global::ProjectLion.Droid.Resource.Attribute.switchPadding;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.switchStyle = global::ProjectLion.Droid.Resource.Attribute.switchStyle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.switchTextAppearance = global::ProjectLion.Droid.Resource.Attribute.switchTextAppearance;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.tabBackground = global::ProjectLion.Droid.Resource.Attribute.tabBackground;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.tabContentStart = global::ProjectLion.Droid.Resource.Attribute.tabContentStart;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.tabGravity = global::ProjectLion.Droid.Resource.Attribute.tabGravity;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.tabIndicatorColor = global::ProjectLion.Droid.Resource.Attribute.tabIndicatorColor;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.tabIndicatorHeight = global::ProjectLion.Droid.Resource.Attribute.tabIndicatorHeight;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.tabMaxWidth = global::ProjectLion.Droid.Resource.Attribute.tabMaxWidth;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.tabMinWidth = global::ProjectLion.Droid.Resource.Attribute.tabMinWidth;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.tabMode = global::ProjectLion.Droid.Resource.Attribute.tabMode;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.tabPadding = global::ProjectLion.Droid.Resource.Attribute.tabPadding;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.tabPaddingBottom = global::ProjectLion.Droid.Resource.Attribute.tabPaddingBottom;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.tabPaddingEnd = global::ProjectLion.Droid.Resource.Attribute.tabPaddingEnd;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.tabPaddingStart = global::ProjectLion.Droid.Resource.Attribute.tabPaddingStart;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.tabPaddingTop = global::ProjectLion.Droid.Resource.Attribute.tabPaddingTop;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.tabSelectedTextColor = global::ProjectLion.Droid.Resource.Attribute.tabSelectedTextColor;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.tabTextAppearance = global::ProjectLion.Droid.Resource.Attribute.tabTextAppearance;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.tabTextColor = global::ProjectLion.Droid.Resource.Attribute.tabTextColor;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.textAllCaps = global::ProjectLion.Droid.Resource.Attribute.textAllCaps;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.textAppearanceLargePopupMenu = global::ProjectLion.Droid.Resource.Attribute.textAppearanceLargePopupMenu;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.textAppearanceListItem = global::ProjectLion.Droid.Resource.Attribute.textAppearanceListItem;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.textAppearanceListItemSmall = global::ProjectLion.Droid.Resource.Attribute.textAppearanceListItemSmall;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.textAppearanceSearchResultSubtitle = global::ProjectLion.Droid.Resource.Attribute.textAppearanceSearchResultSubtitle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.textAppearanceSearchResultTitle = global::ProjectLion.Droid.Resource.Attribute.textAppearanceSearchResultTitle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.textAppearanceSmallPopupMenu = global::ProjectLion.Droid.Resource.Attribute.textAppearanceSmallPopupMenu;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.textColorAlertDialogListItem = global::ProjectLion.Droid.Resource.Attribute.textColorAlertDialogListItem;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.textColorError = global::ProjectLion.Droid.Resource.Attribute.textColorError;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.textColorSearchUrl = global::ProjectLion.Droid.Resource.Attribute.textColorSearchUrl;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.theme = global::ProjectLion.Droid.Resource.Attribute.theme;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.thickness = global::ProjectLion.Droid.Resource.Attribute.thickness;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.thumbTextPadding = global::ProjectLion.Droid.Resource.Attribute.thumbTextPadding;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.title = global::ProjectLion.Droid.Resource.Attribute.title;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.titleEnabled = global::ProjectLion.Droid.Resource.Attribute.titleEnabled;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.titleMarginBottom = global::ProjectLion.Droid.Resource.Attribute.titleMarginBottom;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.titleMarginEnd = global::ProjectLion.Droid.Resource.Attribute.titleMarginEnd;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.titleMarginStart = global::ProjectLion.Droid.Resource.Attribute.titleMarginStart;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.titleMarginTop = global::ProjectLion.Droid.Resource.Attribute.titleMarginTop;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.titleMargins = global::ProjectLion.Droid.Resource.Attribute.titleMargins;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.titleTextAppearance = global::ProjectLion.Droid.Resource.Attribute.titleTextAppearance;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.titleTextColor = global::ProjectLion.Droid.Resource.Attribute.titleTextColor;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.titleTextStyle = global::ProjectLion.Droid.Resource.Attribute.titleTextStyle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.toolbarId = global::ProjectLion.Droid.Resource.Attribute.toolbarId;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.toolbarNavigationButtonStyle = global::ProjectLion.Droid.Resource.Attribute.toolbarNavigationButtonStyle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.toolbarStyle = global::ProjectLion.Droid.Resource.Attribute.toolbarStyle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.track = global::ProjectLion.Droid.Resource.Attribute.track;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.useCompatPadding = global::ProjectLion.Droid.Resource.Attribute.useCompatPadding;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.voiceIcon = global::ProjectLion.Droid.Resource.Attribute.voiceIcon;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.windowActionBar = global::ProjectLion.Droid.Resource.Attribute.windowActionBar;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.windowActionBarOverlay = global::ProjectLion.Droid.Resource.Attribute.windowActionBarOverlay;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.windowActionModeOverlay = global::ProjectLion.Droid.Resource.Attribute.windowActionModeOverlay;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.windowFixedHeightMajor = global::ProjectLion.Droid.Resource.Attribute.windowFixedHeightMajor;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.windowFixedHeightMinor = global::ProjectLion.Droid.Resource.Attribute.windowFixedHeightMinor;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.windowFixedWidthMajor = global::ProjectLion.Droid.Resource.Attribute.windowFixedWidthMajor;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.windowFixedWidthMinor = global::ProjectLion.Droid.Resource.Attribute.windowFixedWidthMinor;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.windowMinWidthMajor = global::ProjectLion.Droid.Resource.Attribute.windowMinWidthMajor;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.windowMinWidthMinor = global::ProjectLion.Droid.Resource.Attribute.windowMinWidthMinor;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Attribute.windowNoTitle = global::ProjectLion.Droid.Resource.Attribute.windowNoTitle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Boolean.abc_action_bar_embed_tabs = global::ProjectLion.Droid.Resource.Boolean.abc_action_bar_embed_tabs;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Boolean.abc_action_bar_embed_tabs_pre_jb = global::ProjectLion.Droid.Resource.Boolean.abc_action_bar_embed_tabs_pre_jb;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Boolean.abc_action_bar_expanded_action_views_exclusive = global::ProjectLion.Droid.Resource.Boolean.abc_action_bar_expanded_action_views_exclusive;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Boolean.abc_allow_stacked_button_bar = global::ProjectLion.Droid.Resource.Boolean.abc_allow_stacked_button_bar;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Boolean.abc_config_actionMenuItemAllCaps = global::ProjectLion.Droid.Resource.Boolean.abc_config_actionMenuItemAllCaps;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Boolean.abc_config_allowActionMenuItemTextWithIcon = global::ProjectLion.Droid.Resource.Boolean.abc_config_allowActionMenuItemTextWithIcon;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Boolean.abc_config_closeDialogWhenTouchOutside = global::ProjectLion.Droid.Resource.Boolean.abc_config_closeDialogWhenTouchOutside;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Boolean.abc_config_showMenuShortcutsWhenKeyboardPresent = global::ProjectLion.Droid.Resource.Boolean.abc_config_showMenuShortcutsWhenKeyboardPresent;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Color.abc_background_cache_hint_selector_material_dark = global::ProjectLion.Droid.Resource.Color.abc_background_cache_hint_selector_material_dark;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Color.abc_background_cache_hint_selector_material_light = global::ProjectLion.Droid.Resource.Color.abc_background_cache_hint_selector_material_light;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Color.abc_input_method_navigation_guard = global::ProjectLion.Droid.Resource.Color.abc_input_method_navigation_guard;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Color.abc_primary_text_disable_only_material_dark = global::ProjectLion.Droid.Resource.Color.abc_primary_text_disable_only_material_dark;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Color.abc_primary_text_disable_only_material_light = global::ProjectLion.Droid.Resource.Color.abc_primary_text_disable_only_material_light;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Color.abc_primary_text_material_dark = global::ProjectLion.Droid.Resource.Color.abc_primary_text_material_dark;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Color.abc_primary_text_material_light = global::ProjectLion.Droid.Resource.Color.abc_primary_text_material_light;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Color.abc_search_url_text = global::ProjectLion.Droid.Resource.Color.abc_search_url_text;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Color.abc_search_url_text_normal = global::ProjectLion.Droid.Resource.Color.abc_search_url_text_normal;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Color.abc_search_url_text_pressed = global::ProjectLion.Droid.Resource.Color.abc_search_url_text_pressed;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Color.abc_search_url_text_selected = global::ProjectLion.Droid.Resource.Color.abc_search_url_text_selected;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Color.abc_secondary_text_material_dark = global::ProjectLion.Droid.Resource.Color.abc_secondary_text_material_dark;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Color.abc_secondary_text_material_light = global::ProjectLion.Droid.Resource.Color.abc_secondary_text_material_light;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Color.accent_material_dark = global::ProjectLion.Droid.Resource.Color.accent_material_dark;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Color.accent_material_light = global::ProjectLion.Droid.Resource.Color.accent_material_light;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Color.background_floating_material_dark = global::ProjectLion.Droid.Resource.Color.background_floating_material_dark;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Color.background_floating_material_light = global::ProjectLion.Droid.Resource.Color.background_floating_material_light;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Color.background_material_dark = global::ProjectLion.Droid.Resource.Color.background_material_dark;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Color.background_material_light = global::ProjectLion.Droid.Resource.Color.background_material_light;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Color.bright_foreground_disabled_material_dark = global::ProjectLion.Droid.Resource.Color.bright_foreground_disabled_material_dark;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Color.bright_foreground_disabled_material_light = global::ProjectLion.Droid.Resource.Color.bright_foreground_disabled_material_light;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Color.bright_foreground_inverse_material_dark = global::ProjectLion.Droid.Resource.Color.bright_foreground_inverse_material_dark;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Color.bright_foreground_inverse_material_light = global::ProjectLion.Droid.Resource.Color.bright_foreground_inverse_material_light;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Color.bright_foreground_material_dark = global::ProjectLion.Droid.Resource.Color.bright_foreground_material_dark;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Color.bright_foreground_material_light = global::ProjectLion.Droid.Resource.Color.bright_foreground_material_light;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Color.button_material_dark = global::ProjectLion.Droid.Resource.Color.button_material_dark;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Color.button_material_light = global::ProjectLion.Droid.Resource.Color.button_material_light;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Color.cardview_dark_background = global::ProjectLion.Droid.Resource.Color.cardview_dark_background;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Color.cardview_light_background = global::ProjectLion.Droid.Resource.Color.cardview_light_background;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Color.cardview_shadow_end_color = global::ProjectLion.Droid.Resource.Color.cardview_shadow_end_color;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Color.cardview_shadow_start_color = global::ProjectLion.Droid.Resource.Color.cardview_shadow_start_color;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Color.design_fab_shadow_end_color = global::ProjectLion.Droid.Resource.Color.design_fab_shadow_end_color;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Color.design_fab_shadow_mid_color = global::ProjectLion.Droid.Resource.Color.design_fab_shadow_mid_color;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Color.design_fab_shadow_start_color = global::ProjectLion.Droid.Resource.Color.design_fab_shadow_start_color;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Color.design_fab_stroke_end_inner_color = global::ProjectLion.Droid.Resource.Color.design_fab_stroke_end_inner_color;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Color.design_fab_stroke_end_outer_color = global::ProjectLion.Droid.Resource.Color.design_fab_stroke_end_outer_color;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Color.design_fab_stroke_top_inner_color = global::ProjectLion.Droid.Resource.Color.design_fab_stroke_top_inner_color;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Color.design_fab_stroke_top_outer_color = global::ProjectLion.Droid.Resource.Color.design_fab_stroke_top_outer_color;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Color.design_snackbar_background_color = global::ProjectLion.Droid.Resource.Color.design_snackbar_background_color;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Color.design_textinput_error_color_dark = global::ProjectLion.Droid.Resource.Color.design_textinput_error_color_dark;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Color.design_textinput_error_color_light = global::ProjectLion.Droid.Resource.Color.design_textinput_error_color_light;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Color.dim_foreground_disabled_material_dark = global::ProjectLion.Droid.Resource.Color.dim_foreground_disabled_material_dark;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Color.dim_foreground_disabled_material_light = global::ProjectLion.Droid.Resource.Color.dim_foreground_disabled_material_light;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Color.dim_foreground_material_dark = global::ProjectLion.Droid.Resource.Color.dim_foreground_material_dark;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Color.dim_foreground_material_light = global::ProjectLion.Droid.Resource.Color.dim_foreground_material_light;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Color.foreground_material_dark = global::ProjectLion.Droid.Resource.Color.foreground_material_dark;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Color.foreground_material_light = global::ProjectLion.Droid.Resource.Color.foreground_material_light;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Color.highlighted_text_material_dark = global::ProjectLion.Droid.Resource.Color.highlighted_text_material_dark;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Color.highlighted_text_material_light = global::ProjectLion.Droid.Resource.Color.highlighted_text_material_light;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Color.hint_foreground_material_dark = global::ProjectLion.Droid.Resource.Color.hint_foreground_material_dark;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Color.hint_foreground_material_light = global::ProjectLion.Droid.Resource.Color.hint_foreground_material_light;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Color.material_blue_grey_800 = global::ProjectLion.Droid.Resource.Color.material_blue_grey_800;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Color.material_blue_grey_900 = global::ProjectLion.Droid.Resource.Color.material_blue_grey_900;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Color.material_blue_grey_950 = global::ProjectLion.Droid.Resource.Color.material_blue_grey_950;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Color.material_deep_teal_200 = global::ProjectLion.Droid.Resource.Color.material_deep_teal_200;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Color.material_deep_teal_500 = global::ProjectLion.Droid.Resource.Color.material_deep_teal_500;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Color.material_grey_100 = global::ProjectLion.Droid.Resource.Color.material_grey_100;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Color.material_grey_300 = global::ProjectLion.Droid.Resource.Color.material_grey_300;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Color.material_grey_50 = global::ProjectLion.Droid.Resource.Color.material_grey_50;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Color.material_grey_600 = global::ProjectLion.Droid.Resource.Color.material_grey_600;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Color.material_grey_800 = global::ProjectLion.Droid.Resource.Color.material_grey_800;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Color.material_grey_850 = global::ProjectLion.Droid.Resource.Color.material_grey_850;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Color.material_grey_900 = global::ProjectLion.Droid.Resource.Color.material_grey_900;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Color.primary_dark_material_dark = global::ProjectLion.Droid.Resource.Color.primary_dark_material_dark;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Color.primary_dark_material_light = global::ProjectLion.Droid.Resource.Color.primary_dark_material_light;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Color.primary_material_dark = global::ProjectLion.Droid.Resource.Color.primary_material_dark;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Color.primary_material_light = global::ProjectLion.Droid.Resource.Color.primary_material_light;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Color.primary_text_default_material_dark = global::ProjectLion.Droid.Resource.Color.primary_text_default_material_dark;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Color.primary_text_default_material_light = global::ProjectLion.Droid.Resource.Color.primary_text_default_material_light;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Color.primary_text_disabled_material_dark = global::ProjectLion.Droid.Resource.Color.primary_text_disabled_material_dark;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Color.primary_text_disabled_material_light = global::ProjectLion.Droid.Resource.Color.primary_text_disabled_material_light;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Color.ripple_material_dark = global::ProjectLion.Droid.Resource.Color.ripple_material_dark;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Color.ripple_material_light = global::ProjectLion.Droid.Resource.Color.ripple_material_light;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Color.secondary_text_default_material_dark = global::ProjectLion.Droid.Resource.Color.secondary_text_default_material_dark;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Color.secondary_text_default_material_light = global::ProjectLion.Droid.Resource.Color.secondary_text_default_material_light;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Color.secondary_text_disabled_material_dark = global::ProjectLion.Droid.Resource.Color.secondary_text_disabled_material_dark;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Color.secondary_text_disabled_material_light = global::ProjectLion.Droid.Resource.Color.secondary_text_disabled_material_light;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Color.switch_thumb_disabled_material_dark = global::ProjectLion.Droid.Resource.Color.switch_thumb_disabled_material_dark;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Color.switch_thumb_disabled_material_light = global::ProjectLion.Droid.Resource.Color.switch_thumb_disabled_material_light;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Color.switch_thumb_material_dark = global::ProjectLion.Droid.Resource.Color.switch_thumb_material_dark;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Color.switch_thumb_material_light = global::ProjectLion.Droid.Resource.Color.switch_thumb_material_light;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Color.switch_thumb_normal_material_dark = global::ProjectLion.Droid.Resource.Color.switch_thumb_normal_material_dark;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Color.switch_thumb_normal_material_light = global::ProjectLion.Droid.Resource.Color.switch_thumb_normal_material_light;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Dimension.abc_action_bar_content_inset_material = global::ProjectLion.Droid.Resource.Dimension.abc_action_bar_content_inset_material;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Dimension.abc_action_bar_default_height_material = global::ProjectLion.Droid.Resource.Dimension.abc_action_bar_default_height_material;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Dimension.abc_action_bar_default_padding_end_material = global::ProjectLion.Droid.Resource.Dimension.abc_action_bar_default_padding_end_material;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Dimension.abc_action_bar_default_padding_start_material = global::ProjectLion.Droid.Resource.Dimension.abc_action_bar_default_padding_start_material;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Dimension.abc_action_bar_icon_vertical_padding_material = global::ProjectLion.Droid.Resource.Dimension.abc_action_bar_icon_vertical_padding_material;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Dimension.abc_action_bar_overflow_padding_end_material = global::ProjectLion.Droid.Resource.Dimension.abc_action_bar_overflow_padding_end_material;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Dimension.abc_action_bar_overflow_padding_start_material = global::ProjectLion.Droid.Resource.Dimension.abc_action_bar_overflow_padding_start_material;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Dimension.abc_action_bar_progress_bar_size = global::ProjectLion.Droid.Resource.Dimension.abc_action_bar_progress_bar_size;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Dimension.abc_action_bar_stacked_max_height = global::ProjectLion.Droid.Resource.Dimension.abc_action_bar_stacked_max_height;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Dimension.abc_action_bar_stacked_tab_max_width = global::ProjectLion.Droid.Resource.Dimension.abc_action_bar_stacked_tab_max_width;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material = global::ProjectLion.Droid.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Dimension.abc_action_bar_subtitle_top_margin_material = global::ProjectLion.Droid.Resource.Dimension.abc_action_bar_subtitle_top_margin_material;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Dimension.abc_action_button_min_height_material = global::ProjectLion.Droid.Resource.Dimension.abc_action_button_min_height_material;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Dimension.abc_action_button_min_width_material = global::ProjectLion.Droid.Resource.Dimension.abc_action_button_min_width_material;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Dimension.abc_action_button_min_width_overflow_material = global::ProjectLion.Droid.Resource.Dimension.abc_action_button_min_width_overflow_material;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Dimension.abc_alert_dialog_button_bar_height = global::ProjectLion.Droid.Resource.Dimension.abc_alert_dialog_button_bar_height;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Dimension.abc_button_inset_horizontal_material = global::ProjectLion.Droid.Resource.Dimension.abc_button_inset_horizontal_material;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Dimension.abc_button_inset_vertical_material = global::ProjectLion.Droid.Resource.Dimension.abc_button_inset_vertical_material;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Dimension.abc_button_padding_horizontal_material = global::ProjectLion.Droid.Resource.Dimension.abc_button_padding_horizontal_material;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Dimension.abc_button_padding_vertical_material = global::ProjectLion.Droid.Resource.Dimension.abc_button_padding_vertical_material;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Dimension.abc_config_prefDialogWidth = global::ProjectLion.Droid.Resource.Dimension.abc_config_prefDialogWidth;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Dimension.abc_control_corner_material = global::ProjectLion.Droid.Resource.Dimension.abc_control_corner_material;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Dimension.abc_control_inset_material = global::ProjectLion.Droid.Resource.Dimension.abc_control_inset_material;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Dimension.abc_control_padding_material = global::ProjectLion.Droid.Resource.Dimension.abc_control_padding_material;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Dimension.abc_dialog_fixed_height_major = global::ProjectLion.Droid.Resource.Dimension.abc_dialog_fixed_height_major;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Dimension.abc_dialog_fixed_height_minor = global::ProjectLion.Droid.Resource.Dimension.abc_dialog_fixed_height_minor;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Dimension.abc_dialog_fixed_width_major = global::ProjectLion.Droid.Resource.Dimension.abc_dialog_fixed_width_major;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Dimension.abc_dialog_fixed_width_minor = global::ProjectLion.Droid.Resource.Dimension.abc_dialog_fixed_width_minor;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Dimension.abc_dialog_list_padding_vertical_material = global::ProjectLion.Droid.Resource.Dimension.abc_dialog_list_padding_vertical_material;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Dimension.abc_dialog_min_width_major = global::ProjectLion.Droid.Resource.Dimension.abc_dialog_min_width_major;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Dimension.abc_dialog_min_width_minor = global::ProjectLion.Droid.Resource.Dimension.abc_dialog_min_width_minor;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Dimension.abc_dialog_padding_material = global::ProjectLion.Droid.Resource.Dimension.abc_dialog_padding_material;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Dimension.abc_dialog_padding_top_material = global::ProjectLion.Droid.Resource.Dimension.abc_dialog_padding_top_material;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Dimension.abc_disabled_alpha_material_dark = global::ProjectLion.Droid.Resource.Dimension.abc_disabled_alpha_material_dark;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Dimension.abc_disabled_alpha_material_light = global::ProjectLion.Droid.Resource.Dimension.abc_disabled_alpha_material_light;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Dimension.abc_dropdownitem_icon_width = global::ProjectLion.Droid.Resource.Dimension.abc_dropdownitem_icon_width;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Dimension.abc_dropdownitem_text_padding_left = global::ProjectLion.Droid.Resource.Dimension.abc_dropdownitem_text_padding_left;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Dimension.abc_dropdownitem_text_padding_right = global::ProjectLion.Droid.Resource.Dimension.abc_dropdownitem_text_padding_right;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Dimension.abc_edit_text_inset_bottom_material = global::ProjectLion.Droid.Resource.Dimension.abc_edit_text_inset_bottom_material;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Dimension.abc_edit_text_inset_horizontal_material = global::ProjectLion.Droid.Resource.Dimension.abc_edit_text_inset_horizontal_material;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Dimension.abc_edit_text_inset_top_material = global::ProjectLion.Droid.Resource.Dimension.abc_edit_text_inset_top_material;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Dimension.abc_floating_window_z = global::ProjectLion.Droid.Resource.Dimension.abc_floating_window_z;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Dimension.abc_list_item_padding_horizontal_material = global::ProjectLion.Droid.Resource.Dimension.abc_list_item_padding_horizontal_material;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Dimension.abc_panel_menu_list_width = global::ProjectLion.Droid.Resource.Dimension.abc_panel_menu_list_width;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Dimension.abc_search_view_preferred_width = global::ProjectLion.Droid.Resource.Dimension.abc_search_view_preferred_width;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Dimension.abc_search_view_text_min_width = global::ProjectLion.Droid.Resource.Dimension.abc_search_view_text_min_width;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Dimension.abc_seekbar_track_background_height_material = global::ProjectLion.Droid.Resource.Dimension.abc_seekbar_track_background_height_material;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Dimension.abc_seekbar_track_progress_height_material = global::ProjectLion.Droid.Resource.Dimension.abc_seekbar_track_progress_height_material;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Dimension.abc_select_dialog_padding_start_material = global::ProjectLion.Droid.Resource.Dimension.abc_select_dialog_padding_start_material;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Dimension.abc_switch_padding = global::ProjectLion.Droid.Resource.Dimension.abc_switch_padding;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Dimension.abc_text_size_body_1_material = global::ProjectLion.Droid.Resource.Dimension.abc_text_size_body_1_material;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Dimension.abc_text_size_body_2_material = global::ProjectLion.Droid.Resource.Dimension.abc_text_size_body_2_material;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Dimension.abc_text_size_button_material = global::ProjectLion.Droid.Resource.Dimension.abc_text_size_button_material;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Dimension.abc_text_size_caption_material = global::ProjectLion.Droid.Resource.Dimension.abc_text_size_caption_material;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Dimension.abc_text_size_display_1_material = global::ProjectLion.Droid.Resource.Dimension.abc_text_size_display_1_material;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Dimension.abc_text_size_display_2_material = global::ProjectLion.Droid.Resource.Dimension.abc_text_size_display_2_material;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Dimension.abc_text_size_display_3_material = global::ProjectLion.Droid.Resource.Dimension.abc_text_size_display_3_material;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Dimension.abc_text_size_display_4_material = global::ProjectLion.Droid.Resource.Dimension.abc_text_size_display_4_material;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Dimension.abc_text_size_headline_material = global::ProjectLion.Droid.Resource.Dimension.abc_text_size_headline_material;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Dimension.abc_text_size_large_material = global::ProjectLion.Droid.Resource.Dimension.abc_text_size_large_material;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Dimension.abc_text_size_medium_material = global::ProjectLion.Droid.Resource.Dimension.abc_text_size_medium_material;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Dimension.abc_text_size_menu_material = global::ProjectLion.Droid.Resource.Dimension.abc_text_size_menu_material;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Dimension.abc_text_size_small_material = global::ProjectLion.Droid.Resource.Dimension.abc_text_size_small_material;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Dimension.abc_text_size_subhead_material = global::ProjectLion.Droid.Resource.Dimension.abc_text_size_subhead_material;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Dimension.abc_text_size_subtitle_material_toolbar = global::ProjectLion.Droid.Resource.Dimension.abc_text_size_subtitle_material_toolbar;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Dimension.abc_text_size_title_material = global::ProjectLion.Droid.Resource.Dimension.abc_text_size_title_material;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Dimension.abc_text_size_title_material_toolbar = global::ProjectLion.Droid.Resource.Dimension.abc_text_size_title_material_toolbar;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Dimension.cardview_compat_inset_shadow = global::ProjectLion.Droid.Resource.Dimension.cardview_compat_inset_shadow;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Dimension.cardview_default_elevation = global::ProjectLion.Droid.Resource.Dimension.cardview_default_elevation;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Dimension.cardview_default_radius = global::ProjectLion.Droid.Resource.Dimension.cardview_default_radius;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Dimension.design_appbar_elevation = global::ProjectLion.Droid.Resource.Dimension.design_appbar_elevation;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Dimension.design_bottom_sheet_modal_elevation = global::ProjectLion.Droid.Resource.Dimension.design_bottom_sheet_modal_elevation;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Dimension.design_bottom_sheet_modal_peek_height = global::ProjectLion.Droid.Resource.Dimension.design_bottom_sheet_modal_peek_height;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Dimension.design_fab_border_width = global::ProjectLion.Droid.Resource.Dimension.design_fab_border_width;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Dimension.design_fab_elevation = global::ProjectLion.Droid.Resource.Dimension.design_fab_elevation;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Dimension.design_fab_image_size = global::ProjectLion.Droid.Resource.Dimension.design_fab_image_size;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Dimension.design_fab_size_mini = global::ProjectLion.Droid.Resource.Dimension.design_fab_size_mini;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Dimension.design_fab_size_normal = global::ProjectLion.Droid.Resource.Dimension.design_fab_size_normal;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Dimension.design_fab_translation_z_pressed = global::ProjectLion.Droid.Resource.Dimension.design_fab_translation_z_pressed;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Dimension.design_navigation_elevation = global::ProjectLion.Droid.Resource.Dimension.design_navigation_elevation;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Dimension.design_navigation_icon_padding = global::ProjectLion.Droid.Resource.Dimension.design_navigation_icon_padding;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Dimension.design_navigation_icon_size = global::ProjectLion.Droid.Resource.Dimension.design_navigation_icon_size;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Dimension.design_navigation_max_width = global::ProjectLion.Droid.Resource.Dimension.design_navigation_max_width;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Dimension.design_navigation_padding_bottom = global::ProjectLion.Droid.Resource.Dimension.design_navigation_padding_bottom;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Dimension.design_navigation_separator_vertical_padding = global::ProjectLion.Droid.Resource.Dimension.design_navigation_separator_vertical_padding;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Dimension.design_snackbar_action_inline_max_width = global::ProjectLion.Droid.Resource.Dimension.design_snackbar_action_inline_max_width;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Dimension.design_snackbar_background_corner_radius = global::ProjectLion.Droid.Resource.Dimension.design_snackbar_background_corner_radius;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Dimension.design_snackbar_elevation = global::ProjectLion.Droid.Resource.Dimension.design_snackbar_elevation;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Dimension.design_snackbar_extra_spacing_horizontal = global::ProjectLion.Droid.Resource.Dimension.design_snackbar_extra_spacing_horizontal;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Dimension.design_snackbar_max_width = global::ProjectLion.Droid.Resource.Dimension.design_snackbar_max_width;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Dimension.design_snackbar_min_width = global::ProjectLion.Droid.Resource.Dimension.design_snackbar_min_width;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Dimension.design_snackbar_padding_horizontal = global::ProjectLion.Droid.Resource.Dimension.design_snackbar_padding_horizontal;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Dimension.design_snackbar_padding_vertical = global::ProjectLion.Droid.Resource.Dimension.design_snackbar_padding_vertical;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Dimension.design_snackbar_padding_vertical_2lines = global::ProjectLion.Droid.Resource.Dimension.design_snackbar_padding_vertical_2lines;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Dimension.design_snackbar_text_size = global::ProjectLion.Droid.Resource.Dimension.design_snackbar_text_size;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Dimension.design_tab_max_width = global::ProjectLion.Droid.Resource.Dimension.design_tab_max_width;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Dimension.design_tab_scrollable_min_width = global::ProjectLion.Droid.Resource.Dimension.design_tab_scrollable_min_width;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Dimension.design_tab_text_size = global::ProjectLion.Droid.Resource.Dimension.design_tab_text_size;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Dimension.design_tab_text_size_2line = global::ProjectLion.Droid.Resource.Dimension.design_tab_text_size_2line;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Dimension.disabled_alpha_material_dark = global::ProjectLion.Droid.Resource.Dimension.disabled_alpha_material_dark;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Dimension.disabled_alpha_material_light = global::ProjectLion.Droid.Resource.Dimension.disabled_alpha_material_light;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Dimension.highlight_alpha_material_colored = global::ProjectLion.Droid.Resource.Dimension.highlight_alpha_material_colored;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Dimension.highlight_alpha_material_dark = global::ProjectLion.Droid.Resource.Dimension.highlight_alpha_material_dark;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Dimension.highlight_alpha_material_light = global::ProjectLion.Droid.Resource.Dimension.highlight_alpha_material_light;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame = global::ProjectLion.Droid.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity = global::ProjectLion.Droid.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Dimension.item_touch_helper_swipe_escape_velocity = global::ProjectLion.Droid.Resource.Dimension.item_touch_helper_swipe_escape_velocity;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Dimension.mr_controller_volume_group_list_item_height = global::ProjectLion.Droid.Resource.Dimension.mr_controller_volume_group_list_item_height;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Dimension.mr_controller_volume_group_list_item_icon_size = global::ProjectLion.Droid.Resource.Dimension.mr_controller_volume_group_list_item_icon_size;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Dimension.mr_controller_volume_group_list_max_height = global::ProjectLion.Droid.Resource.Dimension.mr_controller_volume_group_list_max_height;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Dimension.mr_controller_volume_group_list_padding_top = global::ProjectLion.Droid.Resource.Dimension.mr_controller_volume_group_list_padding_top;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Dimension.mr_dialog_fixed_width_major = global::ProjectLion.Droid.Resource.Dimension.mr_dialog_fixed_width_major;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Dimension.mr_dialog_fixed_width_minor = global::ProjectLion.Droid.Resource.Dimension.mr_dialog_fixed_width_minor;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Dimension.notification_large_icon_height = global::ProjectLion.Droid.Resource.Dimension.notification_large_icon_height;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Dimension.notification_large_icon_width = global::ProjectLion.Droid.Resource.Dimension.notification_large_icon_width;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Dimension.notification_subtext_size = global::ProjectLion.Droid.Resource.Dimension.notification_subtext_size;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.abc_ab_share_pack_mtrl_alpha = global::ProjectLion.Droid.Resource.Drawable.abc_ab_share_pack_mtrl_alpha;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.abc_action_bar_item_background_material = global::ProjectLion.Droid.Resource.Drawable.abc_action_bar_item_background_material;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.abc_btn_borderless_material = global::ProjectLion.Droid.Resource.Drawable.abc_btn_borderless_material;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.abc_btn_check_material = global::ProjectLion.Droid.Resource.Drawable.abc_btn_check_material;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.abc_btn_check_to_on_mtrl_000 = global::ProjectLion.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_000;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.abc_btn_check_to_on_mtrl_015 = global::ProjectLion.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_015;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.abc_btn_colored_material = global::ProjectLion.Droid.Resource.Drawable.abc_btn_colored_material;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.abc_btn_default_mtrl_shape = global::ProjectLion.Droid.Resource.Drawable.abc_btn_default_mtrl_shape;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.abc_btn_radio_material = global::ProjectLion.Droid.Resource.Drawable.abc_btn_radio_material;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.abc_btn_radio_to_on_mtrl_000 = global::ProjectLion.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_000;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.abc_btn_radio_to_on_mtrl_015 = global::ProjectLion.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_015;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.abc_btn_rating_star_off_mtrl_alpha = global::ProjectLion.Droid.Resource.Drawable.abc_btn_rating_star_off_mtrl_alpha;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.abc_btn_rating_star_on_mtrl_alpha = global::ProjectLion.Droid.Resource.Drawable.abc_btn_rating_star_on_mtrl_alpha;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001 = global::ProjectLion.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012 = global::ProjectLion.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.abc_cab_background_internal_bg = global::ProjectLion.Droid.Resource.Drawable.abc_cab_background_internal_bg;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.abc_cab_background_top_material = global::ProjectLion.Droid.Resource.Drawable.abc_cab_background_top_material;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.abc_cab_background_top_mtrl_alpha = global::ProjectLion.Droid.Resource.Drawable.abc_cab_background_top_mtrl_alpha;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.abc_dialog_material_background_dark = global::ProjectLion.Droid.Resource.Drawable.abc_dialog_material_background_dark;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.abc_dialog_material_background_light = global::ProjectLion.Droid.Resource.Drawable.abc_dialog_material_background_light;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.abc_edit_text_material = global::ProjectLion.Droid.Resource.Drawable.abc_edit_text_material;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.abc_ic_ab_back_mtrl_am_alpha = global::ProjectLion.Droid.Resource.Drawable.abc_ic_ab_back_mtrl_am_alpha;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.abc_ic_clear_mtrl_alpha = global::ProjectLion.Droid.Resource.Drawable.abc_ic_clear_mtrl_alpha;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha = global::ProjectLion.Droid.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.abc_ic_go_search_api_mtrl_alpha = global::ProjectLion.Droid.Resource.Drawable.abc_ic_go_search_api_mtrl_alpha;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha = global::ProjectLion.Droid.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha = global::ProjectLion.Droid.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.abc_ic_menu_moreoverflow_mtrl_alpha = global::ProjectLion.Droid.Resource.Drawable.abc_ic_menu_moreoverflow_mtrl_alpha;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha = global::ProjectLion.Droid.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha = global::ProjectLion.Droid.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.abc_ic_menu_share_mtrl_alpha = global::ProjectLion.Droid.Resource.Drawable.abc_ic_menu_share_mtrl_alpha;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.abc_ic_search_api_mtrl_alpha = global::ProjectLion.Droid.Resource.Drawable.abc_ic_search_api_mtrl_alpha;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.abc_ic_star_black_16dp = global::ProjectLion.Droid.Resource.Drawable.abc_ic_star_black_16dp;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.abc_ic_star_black_36dp = global::ProjectLion.Droid.Resource.Drawable.abc_ic_star_black_36dp;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.abc_ic_star_half_black_16dp = global::ProjectLion.Droid.Resource.Drawable.abc_ic_star_half_black_16dp;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.abc_ic_star_half_black_36dp = global::ProjectLion.Droid.Resource.Drawable.abc_ic_star_half_black_36dp;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.abc_ic_voice_search_api_mtrl_alpha = global::ProjectLion.Droid.Resource.Drawable.abc_ic_voice_search_api_mtrl_alpha;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.abc_item_background_holo_dark = global::ProjectLion.Droid.Resource.Drawable.abc_item_background_holo_dark;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.abc_item_background_holo_light = global::ProjectLion.Droid.Resource.Drawable.abc_item_background_holo_light;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.abc_list_divider_mtrl_alpha = global::ProjectLion.Droid.Resource.Drawable.abc_list_divider_mtrl_alpha;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.abc_list_focused_holo = global::ProjectLion.Droid.Resource.Drawable.abc_list_focused_holo;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.abc_list_longpressed_holo = global::ProjectLion.Droid.Resource.Drawable.abc_list_longpressed_holo;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.abc_list_pressed_holo_dark = global::ProjectLion.Droid.Resource.Drawable.abc_list_pressed_holo_dark;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.abc_list_pressed_holo_light = global::ProjectLion.Droid.Resource.Drawable.abc_list_pressed_holo_light;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.abc_list_selector_background_transition_holo_dark = global::ProjectLion.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_dark;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.abc_list_selector_background_transition_holo_light = global::ProjectLion.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_light;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.abc_list_selector_disabled_holo_dark = global::ProjectLion.Droid.Resource.Drawable.abc_list_selector_disabled_holo_dark;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.abc_list_selector_disabled_holo_light = global::ProjectLion.Droid.Resource.Drawable.abc_list_selector_disabled_holo_light;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.abc_list_selector_holo_dark = global::ProjectLion.Droid.Resource.Drawable.abc_list_selector_holo_dark;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.abc_list_selector_holo_light = global::ProjectLion.Droid.Resource.Drawable.abc_list_selector_holo_light;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult = global::ProjectLion.Droid.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.abc_popup_background_mtrl_mult = global::ProjectLion.Droid.Resource.Drawable.abc_popup_background_mtrl_mult;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.abc_ratingbar_full_material = global::ProjectLion.Droid.Resource.Drawable.abc_ratingbar_full_material;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.abc_ratingbar_indicator_material = global::ProjectLion.Droid.Resource.Drawable.abc_ratingbar_indicator_material;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.abc_ratingbar_small_material = global::ProjectLion.Droid.Resource.Drawable.abc_ratingbar_small_material;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha = global::ProjectLion.Droid.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000 = global::ProjectLion.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005 = global::ProjectLion.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.abc_scrubber_primary_mtrl_alpha = global::ProjectLion.Droid.Resource.Drawable.abc_scrubber_primary_mtrl_alpha;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.abc_scrubber_track_mtrl_alpha = global::ProjectLion.Droid.Resource.Drawable.abc_scrubber_track_mtrl_alpha;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.abc_seekbar_thumb_material = global::ProjectLion.Droid.Resource.Drawable.abc_seekbar_thumb_material;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.abc_seekbar_track_material = global::ProjectLion.Droid.Resource.Drawable.abc_seekbar_track_material;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.abc_spinner_mtrl_am_alpha = global::ProjectLion.Droid.Resource.Drawable.abc_spinner_mtrl_am_alpha;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.abc_spinner_textfield_background_material = global::ProjectLion.Droid.Resource.Drawable.abc_spinner_textfield_background_material;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.abc_switch_thumb_material = global::ProjectLion.Droid.Resource.Drawable.abc_switch_thumb_material;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.abc_switch_track_mtrl_alpha = global::ProjectLion.Droid.Resource.Drawable.abc_switch_track_mtrl_alpha;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.abc_tab_indicator_material = global::ProjectLion.Droid.Resource.Drawable.abc_tab_indicator_material;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.abc_tab_indicator_mtrl_alpha = global::ProjectLion.Droid.Resource.Drawable.abc_tab_indicator_mtrl_alpha;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.abc_text_cursor_material = global::ProjectLion.Droid.Resource.Drawable.abc_text_cursor_material;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.abc_textfield_activated_mtrl_alpha = global::ProjectLion.Droid.Resource.Drawable.abc_textfield_activated_mtrl_alpha;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.abc_textfield_default_mtrl_alpha = global::ProjectLion.Droid.Resource.Drawable.abc_textfield_default_mtrl_alpha;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha = global::ProjectLion.Droid.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.abc_textfield_search_default_mtrl_alpha = global::ProjectLion.Droid.Resource.Drawable.abc_textfield_search_default_mtrl_alpha;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.abc_textfield_search_material = global::ProjectLion.Droid.Resource.Drawable.abc_textfield_search_material;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.dct = global::ProjectLion.Droid.Resource.Drawable.dct;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.design_fab_background = global::ProjectLion.Droid.Resource.Drawable.design_fab_background;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.design_snackbar_background = global::ProjectLion.Droid.Resource.Drawable.design_snackbar_background;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.ic_audiotrack = global::ProjectLion.Droid.Resource.Drawable.ic_audiotrack;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.ic_audiotrack_light = global::ProjectLion.Droid.Resource.Drawable.ic_audiotrack_light;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.ic_bluetooth_grey = global::ProjectLion.Droid.Resource.Drawable.ic_bluetooth_grey;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.ic_bluetooth_white = global::ProjectLion.Droid.Resource.Drawable.ic_bluetooth_white;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.ic_cast_dark = global::ProjectLion.Droid.Resource.Drawable.ic_cast_dark;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.ic_cast_disabled_light = global::ProjectLion.Droid.Resource.Drawable.ic_cast_disabled_light;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.ic_cast_grey = global::ProjectLion.Droid.Resource.Drawable.ic_cast_grey;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.ic_cast_light = global::ProjectLion.Droid.Resource.Drawable.ic_cast_light;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.ic_cast_off_light = global::ProjectLion.Droid.Resource.Drawable.ic_cast_off_light;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.ic_cast_on_0_light = global::ProjectLion.Droid.Resource.Drawable.ic_cast_on_0_light;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.ic_cast_on_1_light = global::ProjectLion.Droid.Resource.Drawable.ic_cast_on_1_light;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.ic_cast_on_2_light = global::ProjectLion.Droid.Resource.Drawable.ic_cast_on_2_light;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.ic_cast_on_light = global::ProjectLion.Droid.Resource.Drawable.ic_cast_on_light;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.ic_cast_white = global::ProjectLion.Droid.Resource.Drawable.ic_cast_white;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.ic_close_dark = global::ProjectLion.Droid.Resource.Drawable.ic_close_dark;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.ic_close_light = global::ProjectLion.Droid.Resource.Drawable.ic_close_light;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.ic_collapse = global::ProjectLion.Droid.Resource.Drawable.ic_collapse;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.ic_collapse_00000 = global::ProjectLion.Droid.Resource.Drawable.ic_collapse_00000;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.ic_collapse_00001 = global::ProjectLion.Droid.Resource.Drawable.ic_collapse_00001;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.ic_collapse_00002 = global::ProjectLion.Droid.Resource.Drawable.ic_collapse_00002;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.ic_collapse_00003 = global::ProjectLion.Droid.Resource.Drawable.ic_collapse_00003;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.ic_collapse_00004 = global::ProjectLion.Droid.Resource.Drawable.ic_collapse_00004;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.ic_collapse_00005 = global::ProjectLion.Droid.Resource.Drawable.ic_collapse_00005;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.ic_collapse_00006 = global::ProjectLion.Droid.Resource.Drawable.ic_collapse_00006;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.ic_collapse_00007 = global::ProjectLion.Droid.Resource.Drawable.ic_collapse_00007;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.ic_collapse_00008 = global::ProjectLion.Droid.Resource.Drawable.ic_collapse_00008;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.ic_collapse_00009 = global::ProjectLion.Droid.Resource.Drawable.ic_collapse_00009;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.ic_collapse_00010 = global::ProjectLion.Droid.Resource.Drawable.ic_collapse_00010;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.ic_collapse_00011 = global::ProjectLion.Droid.Resource.Drawable.ic_collapse_00011;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.ic_collapse_00012 = global::ProjectLion.Droid.Resource.Drawable.ic_collapse_00012;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.ic_collapse_00013 = global::ProjectLion.Droid.Resource.Drawable.ic_collapse_00013;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.ic_collapse_00014 = global::ProjectLion.Droid.Resource.Drawable.ic_collapse_00014;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.ic_collapse_00015 = global::ProjectLion.Droid.Resource.Drawable.ic_collapse_00015;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.ic_expand = global::ProjectLion.Droid.Resource.Drawable.ic_expand;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.ic_expand_00000 = global::ProjectLion.Droid.Resource.Drawable.ic_expand_00000;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.ic_expand_00001 = global::ProjectLion.Droid.Resource.Drawable.ic_expand_00001;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.ic_expand_00002 = global::ProjectLion.Droid.Resource.Drawable.ic_expand_00002;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.ic_expand_00003 = global::ProjectLion.Droid.Resource.Drawable.ic_expand_00003;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.ic_expand_00004 = global::ProjectLion.Droid.Resource.Drawable.ic_expand_00004;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.ic_expand_00005 = global::ProjectLion.Droid.Resource.Drawable.ic_expand_00005;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.ic_expand_00006 = global::ProjectLion.Droid.Resource.Drawable.ic_expand_00006;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.ic_expand_00007 = global::ProjectLion.Droid.Resource.Drawable.ic_expand_00007;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.ic_expand_00008 = global::ProjectLion.Droid.Resource.Drawable.ic_expand_00008;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.ic_expand_00009 = global::ProjectLion.Droid.Resource.Drawable.ic_expand_00009;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.ic_expand_00010 = global::ProjectLion.Droid.Resource.Drawable.ic_expand_00010;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.ic_expand_00011 = global::ProjectLion.Droid.Resource.Drawable.ic_expand_00011;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.ic_expand_00012 = global::ProjectLion.Droid.Resource.Drawable.ic_expand_00012;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.ic_expand_00013 = global::ProjectLion.Droid.Resource.Drawable.ic_expand_00013;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.ic_expand_00014 = global::ProjectLion.Droid.Resource.Drawable.ic_expand_00014;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.ic_expand_00015 = global::ProjectLion.Droid.Resource.Drawable.ic_expand_00015;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.ic_media_pause = global::ProjectLion.Droid.Resource.Drawable.ic_media_pause;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.ic_media_play = global::ProjectLion.Droid.Resource.Drawable.ic_media_play;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.ic_media_route_disabled_mono_dark = global::ProjectLion.Droid.Resource.Drawable.ic_media_route_disabled_mono_dark;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.ic_media_route_off_mono_dark = global::ProjectLion.Droid.Resource.Drawable.ic_media_route_off_mono_dark;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.ic_media_route_on_0_mono_dark = global::ProjectLion.Droid.Resource.Drawable.ic_media_route_on_0_mono_dark;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.ic_media_route_on_1_mono_dark = global::ProjectLion.Droid.Resource.Drawable.ic_media_route_on_1_mono_dark;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.ic_media_route_on_2_mono_dark = global::ProjectLion.Droid.Resource.Drawable.ic_media_route_on_2_mono_dark;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.ic_media_route_on_mono_dark = global::ProjectLion.Droid.Resource.Drawable.ic_media_route_on_mono_dark;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.ic_pause_dark = global::ProjectLion.Droid.Resource.Drawable.ic_pause_dark;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.ic_pause_light = global::ProjectLion.Droid.Resource.Drawable.ic_pause_light;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.ic_play_dark = global::ProjectLion.Droid.Resource.Drawable.ic_play_dark;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.ic_play_light = global::ProjectLion.Droid.Resource.Drawable.ic_play_light;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.ic_speaker_dark = global::ProjectLion.Droid.Resource.Drawable.ic_speaker_dark;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.ic_speaker_group_dark = global::ProjectLion.Droid.Resource.Drawable.ic_speaker_group_dark;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.ic_speaker_group_light = global::ProjectLion.Droid.Resource.Drawable.ic_speaker_group_light;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.ic_speaker_light = global::ProjectLion.Droid.Resource.Drawable.ic_speaker_light;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.ic_tv_dark = global::ProjectLion.Droid.Resource.Drawable.ic_tv_dark;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.ic_tv_light = global::ProjectLion.Droid.Resource.Drawable.ic_tv_light;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.mr_dialog_material_background_dark = global::ProjectLion.Droid.Resource.Drawable.mr_dialog_material_background_dark;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.mr_dialog_material_background_light = global::ProjectLion.Droid.Resource.Drawable.mr_dialog_material_background_light;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.mr_ic_audiotrack_light = global::ProjectLion.Droid.Resource.Drawable.mr_ic_audiotrack_light;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.mr_ic_cast_dark = global::ProjectLion.Droid.Resource.Drawable.mr_ic_cast_dark;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.mr_ic_cast_light = global::ProjectLion.Droid.Resource.Drawable.mr_ic_cast_light;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.mr_ic_close_dark = global::ProjectLion.Droid.Resource.Drawable.mr_ic_close_dark;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.mr_ic_close_light = global::ProjectLion.Droid.Resource.Drawable.mr_ic_close_light;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.mr_ic_media_route_connecting_mono_dark = global::ProjectLion.Droid.Resource.Drawable.mr_ic_media_route_connecting_mono_dark;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.mr_ic_media_route_connecting_mono_light = global::ProjectLion.Droid.Resource.Drawable.mr_ic_media_route_connecting_mono_light;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.mr_ic_media_route_mono_dark = global::ProjectLion.Droid.Resource.Drawable.mr_ic_media_route_mono_dark;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.mr_ic_media_route_mono_light = global::ProjectLion.Droid.Resource.Drawable.mr_ic_media_route_mono_light;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.mr_ic_pause_dark = global::ProjectLion.Droid.Resource.Drawable.mr_ic_pause_dark;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.mr_ic_pause_light = global::ProjectLion.Droid.Resource.Drawable.mr_ic_pause_light;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.mr_ic_play_dark = global::ProjectLion.Droid.Resource.Drawable.mr_ic_play_dark;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.mr_ic_play_light = global::ProjectLion.Droid.Resource.Drawable.mr_ic_play_light;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Drawable.notification_template_icon_bg = global::ProjectLion.Droid.Resource.Drawable.notification_template_icon_bg;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.ALL = global::ProjectLion.Droid.Resource.Id.ALL;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.AUTO = global::ProjectLion.Droid.Resource.Id.AUTO;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.BOLD = global::ProjectLion.Droid.Resource.Id.BOLD;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.BOLD_ITALIC = global::ProjectLion.Droid.Resource.Id.BOLD_ITALIC;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.BOTTOM = global::ProjectLion.Droid.Resource.Id.BOTTOM;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.CENTER = global::ProjectLion.Droid.Resource.Id.CENTER;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.CENTER_HORIZONTAL = global::ProjectLion.Droid.Resource.Id.CENTER_HORIZONTAL;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.HORIZONTAL = global::ProjectLion.Droid.Resource.Id.HORIZONTAL;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.INSIDE = global::ProjectLion.Droid.Resource.Id.INSIDE;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.ITALIC = global::ProjectLion.Droid.Resource.Id.ITALIC;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.LEFT = global::ProjectLion.Droid.Resource.Id.LEFT;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.NONE = global::ProjectLion.Droid.Resource.Id.NONE;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.NORMAL = global::ProjectLion.Droid.Resource.Id.NORMAL;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.OUTSIDE = global::ProjectLion.Droid.Resource.Id.OUTSIDE;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.POINT = global::ProjectLion.Droid.Resource.Id.POINT;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.RIGHT = global::ProjectLion.Droid.Resource.Id.RIGHT;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.SERIES = global::ProjectLion.Droid.Resource.Id.SERIES;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.TOP = global::ProjectLion.Droid.Resource.Id.TOP;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.VERTICAL = global::ProjectLion.Droid.Resource.Id.VERTICAL;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.action0 = global::ProjectLion.Droid.Resource.Id.action0;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.action_bar = global::ProjectLion.Droid.Resource.Id.action_bar;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.action_bar_activity_content = global::ProjectLion.Droid.Resource.Id.action_bar_activity_content;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.action_bar_container = global::ProjectLion.Droid.Resource.Id.action_bar_container;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.action_bar_root = global::ProjectLion.Droid.Resource.Id.action_bar_root;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.action_bar_spinner = global::ProjectLion.Droid.Resource.Id.action_bar_spinner;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.action_bar_subtitle = global::ProjectLion.Droid.Resource.Id.action_bar_subtitle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.action_bar_title = global::ProjectLion.Droid.Resource.Id.action_bar_title;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.action_context_bar = global::ProjectLion.Droid.Resource.Id.action_context_bar;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.action_divider = global::ProjectLion.Droid.Resource.Id.action_divider;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.action_menu_divider = global::ProjectLion.Droid.Resource.Id.action_menu_divider;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.action_menu_presenter = global::ProjectLion.Droid.Resource.Id.action_menu_presenter;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.action_mode_bar = global::ProjectLion.Droid.Resource.Id.action_mode_bar;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.action_mode_bar_stub = global::ProjectLion.Droid.Resource.Id.action_mode_bar_stub;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.action_mode_close_button = global::ProjectLion.Droid.Resource.Id.action_mode_close_button;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.activity_chooser_view_content = global::ProjectLion.Droid.Resource.Id.activity_chooser_view_content;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.alertTitle = global::ProjectLion.Droid.Resource.Id.alertTitle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.always = global::ProjectLion.Droid.Resource.Id.always;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.beginning = global::ProjectLion.Droid.Resource.Id.beginning;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.bottom = global::ProjectLion.Droid.Resource.Id.bottom;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.buttonPanel = global::ProjectLion.Droid.Resource.Id.buttonPanel;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.cancel_action = global::ProjectLion.Droid.Resource.Id.cancel_action;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.center = global::ProjectLion.Droid.Resource.Id.center;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.center_horizontal = global::ProjectLion.Droid.Resource.Id.center_horizontal;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.center_vertical = global::ProjectLion.Droid.Resource.Id.center_vertical;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.checkbox = global::ProjectLion.Droid.Resource.Id.checkbox;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.chronometer = global::ProjectLion.Droid.Resource.Id.chronometer;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.clip_horizontal = global::ProjectLion.Droid.Resource.Id.clip_horizontal;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.clip_vertical = global::ProjectLion.Droid.Resource.Id.clip_vertical;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.collapseActionView = global::ProjectLion.Droid.Resource.Id.collapseActionView;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.contentPanel = global::ProjectLion.Droid.Resource.Id.contentPanel;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.custom = global::ProjectLion.Droid.Resource.Id.custom;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.customPanel = global::ProjectLion.Droid.Resource.Id.customPanel;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.decor_content_parent = global::ProjectLion.Droid.Resource.Id.decor_content_parent;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.default_activity_button = global::ProjectLion.Droid.Resource.Id.default_activity_button;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.design_bottom_sheet = global::ProjectLion.Droid.Resource.Id.design_bottom_sheet;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.design_menu_item_action_area = global::ProjectLion.Droid.Resource.Id.design_menu_item_action_area;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.design_menu_item_action_area_stub = global::ProjectLion.Droid.Resource.Id.design_menu_item_action_area_stub;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.design_menu_item_text = global::ProjectLion.Droid.Resource.Id.design_menu_item_text;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.design_navigation_view = global::ProjectLion.Droid.Resource.Id.design_navigation_view;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.disableHome = global::ProjectLion.Droid.Resource.Id.disableHome;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.edit_query = global::ProjectLion.Droid.Resource.Id.edit_query;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.end = global::ProjectLion.Droid.Resource.Id.end;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.end_padder = global::ProjectLion.Droid.Resource.Id.end_padder;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.enterAlways = global::ProjectLion.Droid.Resource.Id.enterAlways;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.enterAlwaysCollapsed = global::ProjectLion.Droid.Resource.Id.enterAlwaysCollapsed;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.exitUntilCollapsed = global::ProjectLion.Droid.Resource.Id.exitUntilCollapsed;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.expand_activities_button = global::ProjectLion.Droid.Resource.Id.expand_activities_button;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.expanded_menu = global::ProjectLion.Droid.Resource.Id.expanded_menu;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.fill = global::ProjectLion.Droid.Resource.Id.fill;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.fill_horizontal = global::ProjectLion.Droid.Resource.Id.fill_horizontal;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.fill_vertical = global::ProjectLion.Droid.Resource.Id.fill_vertical;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.@fixed = global::ProjectLion.Droid.Resource.Id.@fixed;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.home = global::ProjectLion.Droid.Resource.Id.home;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.homeAsUp = global::ProjectLion.Droid.Resource.Id.homeAsUp;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.icon = global::ProjectLion.Droid.Resource.Id.icon;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.ifRoom = global::ProjectLion.Droid.Resource.Id.ifRoom;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.image = global::ProjectLion.Droid.Resource.Id.image;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.info = global::ProjectLion.Droid.Resource.Id.info;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.item_touch_helper_previous_elevation = global::ProjectLion.Droid.Resource.Id.item_touch_helper_previous_elevation;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.left = global::ProjectLion.Droid.Resource.Id.left;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.line1 = global::ProjectLion.Droid.Resource.Id.line1;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.line3 = global::ProjectLion.Droid.Resource.Id.line3;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.listMode = global::ProjectLion.Droid.Resource.Id.listMode;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.list_item = global::ProjectLion.Droid.Resource.Id.list_item;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.media_actions = global::ProjectLion.Droid.Resource.Id.media_actions;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.middle = global::ProjectLion.Droid.Resource.Id.middle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.mini = global::ProjectLion.Droid.Resource.Id.mini;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.mr_art = global::ProjectLion.Droid.Resource.Id.mr_art;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.mr_chooser_list = global::ProjectLion.Droid.Resource.Id.mr_chooser_list;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.mr_chooser_route_desc = global::ProjectLion.Droid.Resource.Id.mr_chooser_route_desc;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.mr_chooser_route_icon = global::ProjectLion.Droid.Resource.Id.mr_chooser_route_icon;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.mr_chooser_route_name = global::ProjectLion.Droid.Resource.Id.mr_chooser_route_name;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.mr_close = global::ProjectLion.Droid.Resource.Id.mr_close;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.mr_control_divider = global::ProjectLion.Droid.Resource.Id.mr_control_divider;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.mr_control_play_pause = global::ProjectLion.Droid.Resource.Id.mr_control_play_pause;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.mr_control_subtitle = global::ProjectLion.Droid.Resource.Id.mr_control_subtitle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.mr_control_title = global::ProjectLion.Droid.Resource.Id.mr_control_title;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.mr_control_title_container = global::ProjectLion.Droid.Resource.Id.mr_control_title_container;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.mr_custom_control = global::ProjectLion.Droid.Resource.Id.mr_custom_control;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.mr_default_control = global::ProjectLion.Droid.Resource.Id.mr_default_control;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.mr_dialog_area = global::ProjectLion.Droid.Resource.Id.mr_dialog_area;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.mr_expandable_area = global::ProjectLion.Droid.Resource.Id.mr_expandable_area;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.mr_group_expand_collapse = global::ProjectLion.Droid.Resource.Id.mr_group_expand_collapse;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.mr_media_main_control = global::ProjectLion.Droid.Resource.Id.mr_media_main_control;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.mr_name = global::ProjectLion.Droid.Resource.Id.mr_name;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.mr_playback_control = global::ProjectLion.Droid.Resource.Id.mr_playback_control;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.mr_title_bar = global::ProjectLion.Droid.Resource.Id.mr_title_bar;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.mr_volume_control = global::ProjectLion.Droid.Resource.Id.mr_volume_control;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.mr_volume_group_list = global::ProjectLion.Droid.Resource.Id.mr_volume_group_list;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.mr_volume_item_icon = global::ProjectLion.Droid.Resource.Id.mr_volume_item_icon;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.mr_volume_slider = global::ProjectLion.Droid.Resource.Id.mr_volume_slider;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.multiply = global::ProjectLion.Droid.Resource.Id.multiply;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.navigation_header_container = global::ProjectLion.Droid.Resource.Id.navigation_header_container;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.never = global::ProjectLion.Droid.Resource.Id.never;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.none = global::ProjectLion.Droid.Resource.Id.none;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.normal = global::ProjectLion.Droid.Resource.Id.normal;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.parallax = global::ProjectLion.Droid.Resource.Id.parallax;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.parentPanel = global::ProjectLion.Droid.Resource.Id.parentPanel;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.pin = global::ProjectLion.Droid.Resource.Id.pin;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.progress_circular = global::ProjectLion.Droid.Resource.Id.progress_circular;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.progress_horizontal = global::ProjectLion.Droid.Resource.Id.progress_horizontal;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.radio = global::ProjectLion.Droid.Resource.Id.radio;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.right = global::ProjectLion.Droid.Resource.Id.right;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.screen = global::ProjectLion.Droid.Resource.Id.screen;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.scroll = global::ProjectLion.Droid.Resource.Id.scroll;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.scrollIndicatorDown = global::ProjectLion.Droid.Resource.Id.scrollIndicatorDown;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.scrollIndicatorUp = global::ProjectLion.Droid.Resource.Id.scrollIndicatorUp;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.scrollView = global::ProjectLion.Droid.Resource.Id.scrollView;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.scrollable = global::ProjectLion.Droid.Resource.Id.scrollable;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.search_badge = global::ProjectLion.Droid.Resource.Id.search_badge;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.search_bar = global::ProjectLion.Droid.Resource.Id.search_bar;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.search_button = global::ProjectLion.Droid.Resource.Id.search_button;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.search_close_btn = global::ProjectLion.Droid.Resource.Id.search_close_btn;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.search_edit_frame = global::ProjectLion.Droid.Resource.Id.search_edit_frame;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.search_go_btn = global::ProjectLion.Droid.Resource.Id.search_go_btn;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.search_mag_icon = global::ProjectLion.Droid.Resource.Id.search_mag_icon;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.search_plate = global::ProjectLion.Droid.Resource.Id.search_plate;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.search_src_text = global::ProjectLion.Droid.Resource.Id.search_src_text;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.search_voice_btn = global::ProjectLion.Droid.Resource.Id.search_voice_btn;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.select_dialog_listview = global::ProjectLion.Droid.Resource.Id.select_dialog_listview;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.shortcut = global::ProjectLion.Droid.Resource.Id.shortcut;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.showCustom = global::ProjectLion.Droid.Resource.Id.showCustom;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.showHome = global::ProjectLion.Droid.Resource.Id.showHome;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.showTitle = global::ProjectLion.Droid.Resource.Id.showTitle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.snackbar_action = global::ProjectLion.Droid.Resource.Id.snackbar_action;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.snackbar_text = global::ProjectLion.Droid.Resource.Id.snackbar_text;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.snap = global::ProjectLion.Droid.Resource.Id.snap;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.spacer = global::ProjectLion.Droid.Resource.Id.spacer;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.split_action_bar = global::ProjectLion.Droid.Resource.Id.split_action_bar;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.src_atop = global::ProjectLion.Droid.Resource.Id.src_atop;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.src_in = global::ProjectLion.Droid.Resource.Id.src_in;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.src_over = global::ProjectLion.Droid.Resource.Id.src_over;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.start = global::ProjectLion.Droid.Resource.Id.start;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.status_bar_latest_event_content = global::ProjectLion.Droid.Resource.Id.status_bar_latest_event_content;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.submit_area = global::ProjectLion.Droid.Resource.Id.submit_area;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.tabMode = global::ProjectLion.Droid.Resource.Id.tabMode;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.text = global::ProjectLion.Droid.Resource.Id.text;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.text2 = global::ProjectLion.Droid.Resource.Id.text2;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.textSpacerNoButtons = global::ProjectLion.Droid.Resource.Id.textSpacerNoButtons;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.time = global::ProjectLion.Droid.Resource.Id.time;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.title = global::ProjectLion.Droid.Resource.Id.title;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.title_template = global::ProjectLion.Droid.Resource.Id.title_template;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.tooltipContent = global::ProjectLion.Droid.Resource.Id.tooltipContent;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.tooltipTitle = global::ProjectLion.Droid.Resource.Id.tooltipTitle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.top = global::ProjectLion.Droid.Resource.Id.top;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.topPanel = global::ProjectLion.Droid.Resource.Id.topPanel;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.touch_outside = global::ProjectLion.Droid.Resource.Id.touch_outside;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.up = global::ProjectLion.Droid.Resource.Id.up;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.useLogo = global::ProjectLion.Droid.Resource.Id.useLogo;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.view_offset_helper = global::ProjectLion.Droid.Resource.Id.view_offset_helper;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.volume_item_container = global::ProjectLion.Droid.Resource.Id.volume_item_container;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.withText = global::ProjectLion.Droid.Resource.Id.withText;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Id.wrap_content = global::ProjectLion.Droid.Resource.Id.wrap_content;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Integer.abc_config_activityDefaultDur = global::ProjectLion.Droid.Resource.Integer.abc_config_activityDefaultDur;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Integer.abc_config_activityShortDur = global::ProjectLion.Droid.Resource.Integer.abc_config_activityShortDur;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Integer.abc_max_action_buttons = global::ProjectLion.Droid.Resource.Integer.abc_max_action_buttons;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Integer.bottom_sheet_slide_duration = global::ProjectLion.Droid.Resource.Integer.bottom_sheet_slide_duration;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Integer.cancel_button_image_alpha = global::ProjectLion.Droid.Resource.Integer.cancel_button_image_alpha;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Integer.design_snackbar_text_max_lines = global::ProjectLion.Droid.Resource.Integer.design_snackbar_text_max_lines;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Integer.mr_controller_volume_group_list_animation_duration_ms = global::ProjectLion.Droid.Resource.Integer.mr_controller_volume_group_list_animation_duration_ms;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Integer.mr_controller_volume_group_list_fade_in_duration_ms = global::ProjectLion.Droid.Resource.Integer.mr_controller_volume_group_list_fade_in_duration_ms;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Integer.mr_controller_volume_group_list_fade_out_duration_ms = global::ProjectLion.Droid.Resource.Integer.mr_controller_volume_group_list_fade_out_duration_ms;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Integer.status_bar_notification_info_maxnum = global::ProjectLion.Droid.Resource.Integer.status_bar_notification_info_maxnum;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Interpolator.mr_fast_out_slow_in = global::ProjectLion.Droid.Resource.Interpolator.mr_fast_out_slow_in;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Interpolator.mr_linear_out_slow_in = global::ProjectLion.Droid.Resource.Interpolator.mr_linear_out_slow_in;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Layout.abc_action_bar_title_item = global::ProjectLion.Droid.Resource.Layout.abc_action_bar_title_item;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Layout.abc_action_bar_up_container = global::ProjectLion.Droid.Resource.Layout.abc_action_bar_up_container;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Layout.abc_action_bar_view_list_nav_layout = global::ProjectLion.Droid.Resource.Layout.abc_action_bar_view_list_nav_layout;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Layout.abc_action_menu_item_layout = global::ProjectLion.Droid.Resource.Layout.abc_action_menu_item_layout;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Layout.abc_action_menu_layout = global::ProjectLion.Droid.Resource.Layout.abc_action_menu_layout;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Layout.abc_action_mode_bar = global::ProjectLion.Droid.Resource.Layout.abc_action_mode_bar;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Layout.abc_action_mode_close_item_material = global::ProjectLion.Droid.Resource.Layout.abc_action_mode_close_item_material;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Layout.abc_activity_chooser_view = global::ProjectLion.Droid.Resource.Layout.abc_activity_chooser_view;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Layout.abc_activity_chooser_view_list_item = global::ProjectLion.Droid.Resource.Layout.abc_activity_chooser_view_list_item;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Layout.abc_alert_dialog_button_bar_material = global::ProjectLion.Droid.Resource.Layout.abc_alert_dialog_button_bar_material;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Layout.abc_alert_dialog_material = global::ProjectLion.Droid.Resource.Layout.abc_alert_dialog_material;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Layout.abc_dialog_title_material = global::ProjectLion.Droid.Resource.Layout.abc_dialog_title_material;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Layout.abc_expanded_menu_layout = global::ProjectLion.Droid.Resource.Layout.abc_expanded_menu_layout;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Layout.abc_list_menu_item_checkbox = global::ProjectLion.Droid.Resource.Layout.abc_list_menu_item_checkbox;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Layout.abc_list_menu_item_icon = global::ProjectLion.Droid.Resource.Layout.abc_list_menu_item_icon;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Layout.abc_list_menu_item_layout = global::ProjectLion.Droid.Resource.Layout.abc_list_menu_item_layout;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Layout.abc_list_menu_item_radio = global::ProjectLion.Droid.Resource.Layout.abc_list_menu_item_radio;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Layout.abc_popup_menu_item_layout = global::ProjectLion.Droid.Resource.Layout.abc_popup_menu_item_layout;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Layout.abc_screen_content_include = global::ProjectLion.Droid.Resource.Layout.abc_screen_content_include;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Layout.abc_screen_simple = global::ProjectLion.Droid.Resource.Layout.abc_screen_simple;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Layout.abc_screen_simple_overlay_action_mode = global::ProjectLion.Droid.Resource.Layout.abc_screen_simple_overlay_action_mode;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Layout.abc_screen_toolbar = global::ProjectLion.Droid.Resource.Layout.abc_screen_toolbar;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Layout.abc_search_dropdown_item_icons_2line = global::ProjectLion.Droid.Resource.Layout.abc_search_dropdown_item_icons_2line;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Layout.abc_search_view = global::ProjectLion.Droid.Resource.Layout.abc_search_view;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Layout.abc_select_dialog_material = global::ProjectLion.Droid.Resource.Layout.abc_select_dialog_material;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Layout.design_bottom_sheet_dialog = global::ProjectLion.Droid.Resource.Layout.design_bottom_sheet_dialog;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Layout.design_layout_snackbar = global::ProjectLion.Droid.Resource.Layout.design_layout_snackbar;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Layout.design_layout_snackbar_include = global::ProjectLion.Droid.Resource.Layout.design_layout_snackbar_include;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Layout.design_layout_tab_icon = global::ProjectLion.Droid.Resource.Layout.design_layout_tab_icon;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Layout.design_layout_tab_text = global::ProjectLion.Droid.Resource.Layout.design_layout_tab_text;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Layout.design_menu_item_action_area = global::ProjectLion.Droid.Resource.Layout.design_menu_item_action_area;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Layout.design_navigation_item = global::ProjectLion.Droid.Resource.Layout.design_navigation_item;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Layout.design_navigation_item_header = global::ProjectLion.Droid.Resource.Layout.design_navigation_item_header;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Layout.design_navigation_item_separator = global::ProjectLion.Droid.Resource.Layout.design_navigation_item_separator;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Layout.design_navigation_item_subheader = global::ProjectLion.Droid.Resource.Layout.design_navigation_item_subheader;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Layout.design_navigation_menu = global::ProjectLion.Droid.Resource.Layout.design_navigation_menu;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Layout.design_navigation_menu_item = global::ProjectLion.Droid.Resource.Layout.design_navigation_menu_item;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Layout.mr_chooser_dialog = global::ProjectLion.Droid.Resource.Layout.mr_chooser_dialog;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Layout.mr_chooser_list_item = global::ProjectLion.Droid.Resource.Layout.mr_chooser_list_item;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Layout.mr_controller_material_dialog_b = global::ProjectLion.Droid.Resource.Layout.mr_controller_material_dialog_b;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Layout.mr_controller_volume_item = global::ProjectLion.Droid.Resource.Layout.mr_controller_volume_item;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Layout.mr_playback_control = global::ProjectLion.Droid.Resource.Layout.mr_playback_control;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Layout.mr_volume_control = global::ProjectLion.Droid.Resource.Layout.mr_volume_control;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Layout.notification_media_action = global::ProjectLion.Droid.Resource.Layout.notification_media_action;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Layout.notification_media_cancel_action = global::ProjectLion.Droid.Resource.Layout.notification_media_cancel_action;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Layout.notification_template_big_media = global::ProjectLion.Droid.Resource.Layout.notification_template_big_media;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Layout.notification_template_big_media_narrow = global::ProjectLion.Droid.Resource.Layout.notification_template_big_media_narrow;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Layout.notification_template_lines = global::ProjectLion.Droid.Resource.Layout.notification_template_lines;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Layout.notification_template_media = global::ProjectLion.Droid.Resource.Layout.notification_template_media;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Layout.notification_template_part_chronometer = global::ProjectLion.Droid.Resource.Layout.notification_template_part_chronometer;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Layout.notification_template_part_time = global::ProjectLion.Droid.Resource.Layout.notification_template_part_time;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Layout.select_dialog_item_material = global::ProjectLion.Droid.Resource.Layout.select_dialog_item_material;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Layout.select_dialog_multichoice_material = global::ProjectLion.Droid.Resource.Layout.select_dialog_multichoice_material;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Layout.select_dialog_singlechoice_material = global::ProjectLion.Droid.Resource.Layout.select_dialog_singlechoice_material;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Layout.support_simple_spinner_dropdown_item = global::ProjectLion.Droid.Resource.Layout.support_simple_spinner_dropdown_item;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Layout.tooltip = global::ProjectLion.Droid.Resource.Layout.tooltip;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.String.ApplicationName = global::ProjectLion.Droid.Resource.String.ApplicationName;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.String.Hello = global::ProjectLion.Droid.Resource.String.Hello;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.String.abc_action_bar_home_description = global::ProjectLion.Droid.Resource.String.abc_action_bar_home_description;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.String.abc_action_bar_home_description_format = global::ProjectLion.Droid.Resource.String.abc_action_bar_home_description_format;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.String.abc_action_bar_home_subtitle_description_format = global::ProjectLion.Droid.Resource.String.abc_action_bar_home_subtitle_description_format;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.String.abc_action_bar_up_description = global::ProjectLion.Droid.Resource.String.abc_action_bar_up_description;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.String.abc_action_menu_overflow_description = global::ProjectLion.Droid.Resource.String.abc_action_menu_overflow_description;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.String.abc_action_mode_done = global::ProjectLion.Droid.Resource.String.abc_action_mode_done;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.String.abc_activity_chooser_view_see_all = global::ProjectLion.Droid.Resource.String.abc_activity_chooser_view_see_all;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.String.abc_activitychooserview_choose_application = global::ProjectLion.Droid.Resource.String.abc_activitychooserview_choose_application;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.String.abc_capital_off = global::ProjectLion.Droid.Resource.String.abc_capital_off;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.String.abc_capital_on = global::ProjectLion.Droid.Resource.String.abc_capital_on;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.String.abc_search_hint = global::ProjectLion.Droid.Resource.String.abc_search_hint;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.String.abc_searchview_description_clear = global::ProjectLion.Droid.Resource.String.abc_searchview_description_clear;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.String.abc_searchview_description_query = global::ProjectLion.Droid.Resource.String.abc_searchview_description_query;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.String.abc_searchview_description_search = global::ProjectLion.Droid.Resource.String.abc_searchview_description_search;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.String.abc_searchview_description_submit = global::ProjectLion.Droid.Resource.String.abc_searchview_description_submit;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.String.abc_searchview_description_voice = global::ProjectLion.Droid.Resource.String.abc_searchview_description_voice;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.String.abc_shareactionprovider_share_with = global::ProjectLion.Droid.Resource.String.abc_shareactionprovider_share_with;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.String.abc_shareactionprovider_share_with_application = global::ProjectLion.Droid.Resource.String.abc_shareactionprovider_share_with_application;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.String.abc_toolbar_collapse_description = global::ProjectLion.Droid.Resource.String.abc_toolbar_collapse_description;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.String.appbar_scrolling_view_behavior = global::ProjectLion.Droid.Resource.String.appbar_scrolling_view_behavior;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.String.bottom_sheet_behavior = global::ProjectLion.Droid.Resource.String.bottom_sheet_behavior;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.String.character_counter_pattern = global::ProjectLion.Droid.Resource.String.character_counter_pattern;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.String.mr_button_content_description = global::ProjectLion.Droid.Resource.String.mr_button_content_description;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.String.mr_chooser_searching = global::ProjectLion.Droid.Resource.String.mr_chooser_searching;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.String.mr_chooser_title = global::ProjectLion.Droid.Resource.String.mr_chooser_title;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.String.mr_controller_casting_screen = global::ProjectLion.Droid.Resource.String.mr_controller_casting_screen;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.String.mr_controller_close_description = global::ProjectLion.Droid.Resource.String.mr_controller_close_description;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.String.mr_controller_collapse_group = global::ProjectLion.Droid.Resource.String.mr_controller_collapse_group;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.String.mr_controller_disconnect = global::ProjectLion.Droid.Resource.String.mr_controller_disconnect;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.String.mr_controller_expand_group = global::ProjectLion.Droid.Resource.String.mr_controller_expand_group;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.String.mr_controller_no_info_available = global::ProjectLion.Droid.Resource.String.mr_controller_no_info_available;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.String.mr_controller_no_media_selected = global::ProjectLion.Droid.Resource.String.mr_controller_no_media_selected;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.String.mr_controller_pause = global::ProjectLion.Droid.Resource.String.mr_controller_pause;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.String.mr_controller_play = global::ProjectLion.Droid.Resource.String.mr_controller_play;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.String.mr_controller_stop = global::ProjectLion.Droid.Resource.String.mr_controller_stop;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.String.mr_system_route_name = global::ProjectLion.Droid.Resource.String.mr_system_route_name;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.String.mr_user_route_category_name = global::ProjectLion.Droid.Resource.String.mr_user_route_category_name;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.String.status_bar_notification_info_overflow = global::ProjectLion.Droid.Resource.String.status_bar_notification_info_overflow;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.AlertDialog_AppCompat = global::ProjectLion.Droid.Resource.Style.AlertDialog_AppCompat;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.AlertDialog_AppCompat_Light = global::ProjectLion.Droid.Resource.Style.AlertDialog_AppCompat_Light;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Animation_AppCompat_Dialog = global::ProjectLion.Droid.Resource.Style.Animation_AppCompat_Dialog;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Animation_AppCompat_DropDownUp = global::ProjectLion.Droid.Resource.Style.Animation_AppCompat_DropDownUp;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Animation_Design_BottomSheetDialog = global::ProjectLion.Droid.Resource.Style.Animation_Design_BottomSheetDialog;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.AppBaseTheme = global::ProjectLion.Droid.Resource.Style.AppBaseTheme;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.AppTheme = global::ProjectLion.Droid.Resource.Style.AppTheme;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_AlertDialog_AppCompat = global::ProjectLion.Droid.Resource.Style.Base_AlertDialog_AppCompat;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_AlertDialog_AppCompat_Light = global::ProjectLion.Droid.Resource.Style.Base_AlertDialog_AppCompat_Light;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_Animation_AppCompat_Dialog = global::ProjectLion.Droid.Resource.Style.Base_Animation_AppCompat_Dialog;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_Animation_AppCompat_DropDownUp = global::ProjectLion.Droid.Resource.Style.Base_Animation_AppCompat_DropDownUp;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_CardView = global::ProjectLion.Droid.Resource.Style.Base_CardView;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_DialogWindowTitle_AppCompat = global::ProjectLion.Droid.Resource.Style.Base_DialogWindowTitle_AppCompat;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_DialogWindowTitleBackground_AppCompat = global::ProjectLion.Droid.Resource.Style.Base_DialogWindowTitleBackground_AppCompat;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat = global::ProjectLion.Droid.Resource.Style.Base_TextAppearance_AppCompat;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Body1 = global::ProjectLion.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body1;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Body2 = global::ProjectLion.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body2;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Button = global::ProjectLion.Droid.Resource.Style.Base_TextAppearance_AppCompat_Button;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Caption = global::ProjectLion.Droid.Resource.Style.Base_TextAppearance_AppCompat_Caption;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Display1 = global::ProjectLion.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display1;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Display2 = global::ProjectLion.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display2;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Display3 = global::ProjectLion.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display3;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Display4 = global::ProjectLion.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display4;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Headline = global::ProjectLion.Droid.Resource.Style.Base_TextAppearance_AppCompat_Headline;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Inverse = global::ProjectLion.Droid.Resource.Style.Base_TextAppearance_AppCompat_Inverse;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Large = global::ProjectLion.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse = global::ProjectLion.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::ProjectLion.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::ProjectLion.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Medium = global::ProjectLion.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse = global::ProjectLion.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Menu = global::ProjectLion.Droid.Resource.Style.Base_TextAppearance_AppCompat_Menu;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_SearchResult = global::ProjectLion.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle = global::ProjectLion.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title = global::ProjectLion.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Small = global::ProjectLion.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse = global::ProjectLion.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Subhead = global::ProjectLion.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse = global::ProjectLion.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Title = global::ProjectLion.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse = global::ProjectLion.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu = global::ProjectLion.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::ProjectLion.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::ProjectLion.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title = global::ProjectLion.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::ProjectLion.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::ProjectLion.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title = global::ProjectLion.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button = global::ProjectLion.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse = global::ProjectLion.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem = global::ProjectLion.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large = global::ProjectLion.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small = global::ProjectLion.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch = global::ProjectLion.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::ProjectLion.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::ProjectLion.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::ProjectLion.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title = global::ProjectLion.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_Theme_AppCompat = global::ProjectLion.Droid.Resource.Style.Base_Theme_AppCompat;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_Theme_AppCompat_CompactMenu = global::ProjectLion.Droid.Resource.Style.Base_Theme_AppCompat_CompactMenu;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_Theme_AppCompat_Dialog = global::ProjectLion.Droid.Resource.Style.Base_Theme_AppCompat_Dialog;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_Theme_AppCompat_Dialog_Alert = global::ProjectLion.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_Alert;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize = global::ProjectLion.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth = global::ProjectLion.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge = global::ProjectLion.Droid.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_Theme_AppCompat_Light = global::ProjectLion.Droid.Resource.Style.Base_Theme_AppCompat_Light;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar = global::ProjectLion.Droid.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_Theme_AppCompat_Light_Dialog = global::ProjectLion.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert = global::ProjectLion.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize = global::ProjectLion.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth = global::ProjectLion.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge = global::ProjectLion.Droid.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_ThemeOverlay_AppCompat = global::ProjectLion.Droid.Resource.Style.Base_ThemeOverlay_AppCompat;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar = global::ProjectLion.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_ThemeOverlay_AppCompat_Dark = global::ProjectLion.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar = global::ProjectLion.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_ThemeOverlay_AppCompat_Light = global::ProjectLion.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Light;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_V11_Theme_AppCompat_Dialog = global::ProjectLion.Droid.Resource.Style.Base_V11_Theme_AppCompat_Dialog;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_V11_Theme_AppCompat_Light_Dialog = global::ProjectLion.Droid.Resource.Style.Base_V11_Theme_AppCompat_Light_Dialog;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_V12_Widget_AppCompat_AutoCompleteTextView = global::ProjectLion.Droid.Resource.Style.Base_V12_Widget_AppCompat_AutoCompleteTextView;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_V12_Widget_AppCompat_EditText = global::ProjectLion.Droid.Resource.Style.Base_V12_Widget_AppCompat_EditText;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_V21_Theme_AppCompat = global::ProjectLion.Droid.Resource.Style.Base_V21_Theme_AppCompat;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_V21_Theme_AppCompat_Dialog = global::ProjectLion.Droid.Resource.Style.Base_V21_Theme_AppCompat_Dialog;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_V21_Theme_AppCompat_Light = global::ProjectLion.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog = global::ProjectLion.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_V7_Theme_AppCompat = global::ProjectLion.Droid.Resource.Style.Base_V7_Theme_AppCompat;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_V7_Theme_AppCompat_Dialog = global::ProjectLion.Droid.Resource.Style.Base_V7_Theme_AppCompat_Dialog;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_V7_Theme_AppCompat_Light = global::ProjectLion.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog = global::ProjectLion.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView = global::ProjectLion.Droid.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_V7_Widget_AppCompat_EditText = global::ProjectLion.Droid.Resource.Style.Base_V7_Widget_AppCompat_EditText;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_Widget_AppCompat_ActionBar = global::ProjectLion.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid = global::ProjectLion.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar = global::ProjectLion.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText = global::ProjectLion.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView = global::ProjectLion.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_Widget_AppCompat_ActionButton = global::ProjectLion.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode = global::ProjectLion.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow = global::ProjectLion.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_Widget_AppCompat_ActionMode = global::ProjectLion.Droid.Resource.Style.Base_Widget_AppCompat_ActionMode;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_Widget_AppCompat_ActivityChooserView = global::ProjectLion.Droid.Resource.Style.Base_Widget_AppCompat_ActivityChooserView;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView = global::ProjectLion.Droid.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_Widget_AppCompat_Button = global::ProjectLion.Droid.Resource.Style.Base_Widget_AppCompat_Button;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_Widget_AppCompat_Button_Borderless = global::ProjectLion.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored = global::ProjectLion.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog = global::ProjectLion.Droid.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_Widget_AppCompat_Button_Colored = global::ProjectLion.Droid.Resource.Style.Base_Widget_AppCompat_Button_Colored;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_Widget_AppCompat_Button_Small = global::ProjectLion.Droid.Resource.Style.Base_Widget_AppCompat_Button_Small;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_Widget_AppCompat_ButtonBar = global::ProjectLion.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog = global::ProjectLion.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox = global::ProjectLion.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton = global::ProjectLion.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch = global::ProjectLion.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle = global::ProjectLion.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common = global::ProjectLion.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner = global::ProjectLion.Droid.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_Widget_AppCompat_EditText = global::ProjectLion.Droid.Resource.Style.Base_Widget_AppCompat_EditText;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_Widget_AppCompat_ImageButton = global::ProjectLion.Droid.Resource.Style.Base_Widget_AppCompat_ImageButton;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar = global::ProjectLion.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid = global::ProjectLion.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar = global::ProjectLion.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText = global::ProjectLion.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::ProjectLion.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView = global::ProjectLion.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu = global::ProjectLion.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow = global::ProjectLion.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_Widget_AppCompat_ListPopupWindow = global::ProjectLion.Droid.Resource.Style.Base_Widget_AppCompat_ListPopupWindow;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_Widget_AppCompat_ListView = global::ProjectLion.Droid.Resource.Style.Base_Widget_AppCompat_ListView;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_Widget_AppCompat_ListView_DropDown = global::ProjectLion.Droid.Resource.Style.Base_Widget_AppCompat_ListView_DropDown;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_Widget_AppCompat_ListView_Menu = global::ProjectLion.Droid.Resource.Style.Base_Widget_AppCompat_ListView_Menu;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_Widget_AppCompat_PopupMenu = global::ProjectLion.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow = global::ProjectLion.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_Widget_AppCompat_PopupWindow = global::ProjectLion.Droid.Resource.Style.Base_Widget_AppCompat_PopupWindow;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_Widget_AppCompat_ProgressBar = global::ProjectLion.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal = global::ProjectLion.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_Widget_AppCompat_RatingBar = global::ProjectLion.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator = global::ProjectLion.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_Widget_AppCompat_RatingBar_Small = global::ProjectLion.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar_Small;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_Widget_AppCompat_SearchView = global::ProjectLion.Droid.Resource.Style.Base_Widget_AppCompat_SearchView;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar = global::ProjectLion.Droid.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_Widget_AppCompat_SeekBar = global::ProjectLion.Droid.Resource.Style.Base_Widget_AppCompat_SeekBar;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_Widget_AppCompat_Spinner = global::ProjectLion.Droid.Resource.Style.Base_Widget_AppCompat_Spinner;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined = global::ProjectLion.Droid.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem = global::ProjectLion.Droid.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_Widget_AppCompat_Toolbar = global::ProjectLion.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation = global::ProjectLion.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Base_Widget_Design_TabLayout = global::ProjectLion.Droid.Resource.Style.Base_Widget_Design_TabLayout;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.CardView = global::ProjectLion.Droid.Resource.Style.CardView;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.CardView_Dark = global::ProjectLion.Droid.Resource.Style.CardView_Dark;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.CardView_Light = global::ProjectLion.Droid.Resource.Style.CardView_Light;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Platform_AppCompat = global::ProjectLion.Droid.Resource.Style.Platform_AppCompat;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Platform_AppCompat_Light = global::ProjectLion.Droid.Resource.Style.Platform_AppCompat_Light;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Platform_ThemeOverlay_AppCompat = global::ProjectLion.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark = global::ProjectLion.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Platform_ThemeOverlay_AppCompat_Light = global::ProjectLion.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Light;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Platform_V11_AppCompat = global::ProjectLion.Droid.Resource.Style.Platform_V11_AppCompat;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Platform_V11_AppCompat_Light = global::ProjectLion.Droid.Resource.Style.Platform_V11_AppCompat_Light;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Platform_V14_AppCompat = global::ProjectLion.Droid.Resource.Style.Platform_V14_AppCompat;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Platform_V14_AppCompat_Light = global::ProjectLion.Droid.Resource.Style.Platform_V14_AppCompat_Light;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Platform_Widget_AppCompat_Spinner = global::ProjectLion.Droid.Resource.Style.Platform_Widget_AppCompat_Spinner;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat = global::ProjectLion.Droid.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem = global::ProjectLion.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon = global::ProjectLion.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem = global::ProjectLion.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup = global::ProjectLion.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text = global::ProjectLion.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown = global::ProjectLion.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1 = global::ProjectLion.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2 = global::ProjectLion.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query = global::ProjectLion.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text = global::ProjectLion.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon = global::ProjectLion.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton = global::ProjectLion.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow = global::ProjectLion.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.TextAppearance_AppCompat = global::ProjectLion.Droid.Resource.Style.TextAppearance_AppCompat;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.TextAppearance_AppCompat_Body1 = global::ProjectLion.Droid.Resource.Style.TextAppearance_AppCompat_Body1;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.TextAppearance_AppCompat_Body2 = global::ProjectLion.Droid.Resource.Style.TextAppearance_AppCompat_Body2;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.TextAppearance_AppCompat_Button = global::ProjectLion.Droid.Resource.Style.TextAppearance_AppCompat_Button;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.TextAppearance_AppCompat_Caption = global::ProjectLion.Droid.Resource.Style.TextAppearance_AppCompat_Caption;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.TextAppearance_AppCompat_Display1 = global::ProjectLion.Droid.Resource.Style.TextAppearance_AppCompat_Display1;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.TextAppearance_AppCompat_Display2 = global::ProjectLion.Droid.Resource.Style.TextAppearance_AppCompat_Display2;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.TextAppearance_AppCompat_Display3 = global::ProjectLion.Droid.Resource.Style.TextAppearance_AppCompat_Display3;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.TextAppearance_AppCompat_Display4 = global::ProjectLion.Droid.Resource.Style.TextAppearance_AppCompat_Display4;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.TextAppearance_AppCompat_Headline = global::ProjectLion.Droid.Resource.Style.TextAppearance_AppCompat_Headline;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.TextAppearance_AppCompat_Inverse = global::ProjectLion.Droid.Resource.Style.TextAppearance_AppCompat_Inverse;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.TextAppearance_AppCompat_Large = global::ProjectLion.Droid.Resource.Style.TextAppearance_AppCompat_Large;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.TextAppearance_AppCompat_Large_Inverse = global::ProjectLion.Droid.Resource.Style.TextAppearance_AppCompat_Large_Inverse;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle = global::ProjectLion.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title = global::ProjectLion.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::ProjectLion.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::ProjectLion.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.TextAppearance_AppCompat_Medium = global::ProjectLion.Droid.Resource.Style.TextAppearance_AppCompat_Medium;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.TextAppearance_AppCompat_Medium_Inverse = global::ProjectLion.Droid.Resource.Style.TextAppearance_AppCompat_Medium_Inverse;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.TextAppearance_AppCompat_Menu = global::ProjectLion.Droid.Resource.Style.TextAppearance_AppCompat_Menu;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle = global::ProjectLion.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.TextAppearance_AppCompat_SearchResult_Title = global::ProjectLion.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Title;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.TextAppearance_AppCompat_Small = global::ProjectLion.Droid.Resource.Style.TextAppearance_AppCompat_Small;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.TextAppearance_AppCompat_Small_Inverse = global::ProjectLion.Droid.Resource.Style.TextAppearance_AppCompat_Small_Inverse;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.TextAppearance_AppCompat_Subhead = global::ProjectLion.Droid.Resource.Style.TextAppearance_AppCompat_Subhead;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse = global::ProjectLion.Droid.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.TextAppearance_AppCompat_Title = global::ProjectLion.Droid.Resource.Style.TextAppearance_AppCompat_Title;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.TextAppearance_AppCompat_Title_Inverse = global::ProjectLion.Droid.Resource.Style.TextAppearance_AppCompat_Title_Inverse;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu = global::ProjectLion.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::ProjectLion.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::ProjectLion.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title = global::ProjectLion.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::ProjectLion.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::ProjectLion.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse = global::ProjectLion.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title = global::ProjectLion.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse = global::ProjectLion.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_Button = global::ProjectLion.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse = global::ProjectLion.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem = global::ProjectLion.Droid.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large = global::ProjectLion.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small = global::ProjectLion.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_Switch = global::ProjectLion.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Switch;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::ProjectLion.Droid.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.TextAppearance_Design_CollapsingToolbar_Expanded = global::ProjectLion.Droid.Resource.Style.TextAppearance_Design_CollapsingToolbar_Expanded;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.TextAppearance_Design_Counter = global::ProjectLion.Droid.Resource.Style.TextAppearance_Design_Counter;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.TextAppearance_Design_Counter_Overflow = global::ProjectLion.Droid.Resource.Style.TextAppearance_Design_Counter_Overflow;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.TextAppearance_Design_Error = global::ProjectLion.Droid.Resource.Style.TextAppearance_Design_Error;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.TextAppearance_Design_Hint = global::ProjectLion.Droid.Resource.Style.TextAppearance_Design_Hint;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.TextAppearance_Design_Snackbar_Message = global::ProjectLion.Droid.Resource.Style.TextAppearance_Design_Snackbar_Message;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.TextAppearance_Design_Tab = global::ProjectLion.Droid.Resource.Style.TextAppearance_Design_Tab;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.TextAppearance_StatusBar_EventContent = global::ProjectLion.Droid.Resource.Style.TextAppearance_StatusBar_EventContent;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.TextAppearance_StatusBar_EventContent_Info = global::ProjectLion.Droid.Resource.Style.TextAppearance_StatusBar_EventContent_Info;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.TextAppearance_StatusBar_EventContent_Line2 = global::ProjectLion.Droid.Resource.Style.TextAppearance_StatusBar_EventContent_Line2;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.TextAppearance_StatusBar_EventContent_Time = global::ProjectLion.Droid.Resource.Style.TextAppearance_StatusBar_EventContent_Time;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.TextAppearance_StatusBar_EventContent_Title = global::ProjectLion.Droid.Resource.Style.TextAppearance_StatusBar_EventContent_Title;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::ProjectLion.Droid.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::ProjectLion.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title = global::ProjectLion.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Theme_AppCompat = global::ProjectLion.Droid.Resource.Style.Theme_AppCompat;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Theme_AppCompat_CompactMenu = global::ProjectLion.Droid.Resource.Style.Theme_AppCompat_CompactMenu;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Theme_AppCompat_DayNight = global::ProjectLion.Droid.Resource.Style.Theme_AppCompat_DayNight;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar = global::ProjectLion.Droid.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Theme_AppCompat_DayNight_Dialog = global::ProjectLion.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert = global::ProjectLion.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth = global::ProjectLion.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge = global::ProjectLion.Droid.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Theme_AppCompat_DayNight_NoActionBar = global::ProjectLion.Droid.Resource.Style.Theme_AppCompat_DayNight_NoActionBar;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Theme_AppCompat_Dialog = global::ProjectLion.Droid.Resource.Style.Theme_AppCompat_Dialog;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Theme_AppCompat_Dialog_Alert = global::ProjectLion.Droid.Resource.Style.Theme_AppCompat_Dialog_Alert;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Theme_AppCompat_Dialog_MinWidth = global::ProjectLion.Droid.Resource.Style.Theme_AppCompat_Dialog_MinWidth;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Theme_AppCompat_DialogWhenLarge = global::ProjectLion.Droid.Resource.Style.Theme_AppCompat_DialogWhenLarge;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Theme_AppCompat_Light = global::ProjectLion.Droid.Resource.Style.Theme_AppCompat_Light;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Theme_AppCompat_Light_DarkActionBar = global::ProjectLion.Droid.Resource.Style.Theme_AppCompat_Light_DarkActionBar;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Theme_AppCompat_Light_Dialog = global::ProjectLion.Droid.Resource.Style.Theme_AppCompat_Light_Dialog;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Theme_AppCompat_Light_Dialog_Alert = global::ProjectLion.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_Alert;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth = global::ProjectLion.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge = global::ProjectLion.Droid.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Theme_AppCompat_Light_NoActionBar = global::ProjectLion.Droid.Resource.Style.Theme_AppCompat_Light_NoActionBar;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Theme_AppCompat_NoActionBar = global::ProjectLion.Droid.Resource.Style.Theme_AppCompat_NoActionBar;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Theme_Design = global::ProjectLion.Droid.Resource.Style.Theme_Design;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Theme_Design_BottomSheetDialog = global::ProjectLion.Droid.Resource.Style.Theme_Design_BottomSheetDialog;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Theme_Design_Light = global::ProjectLion.Droid.Resource.Style.Theme_Design_Light;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Theme_Design_Light_BottomSheetDialog = global::ProjectLion.Droid.Resource.Style.Theme_Design_Light_BottomSheetDialog;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Theme_Design_Light_NoActionBar = global::ProjectLion.Droid.Resource.Style.Theme_Design_Light_NoActionBar;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Theme_Design_NoActionBar = global::ProjectLion.Droid.Resource.Style.Theme_Design_NoActionBar;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Theme_MediaRouter = global::ProjectLion.Droid.Resource.Style.Theme_MediaRouter;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Theme_MediaRouter_Light = global::ProjectLion.Droid.Resource.Style.Theme_MediaRouter_Light;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Theme_MediaRouter_Light_DarkControlPanel = global::ProjectLion.Droid.Resource.Style.Theme_MediaRouter_Light_DarkControlPanel;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Theme_MediaRouter_LightControlPanel = global::ProjectLion.Droid.Resource.Style.Theme_MediaRouter_LightControlPanel;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.ThemeOverlay_AppCompat = global::ProjectLion.Droid.Resource.Style.ThemeOverlay_AppCompat;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.ThemeOverlay_AppCompat_ActionBar = global::ProjectLion.Droid.Resource.Style.ThemeOverlay_AppCompat_ActionBar;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.ThemeOverlay_AppCompat_Dark = global::ProjectLion.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar = global::ProjectLion.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.ThemeOverlay_AppCompat_Light = global::ProjectLion.Droid.Resource.Style.ThemeOverlay_AppCompat_Light;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Widget_AppCompat_ActionBar = global::ProjectLion.Droid.Resource.Style.Widget_AppCompat_ActionBar;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Widget_AppCompat_ActionBar_Solid = global::ProjectLion.Droid.Resource.Style.Widget_AppCompat_ActionBar_Solid;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Widget_AppCompat_ActionBar_TabBar = global::ProjectLion.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabBar;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Widget_AppCompat_ActionBar_TabText = global::ProjectLion.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabText;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Widget_AppCompat_ActionBar_TabView = global::ProjectLion.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabView;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Widget_AppCompat_ActionButton = global::ProjectLion.Droid.Resource.Style.Widget_AppCompat_ActionButton;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Widget_AppCompat_ActionButton_CloseMode = global::ProjectLion.Droid.Resource.Style.Widget_AppCompat_ActionButton_CloseMode;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Widget_AppCompat_ActionButton_Overflow = global::ProjectLion.Droid.Resource.Style.Widget_AppCompat_ActionButton_Overflow;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Widget_AppCompat_ActionMode = global::ProjectLion.Droid.Resource.Style.Widget_AppCompat_ActionMode;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Widget_AppCompat_ActivityChooserView = global::ProjectLion.Droid.Resource.Style.Widget_AppCompat_ActivityChooserView;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Widget_AppCompat_AutoCompleteTextView = global::ProjectLion.Droid.Resource.Style.Widget_AppCompat_AutoCompleteTextView;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Widget_AppCompat_Button = global::ProjectLion.Droid.Resource.Style.Widget_AppCompat_Button;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Widget_AppCompat_Button_Borderless = global::ProjectLion.Droid.Resource.Style.Widget_AppCompat_Button_Borderless;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Widget_AppCompat_Button_Borderless_Colored = global::ProjectLion.Droid.Resource.Style.Widget_AppCompat_Button_Borderless_Colored;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog = global::ProjectLion.Droid.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Widget_AppCompat_Button_Colored = global::ProjectLion.Droid.Resource.Style.Widget_AppCompat_Button_Colored;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Widget_AppCompat_Button_Small = global::ProjectLion.Droid.Resource.Style.Widget_AppCompat_Button_Small;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Widget_AppCompat_ButtonBar = global::ProjectLion.Droid.Resource.Style.Widget_AppCompat_ButtonBar;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog = global::ProjectLion.Droid.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox = global::ProjectLion.Droid.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton = global::ProjectLion.Droid.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Widget_AppCompat_CompoundButton_Switch = global::ProjectLion.Droid.Resource.Style.Widget_AppCompat_CompoundButton_Switch;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Widget_AppCompat_DrawerArrowToggle = global::ProjectLion.Droid.Resource.Style.Widget_AppCompat_DrawerArrowToggle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Widget_AppCompat_DropDownItem_Spinner = global::ProjectLion.Droid.Resource.Style.Widget_AppCompat_DropDownItem_Spinner;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Widget_AppCompat_EditText = global::ProjectLion.Droid.Resource.Style.Widget_AppCompat_EditText;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Widget_AppCompat_ImageButton = global::ProjectLion.Droid.Resource.Style.Widget_AppCompat_ImageButton;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Widget_AppCompat_Light_ActionBar = global::ProjectLion.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid = global::ProjectLion.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse = global::ProjectLion.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar = global::ProjectLion.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse = global::ProjectLion.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText = global::ProjectLion.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::ProjectLion.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView = global::ProjectLion.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse = global::ProjectLion.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Widget_AppCompat_Light_ActionButton = global::ProjectLion.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode = global::ProjectLion.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow = global::ProjectLion.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse = global::ProjectLion.Droid.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Widget_AppCompat_Light_ActivityChooserView = global::ProjectLion.Droid.Resource.Style.Widget_AppCompat_Light_ActivityChooserView;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView = global::ProjectLion.Droid.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner = global::ProjectLion.Droid.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Widget_AppCompat_Light_ListPopupWindow = global::ProjectLion.Droid.Resource.Style.Widget_AppCompat_Light_ListPopupWindow;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Widget_AppCompat_Light_ListView_DropDown = global::ProjectLion.Droid.Resource.Style.Widget_AppCompat_Light_ListView_DropDown;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Widget_AppCompat_Light_PopupMenu = global::ProjectLion.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow = global::ProjectLion.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Widget_AppCompat_Light_SearchView = global::ProjectLion.Droid.Resource.Style.Widget_AppCompat_Light_SearchView;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar = global::ProjectLion.Droid.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Widget_AppCompat_ListPopupWindow = global::ProjectLion.Droid.Resource.Style.Widget_AppCompat_ListPopupWindow;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Widget_AppCompat_ListView = global::ProjectLion.Droid.Resource.Style.Widget_AppCompat_ListView;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Widget_AppCompat_ListView_DropDown = global::ProjectLion.Droid.Resource.Style.Widget_AppCompat_ListView_DropDown;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Widget_AppCompat_ListView_Menu = global::ProjectLion.Droid.Resource.Style.Widget_AppCompat_ListView_Menu;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Widget_AppCompat_PopupMenu = global::ProjectLion.Droid.Resource.Style.Widget_AppCompat_PopupMenu;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Widget_AppCompat_PopupMenu_Overflow = global::ProjectLion.Droid.Resource.Style.Widget_AppCompat_PopupMenu_Overflow;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Widget_AppCompat_PopupWindow = global::ProjectLion.Droid.Resource.Style.Widget_AppCompat_PopupWindow;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Widget_AppCompat_ProgressBar = global::ProjectLion.Droid.Resource.Style.Widget_AppCompat_ProgressBar;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal = global::ProjectLion.Droid.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Widget_AppCompat_RatingBar = global::ProjectLion.Droid.Resource.Style.Widget_AppCompat_RatingBar;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Widget_AppCompat_RatingBar_Indicator = global::ProjectLion.Droid.Resource.Style.Widget_AppCompat_RatingBar_Indicator;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Widget_AppCompat_RatingBar_Small = global::ProjectLion.Droid.Resource.Style.Widget_AppCompat_RatingBar_Small;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Widget_AppCompat_SearchView = global::ProjectLion.Droid.Resource.Style.Widget_AppCompat_SearchView;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Widget_AppCompat_SearchView_ActionBar = global::ProjectLion.Droid.Resource.Style.Widget_AppCompat_SearchView_ActionBar;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Widget_AppCompat_SeekBar = global::ProjectLion.Droid.Resource.Style.Widget_AppCompat_SeekBar;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Widget_AppCompat_Spinner = global::ProjectLion.Droid.Resource.Style.Widget_AppCompat_Spinner;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Widget_AppCompat_Spinner_DropDown = global::ProjectLion.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar = global::ProjectLion.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Widget_AppCompat_Spinner_Underlined = global::ProjectLion.Droid.Resource.Style.Widget_AppCompat_Spinner_Underlined;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Widget_AppCompat_TextView_SpinnerItem = global::ProjectLion.Droid.Resource.Style.Widget_AppCompat_TextView_SpinnerItem;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Widget_AppCompat_Toolbar = global::ProjectLion.Droid.Resource.Style.Widget_AppCompat_Toolbar;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation = global::ProjectLion.Droid.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Widget_Design_AppBarLayout = global::ProjectLion.Droid.Resource.Style.Widget_Design_AppBarLayout;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Widget_Design_BottomSheet_Modal = global::ProjectLion.Droid.Resource.Style.Widget_Design_BottomSheet_Modal;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Widget_Design_CollapsingToolbar = global::ProjectLion.Droid.Resource.Style.Widget_Design_CollapsingToolbar;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Widget_Design_CoordinatorLayout = global::ProjectLion.Droid.Resource.Style.Widget_Design_CoordinatorLayout;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Widget_Design_FloatingActionButton = global::ProjectLion.Droid.Resource.Style.Widget_Design_FloatingActionButton;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Widget_Design_NavigationView = global::ProjectLion.Droid.Resource.Style.Widget_Design_NavigationView;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Widget_Design_ScrimInsetsFrameLayout = global::ProjectLion.Droid.Resource.Style.Widget_Design_ScrimInsetsFrameLayout;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Widget_Design_Snackbar = global::ProjectLion.Droid.Resource.Style.Widget_Design_Snackbar;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Widget_Design_TabLayout = global::ProjectLion.Droid.Resource.Style.Widget_Design_TabLayout;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Widget_Design_TextInputLayout = global::ProjectLion.Droid.Resource.Style.Widget_Design_TextInputLayout;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Widget_MediaRouter_ChooserText = global::ProjectLion.Droid.Resource.Style.Widget_MediaRouter_ChooserText;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Widget_MediaRouter_ChooserText_Primary = global::ProjectLion.Droid.Resource.Style.Widget_MediaRouter_ChooserText_Primary;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Widget_MediaRouter_ChooserText_Primary_Dark = global::ProjectLion.Droid.Resource.Style.Widget_MediaRouter_ChooserText_Primary_Dark;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Widget_MediaRouter_ChooserText_Primary_Light = global::ProjectLion.Droid.Resource.Style.Widget_MediaRouter_ChooserText_Primary_Light;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Widget_MediaRouter_ChooserText_Secondary = global::ProjectLion.Droid.Resource.Style.Widget_MediaRouter_ChooserText_Secondary;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Widget_MediaRouter_ChooserText_Secondary_Dark = global::ProjectLion.Droid.Resource.Style.Widget_MediaRouter_ChooserText_Secondary_Dark;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Widget_MediaRouter_ChooserText_Secondary_Light = global::ProjectLion.Droid.Resource.Style.Widget_MediaRouter_ChooserText_Secondary_Light;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Widget_MediaRouter_ControllerText = global::ProjectLion.Droid.Resource.Style.Widget_MediaRouter_ControllerText;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Widget_MediaRouter_ControllerText_Primary = global::ProjectLion.Droid.Resource.Style.Widget_MediaRouter_ControllerText_Primary;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Widget_MediaRouter_ControllerText_Primary_Dark = global::ProjectLion.Droid.Resource.Style.Widget_MediaRouter_ControllerText_Primary_Dark;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Widget_MediaRouter_ControllerText_Primary_Light = global::ProjectLion.Droid.Resource.Style.Widget_MediaRouter_ControllerText_Primary_Light;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Widget_MediaRouter_ControllerText_Secondary = global::ProjectLion.Droid.Resource.Style.Widget_MediaRouter_ControllerText_Secondary;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Widget_MediaRouter_ControllerText_Secondary_Dark = global::ProjectLion.Droid.Resource.Style.Widget_MediaRouter_ControllerText_Secondary_Dark;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Widget_MediaRouter_ControllerText_Secondary_Light = global::ProjectLion.Droid.Resource.Style.Widget_MediaRouter_ControllerText_Secondary_Light;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Widget_MediaRouter_ControllerText_Title = global::ProjectLion.Droid.Resource.Style.Widget_MediaRouter_ControllerText_Title;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Widget_MediaRouter_ControllerText_Title_Dark = global::ProjectLion.Droid.Resource.Style.Widget_MediaRouter_ControllerText_Title_Dark;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Widget_MediaRouter_ControllerText_Title_Light = global::ProjectLion.Droid.Resource.Style.Widget_MediaRouter_ControllerText_Title_Light;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Widget_MediaRouter_Light_MediaRouteButton = global::ProjectLion.Droid.Resource.Style.Widget_MediaRouter_Light_MediaRouteButton;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Style.Widget_MediaRouter_MediaRouteButton = global::ProjectLion.Droid.Resource.Style.Widget_MediaRouter_MediaRouteButton;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.ActionBar = global::ProjectLion.Droid.Resource.Styleable.ActionBar;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.ActionBar_background = global::ProjectLion.Droid.Resource.Styleable.ActionBar_background;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.ActionBar_backgroundSplit = global::ProjectLion.Droid.Resource.Styleable.ActionBar_backgroundSplit;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.ActionBar_backgroundStacked = global::ProjectLion.Droid.Resource.Styleable.ActionBar_backgroundStacked;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.ActionBar_contentInsetEnd = global::ProjectLion.Droid.Resource.Styleable.ActionBar_contentInsetEnd;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.ActionBar_contentInsetLeft = global::ProjectLion.Droid.Resource.Styleable.ActionBar_contentInsetLeft;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.ActionBar_contentInsetRight = global::ProjectLion.Droid.Resource.Styleable.ActionBar_contentInsetRight;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.ActionBar_contentInsetStart = global::ProjectLion.Droid.Resource.Styleable.ActionBar_contentInsetStart;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.ActionBar_customNavigationLayout = global::ProjectLion.Droid.Resource.Styleable.ActionBar_customNavigationLayout;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.ActionBar_displayOptions = global::ProjectLion.Droid.Resource.Styleable.ActionBar_displayOptions;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.ActionBar_divider = global::ProjectLion.Droid.Resource.Styleable.ActionBar_divider;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.ActionBar_elevation = global::ProjectLion.Droid.Resource.Styleable.ActionBar_elevation;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.ActionBar_height = global::ProjectLion.Droid.Resource.Styleable.ActionBar_height;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.ActionBar_hideOnContentScroll = global::ProjectLion.Droid.Resource.Styleable.ActionBar_hideOnContentScroll;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.ActionBar_homeAsUpIndicator = global::ProjectLion.Droid.Resource.Styleable.ActionBar_homeAsUpIndicator;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.ActionBar_homeLayout = global::ProjectLion.Droid.Resource.Styleable.ActionBar_homeLayout;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.ActionBar_icon = global::ProjectLion.Droid.Resource.Styleable.ActionBar_icon;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.ActionBar_indeterminateProgressStyle = global::ProjectLion.Droid.Resource.Styleable.ActionBar_indeterminateProgressStyle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.ActionBar_itemPadding = global::ProjectLion.Droid.Resource.Styleable.ActionBar_itemPadding;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.ActionBar_logo = global::ProjectLion.Droid.Resource.Styleable.ActionBar_logo;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.ActionBar_navigationMode = global::ProjectLion.Droid.Resource.Styleable.ActionBar_navigationMode;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.ActionBar_popupTheme = global::ProjectLion.Droid.Resource.Styleable.ActionBar_popupTheme;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.ActionBar_progressBarPadding = global::ProjectLion.Droid.Resource.Styleable.ActionBar_progressBarPadding;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.ActionBar_progressBarStyle = global::ProjectLion.Droid.Resource.Styleable.ActionBar_progressBarStyle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.ActionBar_subtitle = global::ProjectLion.Droid.Resource.Styleable.ActionBar_subtitle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.ActionBar_subtitleTextStyle = global::ProjectLion.Droid.Resource.Styleable.ActionBar_subtitleTextStyle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.ActionBar_title = global::ProjectLion.Droid.Resource.Styleable.ActionBar_title;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.ActionBar_titleTextStyle = global::ProjectLion.Droid.Resource.Styleable.ActionBar_titleTextStyle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.ActionBarLayout = global::ProjectLion.Droid.Resource.Styleable.ActionBarLayout;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.ActionBarLayout_android_layout_gravity = global::ProjectLion.Droid.Resource.Styleable.ActionBarLayout_android_layout_gravity;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.ActionMenuItemView = global::ProjectLion.Droid.Resource.Styleable.ActionMenuItemView;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.ActionMenuItemView_android_minWidth = global::ProjectLion.Droid.Resource.Styleable.ActionMenuItemView_android_minWidth;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.ActionMenuView = global::ProjectLion.Droid.Resource.Styleable.ActionMenuView;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.ActionMode = global::ProjectLion.Droid.Resource.Styleable.ActionMode;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.ActionMode_background = global::ProjectLion.Droid.Resource.Styleable.ActionMode_background;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.ActionMode_backgroundSplit = global::ProjectLion.Droid.Resource.Styleable.ActionMode_backgroundSplit;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.ActionMode_closeItemLayout = global::ProjectLion.Droid.Resource.Styleable.ActionMode_closeItemLayout;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.ActionMode_height = global::ProjectLion.Droid.Resource.Styleable.ActionMode_height;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.ActionMode_subtitleTextStyle = global::ProjectLion.Droid.Resource.Styleable.ActionMode_subtitleTextStyle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.ActionMode_titleTextStyle = global::ProjectLion.Droid.Resource.Styleable.ActionMode_titleTextStyle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.ActivityChooserView = global::ProjectLion.Droid.Resource.Styleable.ActivityChooserView;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable = global::ProjectLion.Droid.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.ActivityChooserView_initialActivityCount = global::ProjectLion.Droid.Resource.Styleable.ActivityChooserView_initialActivityCount;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AlertDialog = global::ProjectLion.Droid.Resource.Styleable.AlertDialog;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AlertDialog_android_layout = global::ProjectLion.Droid.Resource.Styleable.AlertDialog_android_layout;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AlertDialog_buttonPanelSideLayout = global::ProjectLion.Droid.Resource.Styleable.AlertDialog_buttonPanelSideLayout;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AlertDialog_listItemLayout = global::ProjectLion.Droid.Resource.Styleable.AlertDialog_listItemLayout;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AlertDialog_listLayout = global::ProjectLion.Droid.Resource.Styleable.AlertDialog_listLayout;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AlertDialog_multiChoiceItemLayout = global::ProjectLion.Droid.Resource.Styleable.AlertDialog_multiChoiceItemLayout;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AlertDialog_singleChoiceItemLayout = global::ProjectLion.Droid.Resource.Styleable.AlertDialog_singleChoiceItemLayout;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppBarLayout = global::ProjectLion.Droid.Resource.Styleable.AppBarLayout;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppBarLayout_android_background = global::ProjectLion.Droid.Resource.Styleable.AppBarLayout_android_background;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppBarLayout_elevation = global::ProjectLion.Droid.Resource.Styleable.AppBarLayout_elevation;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppBarLayout_expanded = global::ProjectLion.Droid.Resource.Styleable.AppBarLayout_expanded;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppBarLayout_LayoutParams = global::ProjectLion.Droid.Resource.Styleable.AppBarLayout_LayoutParams;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppBarLayout_LayoutParams_layout_scrollFlags = global::ProjectLion.Droid.Resource.Styleable.AppBarLayout_LayoutParams_layout_scrollFlags;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppBarLayout_LayoutParams_layout_scrollInterpolator = global::ProjectLion.Droid.Resource.Styleable.AppBarLayout_LayoutParams_layout_scrollInterpolator;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppCompatImageView = global::ProjectLion.Droid.Resource.Styleable.AppCompatImageView;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppCompatImageView_android_src = global::ProjectLion.Droid.Resource.Styleable.AppCompatImageView_android_src;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppCompatImageView_srcCompat = global::ProjectLion.Droid.Resource.Styleable.AppCompatImageView_srcCompat;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppCompatTextView = global::ProjectLion.Droid.Resource.Styleable.AppCompatTextView;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppCompatTextView_android_textAppearance = global::ProjectLion.Droid.Resource.Styleable.AppCompatTextView_android_textAppearance;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppCompatTextView_textAllCaps = global::ProjectLion.Droid.Resource.Styleable.AppCompatTextView_textAllCaps;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppCompatTheme = global::ProjectLion.Droid.Resource.Styleable.AppCompatTheme;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppCompatTheme_actionBarDivider = global::ProjectLion.Droid.Resource.Styleable.AppCompatTheme_actionBarDivider;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppCompatTheme_actionBarItemBackground = global::ProjectLion.Droid.Resource.Styleable.AppCompatTheme_actionBarItemBackground;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppCompatTheme_actionBarPopupTheme = global::ProjectLion.Droid.Resource.Styleable.AppCompatTheme_actionBarPopupTheme;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppCompatTheme_actionBarSize = global::ProjectLion.Droid.Resource.Styleable.AppCompatTheme_actionBarSize;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppCompatTheme_actionBarSplitStyle = global::ProjectLion.Droid.Resource.Styleable.AppCompatTheme_actionBarSplitStyle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppCompatTheme_actionBarStyle = global::ProjectLion.Droid.Resource.Styleable.AppCompatTheme_actionBarStyle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle = global::ProjectLion.Droid.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppCompatTheme_actionBarTabStyle = global::ProjectLion.Droid.Resource.Styleable.AppCompatTheme_actionBarTabStyle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle = global::ProjectLion.Droid.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppCompatTheme_actionBarTheme = global::ProjectLion.Droid.Resource.Styleable.AppCompatTheme_actionBarTheme;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme = global::ProjectLion.Droid.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppCompatTheme_actionButtonStyle = global::ProjectLion.Droid.Resource.Styleable.AppCompatTheme_actionButtonStyle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppCompatTheme_actionDropDownStyle = global::ProjectLion.Droid.Resource.Styleable.AppCompatTheme_actionDropDownStyle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance = global::ProjectLion.Droid.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppCompatTheme_actionMenuTextColor = global::ProjectLion.Droid.Resource.Styleable.AppCompatTheme_actionMenuTextColor;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppCompatTheme_actionModeBackground = global::ProjectLion.Droid.Resource.Styleable.AppCompatTheme_actionModeBackground;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle = global::ProjectLion.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable = global::ProjectLion.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable = global::ProjectLion.Droid.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppCompatTheme_actionModeCutDrawable = global::ProjectLion.Droid.Resource.Styleable.AppCompatTheme_actionModeCutDrawable;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppCompatTheme_actionModeFindDrawable = global::ProjectLion.Droid.Resource.Styleable.AppCompatTheme_actionModeFindDrawable;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppCompatTheme_actionModePasteDrawable = global::ProjectLion.Droid.Resource.Styleable.AppCompatTheme_actionModePasteDrawable;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle = global::ProjectLion.Droid.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable = global::ProjectLion.Droid.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppCompatTheme_actionModeShareDrawable = global::ProjectLion.Droid.Resource.Styleable.AppCompatTheme_actionModeShareDrawable;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppCompatTheme_actionModeSplitBackground = global::ProjectLion.Droid.Resource.Styleable.AppCompatTheme_actionModeSplitBackground;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppCompatTheme_actionModeStyle = global::ProjectLion.Droid.Resource.Styleable.AppCompatTheme_actionModeStyle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable = global::ProjectLion.Droid.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle = global::ProjectLion.Droid.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle = global::ProjectLion.Droid.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppCompatTheme_activityChooserViewStyle = global::ProjectLion.Droid.Resource.Styleable.AppCompatTheme_activityChooserViewStyle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle = global::ProjectLion.Droid.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons = global::ProjectLion.Droid.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppCompatTheme_alertDialogStyle = global::ProjectLion.Droid.Resource.Styleable.AppCompatTheme_alertDialogStyle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppCompatTheme_alertDialogTheme = global::ProjectLion.Droid.Resource.Styleable.AppCompatTheme_alertDialogTheme;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle = global::ProjectLion.Droid.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppCompatTheme_android_windowIsFloating = global::ProjectLion.Droid.Resource.Styleable.AppCompatTheme_android_windowIsFloating;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle = global::ProjectLion.Droid.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppCompatTheme_borderlessButtonStyle = global::ProjectLion.Droid.Resource.Styleable.AppCompatTheme_borderlessButtonStyle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle = global::ProjectLion.Droid.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle = global::ProjectLion.Droid.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle = global::ProjectLion.Droid.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle = global::ProjectLion.Droid.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppCompatTheme_buttonBarStyle = global::ProjectLion.Droid.Resource.Styleable.AppCompatTheme_buttonBarStyle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppCompatTheme_buttonStyle = global::ProjectLion.Droid.Resource.Styleable.AppCompatTheme_buttonStyle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppCompatTheme_buttonStyleSmall = global::ProjectLion.Droid.Resource.Styleable.AppCompatTheme_buttonStyleSmall;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppCompatTheme_checkboxStyle = global::ProjectLion.Droid.Resource.Styleable.AppCompatTheme_checkboxStyle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppCompatTheme_checkedTextViewStyle = global::ProjectLion.Droid.Resource.Styleable.AppCompatTheme_checkedTextViewStyle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppCompatTheme_colorAccent = global::ProjectLion.Droid.Resource.Styleable.AppCompatTheme_colorAccent;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppCompatTheme_colorButtonNormal = global::ProjectLion.Droid.Resource.Styleable.AppCompatTheme_colorButtonNormal;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppCompatTheme_colorControlActivated = global::ProjectLion.Droid.Resource.Styleable.AppCompatTheme_colorControlActivated;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppCompatTheme_colorControlHighlight = global::ProjectLion.Droid.Resource.Styleable.AppCompatTheme_colorControlHighlight;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppCompatTheme_colorControlNormal = global::ProjectLion.Droid.Resource.Styleable.AppCompatTheme_colorControlNormal;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppCompatTheme_colorPrimary = global::ProjectLion.Droid.Resource.Styleable.AppCompatTheme_colorPrimary;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppCompatTheme_colorPrimaryDark = global::ProjectLion.Droid.Resource.Styleable.AppCompatTheme_colorPrimaryDark;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal = global::ProjectLion.Droid.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppCompatTheme_controlBackground = global::ProjectLion.Droid.Resource.Styleable.AppCompatTheme_controlBackground;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppCompatTheme_dialogPreferredPadding = global::ProjectLion.Droid.Resource.Styleable.AppCompatTheme_dialogPreferredPadding;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppCompatTheme_dialogTheme = global::ProjectLion.Droid.Resource.Styleable.AppCompatTheme_dialogTheme;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppCompatTheme_dividerHorizontal = global::ProjectLion.Droid.Resource.Styleable.AppCompatTheme_dividerHorizontal;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppCompatTheme_dividerVertical = global::ProjectLion.Droid.Resource.Styleable.AppCompatTheme_dividerVertical;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppCompatTheme_dropDownListViewStyle = global::ProjectLion.Droid.Resource.Styleable.AppCompatTheme_dropDownListViewStyle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight = global::ProjectLion.Droid.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppCompatTheme_editTextBackground = global::ProjectLion.Droid.Resource.Styleable.AppCompatTheme_editTextBackground;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppCompatTheme_editTextColor = global::ProjectLion.Droid.Resource.Styleable.AppCompatTheme_editTextColor;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppCompatTheme_editTextStyle = global::ProjectLion.Droid.Resource.Styleable.AppCompatTheme_editTextStyle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppCompatTheme_homeAsUpIndicator = global::ProjectLion.Droid.Resource.Styleable.AppCompatTheme_homeAsUpIndicator;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppCompatTheme_imageButtonStyle = global::ProjectLion.Droid.Resource.Styleable.AppCompatTheme_imageButtonStyle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator = global::ProjectLion.Droid.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppCompatTheme_listDividerAlertDialog = global::ProjectLion.Droid.Resource.Styleable.AppCompatTheme_listDividerAlertDialog;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppCompatTheme_listPopupWindowStyle = global::ProjectLion.Droid.Resource.Styleable.AppCompatTheme_listPopupWindowStyle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppCompatTheme_listPreferredItemHeight = global::ProjectLion.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeight;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge = global::ProjectLion.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall = global::ProjectLion.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft = global::ProjectLion.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight = global::ProjectLion.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppCompatTheme_panelBackground = global::ProjectLion.Droid.Resource.Styleable.AppCompatTheme_panelBackground;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppCompatTheme_panelMenuListTheme = global::ProjectLion.Droid.Resource.Styleable.AppCompatTheme_panelMenuListTheme;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppCompatTheme_panelMenuListWidth = global::ProjectLion.Droid.Resource.Styleable.AppCompatTheme_panelMenuListWidth;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppCompatTheme_popupMenuStyle = global::ProjectLion.Droid.Resource.Styleable.AppCompatTheme_popupMenuStyle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppCompatTheme_popupWindowStyle = global::ProjectLion.Droid.Resource.Styleable.AppCompatTheme_popupWindowStyle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppCompatTheme_radioButtonStyle = global::ProjectLion.Droid.Resource.Styleable.AppCompatTheme_radioButtonStyle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppCompatTheme_ratingBarStyle = global::ProjectLion.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator = global::ProjectLion.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall = global::ProjectLion.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppCompatTheme_searchViewStyle = global::ProjectLion.Droid.Resource.Styleable.AppCompatTheme_searchViewStyle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppCompatTheme_seekBarStyle = global::ProjectLion.Droid.Resource.Styleable.AppCompatTheme_seekBarStyle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppCompatTheme_selectableItemBackground = global::ProjectLion.Droid.Resource.Styleable.AppCompatTheme_selectableItemBackground;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless = global::ProjectLion.Droid.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle = global::ProjectLion.Droid.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppCompatTheme_spinnerStyle = global::ProjectLion.Droid.Resource.Styleable.AppCompatTheme_spinnerStyle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppCompatTheme_switchStyle = global::ProjectLion.Droid.Resource.Styleable.AppCompatTheme_switchStyle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu = global::ProjectLion.Droid.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppCompatTheme_textAppearanceListItem = global::ProjectLion.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItem;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall = global::ProjectLion.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle = global::ProjectLion.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle = global::ProjectLion.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu = global::ProjectLion.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem = global::ProjectLion.Droid.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppCompatTheme_textColorSearchUrl = global::ProjectLion.Droid.Resource.Styleable.AppCompatTheme_textColorSearchUrl;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle = global::ProjectLion.Droid.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppCompatTheme_toolbarStyle = global::ProjectLion.Droid.Resource.Styleable.AppCompatTheme_toolbarStyle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppCompatTheme_windowActionBar = global::ProjectLion.Droid.Resource.Styleable.AppCompatTheme_windowActionBar;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppCompatTheme_windowActionBarOverlay = global::ProjectLion.Droid.Resource.Styleable.AppCompatTheme_windowActionBarOverlay;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppCompatTheme_windowActionModeOverlay = global::ProjectLion.Droid.Resource.Styleable.AppCompatTheme_windowActionModeOverlay;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor = global::ProjectLion.Droid.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor = global::ProjectLion.Droid.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor = global::ProjectLion.Droid.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor = global::ProjectLion.Droid.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppCompatTheme_windowMinWidthMajor = global::ProjectLion.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMajor;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppCompatTheme_windowMinWidthMinor = global::ProjectLion.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMinor;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.AppCompatTheme_windowNoTitle = global::ProjectLion.Droid.Resource.Styleable.AppCompatTheme_windowNoTitle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.BottomSheetBehavior_Params = global::ProjectLion.Droid.Resource.Styleable.BottomSheetBehavior_Params;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.BottomSheetBehavior_Params_behavior_hideable = global::ProjectLion.Droid.Resource.Styleable.BottomSheetBehavior_Params_behavior_hideable;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.BottomSheetBehavior_Params_behavior_peekHeight = global::ProjectLion.Droid.Resource.Styleable.BottomSheetBehavior_Params_behavior_peekHeight;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.ButtonBarLayout = global::ProjectLion.Droid.Resource.Styleable.ButtonBarLayout;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.ButtonBarLayout_allowStacking = global::ProjectLion.Droid.Resource.Styleable.ButtonBarLayout_allowStacking;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.CardView = global::ProjectLion.Droid.Resource.Styleable.CardView;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.CardView_android_minHeight = global::ProjectLion.Droid.Resource.Styleable.CardView_android_minHeight;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.CardView_android_minWidth = global::ProjectLion.Droid.Resource.Styleable.CardView_android_minWidth;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.CardView_cardBackgroundColor = global::ProjectLion.Droid.Resource.Styleable.CardView_cardBackgroundColor;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.CardView_cardCornerRadius = global::ProjectLion.Droid.Resource.Styleable.CardView_cardCornerRadius;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.CardView_cardElevation = global::ProjectLion.Droid.Resource.Styleable.CardView_cardElevation;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.CardView_cardMaxElevation = global::ProjectLion.Droid.Resource.Styleable.CardView_cardMaxElevation;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.CardView_cardPreventCornerOverlap = global::ProjectLion.Droid.Resource.Styleable.CardView_cardPreventCornerOverlap;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.CardView_cardUseCompatPadding = global::ProjectLion.Droid.Resource.Styleable.CardView_cardUseCompatPadding;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.CardView_contentPadding = global::ProjectLion.Droid.Resource.Styleable.CardView_contentPadding;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.CardView_contentPaddingBottom = global::ProjectLion.Droid.Resource.Styleable.CardView_contentPaddingBottom;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.CardView_contentPaddingLeft = global::ProjectLion.Droid.Resource.Styleable.CardView_contentPaddingLeft;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.CardView_contentPaddingRight = global::ProjectLion.Droid.Resource.Styleable.CardView_contentPaddingRight;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.CardView_contentPaddingTop = global::ProjectLion.Droid.Resource.Styleable.CardView_contentPaddingTop;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.CollapsingAppBarLayout_LayoutParams = global::ProjectLion.Droid.Resource.Styleable.CollapsingAppBarLayout_LayoutParams;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.CollapsingAppBarLayout_LayoutParams_layout_collapseMode = global::ProjectLion.Droid.Resource.Styleable.CollapsingAppBarLayout_LayoutParams_layout_collapseMode;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.CollapsingAppBarLayout_LayoutParams_layout_collapseParallaxMultiplier = global::ProjectLion.Droid.Resource.Styleable.CollapsingAppBarLayout_LayoutParams_layout_collapseParallaxMultiplier;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.CollapsingToolbarLayout = global::ProjectLion.Droid.Resource.Styleable.CollapsingToolbarLayout;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity = global::ProjectLion.Droid.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance = global::ProjectLion.Droid.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_contentScrim = global::ProjectLion.Droid.Resource.Styleable.CollapsingToolbarLayout_contentScrim;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleGravity = global::ProjectLion.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleGravity;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMargin = global::ProjectLion.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMargin;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginBottom = global::ProjectLion.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginBottom;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginEnd = global::ProjectLion.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginEnd;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginStart = global::ProjectLion.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginStart;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginTop = global::ProjectLion.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginTop;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleTextAppearance = global::ProjectLion.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleTextAppearance;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_statusBarScrim = global::ProjectLion.Droid.Resource.Styleable.CollapsingToolbarLayout_statusBarScrim;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_title = global::ProjectLion.Droid.Resource.Styleable.CollapsingToolbarLayout_title;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_titleEnabled = global::ProjectLion.Droid.Resource.Styleable.CollapsingToolbarLayout_titleEnabled;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_toolbarId = global::ProjectLion.Droid.Resource.Styleable.CollapsingToolbarLayout_toolbarId;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.CompoundButton = global::ProjectLion.Droid.Resource.Styleable.CompoundButton;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.CompoundButton_android_button = global::ProjectLion.Droid.Resource.Styleable.CompoundButton_android_button;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.CompoundButton_buttonTint = global::ProjectLion.Droid.Resource.Styleable.CompoundButton_buttonTint;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.CompoundButton_buttonTintMode = global::ProjectLion.Droid.Resource.Styleable.CompoundButton_buttonTintMode;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.CoordinatorLayout = global::ProjectLion.Droid.Resource.Styleable.CoordinatorLayout;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.CoordinatorLayout_keylines = global::ProjectLion.Droid.Resource.Styleable.CoordinatorLayout_keylines;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.CoordinatorLayout_statusBarBackground = global::ProjectLion.Droid.Resource.Styleable.CoordinatorLayout_statusBarBackground;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.CoordinatorLayout_LayoutParams = global::ProjectLion.Droid.Resource.Styleable.CoordinatorLayout_LayoutParams;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.CoordinatorLayout_LayoutParams_android_layout_gravity = global::ProjectLion.Droid.Resource.Styleable.CoordinatorLayout_LayoutParams_android_layout_gravity;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.CoordinatorLayout_LayoutParams_layout_anchor = global::ProjectLion.Droid.Resource.Styleable.CoordinatorLayout_LayoutParams_layout_anchor;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.CoordinatorLayout_LayoutParams_layout_anchorGravity = global::ProjectLion.Droid.Resource.Styleable.CoordinatorLayout_LayoutParams_layout_anchorGravity;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.CoordinatorLayout_LayoutParams_layout_behavior = global::ProjectLion.Droid.Resource.Styleable.CoordinatorLayout_LayoutParams_layout_behavior;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.CoordinatorLayout_LayoutParams_layout_keyline = global::ProjectLion.Droid.Resource.Styleable.CoordinatorLayout_LayoutParams_layout_keyline;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.DesignTheme = global::ProjectLion.Droid.Resource.Styleable.DesignTheme;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.DesignTheme_bottomSheetDialogTheme = global::ProjectLion.Droid.Resource.Styleable.DesignTheme_bottomSheetDialogTheme;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.DesignTheme_bottomSheetStyle = global::ProjectLion.Droid.Resource.Styleable.DesignTheme_bottomSheetStyle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.DesignTheme_textColorError = global::ProjectLion.Droid.Resource.Styleable.DesignTheme_textColorError;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.DrawerArrowToggle = global::ProjectLion.Droid.Resource.Styleable.DrawerArrowToggle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.DrawerArrowToggle_arrowHeadLength = global::ProjectLion.Droid.Resource.Styleable.DrawerArrowToggle_arrowHeadLength;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.DrawerArrowToggle_arrowShaftLength = global::ProjectLion.Droid.Resource.Styleable.DrawerArrowToggle_arrowShaftLength;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.DrawerArrowToggle_barLength = global::ProjectLion.Droid.Resource.Styleable.DrawerArrowToggle_barLength;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.DrawerArrowToggle_color = global::ProjectLion.Droid.Resource.Styleable.DrawerArrowToggle_color;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.DrawerArrowToggle_drawableSize = global::ProjectLion.Droid.Resource.Styleable.DrawerArrowToggle_drawableSize;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.DrawerArrowToggle_gapBetweenBars = global::ProjectLion.Droid.Resource.Styleable.DrawerArrowToggle_gapBetweenBars;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.DrawerArrowToggle_spinBars = global::ProjectLion.Droid.Resource.Styleable.DrawerArrowToggle_spinBars;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.DrawerArrowToggle_thickness = global::ProjectLion.Droid.Resource.Styleable.DrawerArrowToggle_thickness;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.FlexPie = global::ProjectLion.Droid.Resource.Styleable.FlexPie;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.FlexPie_flexPie_animated = global::ProjectLion.Droid.Resource.Styleable.FlexPie_flexPie_animated;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.FlexPie_flexPie_backgroundColor = global::ProjectLion.Droid.Resource.Styleable.FlexPie_flexPie_backgroundColor;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.FlexPie_flexPie_binding = global::ProjectLion.Droid.Resource.Styleable.FlexPie_flexPie_binding;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.FlexPie_flexPie_bindingName = global::ProjectLion.Droid.Resource.Styleable.FlexPie_flexPie_bindingName;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.FlexPie_flexPie_borderColor = global::ProjectLion.Droid.Resource.Styleable.FlexPie_flexPie_borderColor;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.FlexPie_flexPie_borderWidth = global::ProjectLion.Droid.Resource.Styleable.FlexPie_flexPie_borderWidth;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.FlexPie_flexPie_datalabel_FontColor = global::ProjectLion.Droid.Resource.Styleable.FlexPie_flexPie_datalabel_FontColor;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.FlexPie_flexPie_datalabel_FontSize = global::ProjectLion.Droid.Resource.Styleable.FlexPie_flexPie_datalabel_FontSize;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.FlexPie_flexPie_datalabel_FontTypeface = global::ProjectLion.Droid.Resource.Styleable.FlexPie_flexPie_datalabel_FontTypeface;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.FlexPie_flexPie_datalabel_FontWeight = global::ProjectLion.Droid.Resource.Styleable.FlexPie_flexPie_datalabel_FontWeight;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.FlexPie_flexPie_datalabel_backgroundColor = global::ProjectLion.Droid.Resource.Styleable.FlexPie_flexPie_datalabel_backgroundColor;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.FlexPie_flexPie_datalabel_borderColor = global::ProjectLion.Droid.Resource.Styleable.FlexPie_flexPie_datalabel_borderColor;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.FlexPie_flexPie_datalabel_borderWidth = global::ProjectLion.Droid.Resource.Styleable.FlexPie_flexPie_datalabel_borderWidth;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.FlexPie_flexPie_datalabel_position = global::ProjectLion.Droid.Resource.Styleable.FlexPie_flexPie_datalabel_position;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.FlexPie_flexPie_footer = global::ProjectLion.Droid.Resource.Styleable.FlexPie_flexPie_footer;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.FlexPie_flexPie_footerFontColor = global::ProjectLion.Droid.Resource.Styleable.FlexPie_flexPie_footerFontColor;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.FlexPie_flexPie_footerFontGravity = global::ProjectLion.Droid.Resource.Styleable.FlexPie_flexPie_footerFontGravity;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.FlexPie_flexPie_footerFontSize = global::ProjectLion.Droid.Resource.Styleable.FlexPie_flexPie_footerFontSize;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.FlexPie_flexPie_footerFontTypeface = global::ProjectLion.Droid.Resource.Styleable.FlexPie_flexPie_footerFontTypeface;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.FlexPie_flexPie_footerFontWeight = global::ProjectLion.Droid.Resource.Styleable.FlexPie_flexPie_footerFontWeight;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.FlexPie_flexPie_header = global::ProjectLion.Droid.Resource.Styleable.FlexPie_flexPie_header;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.FlexPie_flexPie_headerFontColor = global::ProjectLion.Droid.Resource.Styleable.FlexPie_flexPie_headerFontColor;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.FlexPie_flexPie_headerFontGravity = global::ProjectLion.Droid.Resource.Styleable.FlexPie_flexPie_headerFontGravity;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.FlexPie_flexPie_headerFontSize = global::ProjectLion.Droid.Resource.Styleable.FlexPie_flexPie_headerFontSize;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.FlexPie_flexPie_headerFontTypeface = global::ProjectLion.Droid.Resource.Styleable.FlexPie_flexPie_headerFontTypeface;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.FlexPie_flexPie_headerFontWeight = global::ProjectLion.Droid.Resource.Styleable.FlexPie_flexPie_headerFontWeight;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.FlexPie_flexPie_innerRadius = global::ProjectLion.Droid.Resource.Styleable.FlexPie_flexPie_innerRadius;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.FlexPie_flexPie_legend_FontColor = global::ProjectLion.Droid.Resource.Styleable.FlexPie_flexPie_legend_FontColor;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.FlexPie_flexPie_legend_FontSize = global::ProjectLion.Droid.Resource.Styleable.FlexPie_flexPie_legend_FontSize;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.FlexPie_flexPie_legend_FontTypeface = global::ProjectLion.Droid.Resource.Styleable.FlexPie_flexPie_legend_FontTypeface;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.FlexPie_flexPie_legend_FontWeight = global::ProjectLion.Droid.Resource.Styleable.FlexPie_flexPie_legend_FontWeight;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.FlexPie_flexPie_legend_backgroundColor = global::ProjectLion.Droid.Resource.Styleable.FlexPie_flexPie_legend_backgroundColor;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.FlexPie_flexPie_legend_borderColor = global::ProjectLion.Droid.Resource.Styleable.FlexPie_flexPie_legend_borderColor;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.FlexPie_flexPie_legend_borderWidth = global::ProjectLion.Droid.Resource.Styleable.FlexPie_flexPie_legend_borderWidth;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.FlexPie_flexPie_legend_orientation = global::ProjectLion.Droid.Resource.Styleable.FlexPie_flexPie_legend_orientation;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.FlexPie_flexPie_legend_position = global::ProjectLion.Droid.Resource.Styleable.FlexPie_flexPie_legend_position;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.FlexPie_flexPie_loadAnimation_duration = global::ProjectLion.Droid.Resource.Styleable.FlexPie_flexPie_loadAnimation_duration;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.FlexPie_flexPie_loadAnimation_loadAnimationMode = global::ProjectLion.Droid.Resource.Styleable.FlexPie_flexPie_loadAnimation_loadAnimationMode;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.FlexPie_flexPie_loadAnimation_startDelay = global::ProjectLion.Droid.Resource.Styleable.FlexPie_flexPie_loadAnimation_startDelay;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.FlexPie_flexPie_offset = global::ProjectLion.Droid.Resource.Styleable.FlexPie_flexPie_offset;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.FlexPie_flexPie_palette = global::ProjectLion.Droid.Resource.Styleable.FlexPie_flexPie_palette;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.FlexPie_flexPie_plotAreabackgroundColor = global::ProjectLion.Droid.Resource.Styleable.FlexPie_flexPie_plotAreabackgroundColor;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.FlexPie_flexPie_reversed = global::ProjectLion.Droid.Resource.Styleable.FlexPie_flexPie_reversed;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.FlexPie_flexPie_selectAnimation_duration = global::ProjectLion.Droid.Resource.Styleable.FlexPie_flexPie_selectAnimation_duration;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.FlexPie_flexPie_selectAnimation_startDelay = global::ProjectLion.Droid.Resource.Styleable.FlexPie_flexPie_selectAnimation_startDelay;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.FlexPie_flexPie_selectedBorderColor = global::ProjectLion.Droid.Resource.Styleable.FlexPie_flexPie_selectedBorderColor;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.FlexPie_flexPie_selectedBorderWidth = global::ProjectLion.Droid.Resource.Styleable.FlexPie_flexPie_selectedBorderWidth;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.FlexPie_flexPie_selectedItemOffset = global::ProjectLion.Droid.Resource.Styleable.FlexPie_flexPie_selectedItemOffset;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.FlexPie_flexPie_selectedItemPosition = global::ProjectLion.Droid.Resource.Styleable.FlexPie_flexPie_selectedItemPosition;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.FlexPie_flexPie_selectionMode = global::ProjectLion.Droid.Resource.Styleable.FlexPie_flexPie_selectionMode;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.FlexPie_flexPie_sliceBorderWidth = global::ProjectLion.Droid.Resource.Styleable.FlexPie_flexPie_sliceBorderWidth;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.FlexPie_flexPie_startAngle = global::ProjectLion.Droid.Resource.Styleable.FlexPie_flexPie_startAngle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.FlexPie_flexPie_updateAnimation_duration = global::ProjectLion.Droid.Resource.Styleable.FlexPie_flexPie_updateAnimation_duration;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.FlexPie_flexPie_updateAnimation_startDelay = global::ProjectLion.Droid.Resource.Styleable.FlexPie_flexPie_updateAnimation_startDelay;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.FloatingActionButton = global::ProjectLion.Droid.Resource.Styleable.FloatingActionButton;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.FloatingActionButton_backgroundTint = global::ProjectLion.Droid.Resource.Styleable.FloatingActionButton_backgroundTint;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.FloatingActionButton_backgroundTintMode = global::ProjectLion.Droid.Resource.Styleable.FloatingActionButton_backgroundTintMode;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.FloatingActionButton_borderWidth = global::ProjectLion.Droid.Resource.Styleable.FloatingActionButton_borderWidth;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.FloatingActionButton_elevation = global::ProjectLion.Droid.Resource.Styleable.FloatingActionButton_elevation;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.FloatingActionButton_fabSize = global::ProjectLion.Droid.Resource.Styleable.FloatingActionButton_fabSize;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.FloatingActionButton_pressedTranslationZ = global::ProjectLion.Droid.Resource.Styleable.FloatingActionButton_pressedTranslationZ;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.FloatingActionButton_rippleColor = global::ProjectLion.Droid.Resource.Styleable.FloatingActionButton_rippleColor;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.FloatingActionButton_useCompatPadding = global::ProjectLion.Droid.Resource.Styleable.FloatingActionButton_useCompatPadding;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.ForegroundLinearLayout = global::ProjectLion.Droid.Resource.Styleable.ForegroundLinearLayout;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.ForegroundLinearLayout_android_foreground = global::ProjectLion.Droid.Resource.Styleable.ForegroundLinearLayout_android_foreground;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity = global::ProjectLion.Droid.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding = global::ProjectLion.Droid.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.LinearLayoutCompat = global::ProjectLion.Droid.Resource.Styleable.LinearLayoutCompat;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.LinearLayoutCompat_android_baselineAligned = global::ProjectLion.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAligned;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex = global::ProjectLion.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.LinearLayoutCompat_android_gravity = global::ProjectLion.Droid.Resource.Styleable.LinearLayoutCompat_android_gravity;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.LinearLayoutCompat_android_orientation = global::ProjectLion.Droid.Resource.Styleable.LinearLayoutCompat_android_orientation;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.LinearLayoutCompat_android_weightSum = global::ProjectLion.Droid.Resource.Styleable.LinearLayoutCompat_android_weightSum;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.LinearLayoutCompat_divider = global::ProjectLion.Droid.Resource.Styleable.LinearLayoutCompat_divider;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.LinearLayoutCompat_dividerPadding = global::ProjectLion.Droid.Resource.Styleable.LinearLayoutCompat_dividerPadding;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild = global::ProjectLion.Droid.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.LinearLayoutCompat_showDividers = global::ProjectLion.Droid.Resource.Styleable.LinearLayoutCompat_showDividers;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.LinearLayoutCompat_Layout = global::ProjectLion.Droid.Resource.Styleable.LinearLayoutCompat_Layout;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity = global::ProjectLion.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height = global::ProjectLion.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight = global::ProjectLion.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width = global::ProjectLion.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.ListPopupWindow = global::ProjectLion.Droid.Resource.Styleable.ListPopupWindow;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset = global::ProjectLion.Droid.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset = global::ProjectLion.Droid.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.MediaRouteButton = global::ProjectLion.Droid.Resource.Styleable.MediaRouteButton;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.MediaRouteButton_android_minHeight = global::ProjectLion.Droid.Resource.Styleable.MediaRouteButton_android_minHeight;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.MediaRouteButton_android_minWidth = global::ProjectLion.Droid.Resource.Styleable.MediaRouteButton_android_minWidth;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.MediaRouteButton_externalRouteEnabledDrawable = global::ProjectLion.Droid.Resource.Styleable.MediaRouteButton_externalRouteEnabledDrawable;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.MenuGroup = global::ProjectLion.Droid.Resource.Styleable.MenuGroup;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.MenuGroup_android_checkableBehavior = global::ProjectLion.Droid.Resource.Styleable.MenuGroup_android_checkableBehavior;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.MenuGroup_android_enabled = global::ProjectLion.Droid.Resource.Styleable.MenuGroup_android_enabled;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.MenuGroup_android_id = global::ProjectLion.Droid.Resource.Styleable.MenuGroup_android_id;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.MenuGroup_android_menuCategory = global::ProjectLion.Droid.Resource.Styleable.MenuGroup_android_menuCategory;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.MenuGroup_android_orderInCategory = global::ProjectLion.Droid.Resource.Styleable.MenuGroup_android_orderInCategory;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.MenuGroup_android_visible = global::ProjectLion.Droid.Resource.Styleable.MenuGroup_android_visible;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.MenuItem = global::ProjectLion.Droid.Resource.Styleable.MenuItem;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.MenuItem_actionLayout = global::ProjectLion.Droid.Resource.Styleable.MenuItem_actionLayout;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.MenuItem_actionProviderClass = global::ProjectLion.Droid.Resource.Styleable.MenuItem_actionProviderClass;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.MenuItem_actionViewClass = global::ProjectLion.Droid.Resource.Styleable.MenuItem_actionViewClass;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.MenuItem_android_alphabeticShortcut = global::ProjectLion.Droid.Resource.Styleable.MenuItem_android_alphabeticShortcut;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.MenuItem_android_checkable = global::ProjectLion.Droid.Resource.Styleable.MenuItem_android_checkable;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.MenuItem_android_checked = global::ProjectLion.Droid.Resource.Styleable.MenuItem_android_checked;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.MenuItem_android_enabled = global::ProjectLion.Droid.Resource.Styleable.MenuItem_android_enabled;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.MenuItem_android_icon = global::ProjectLion.Droid.Resource.Styleable.MenuItem_android_icon;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.MenuItem_android_id = global::ProjectLion.Droid.Resource.Styleable.MenuItem_android_id;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.MenuItem_android_menuCategory = global::ProjectLion.Droid.Resource.Styleable.MenuItem_android_menuCategory;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.MenuItem_android_numericShortcut = global::ProjectLion.Droid.Resource.Styleable.MenuItem_android_numericShortcut;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.MenuItem_android_onClick = global::ProjectLion.Droid.Resource.Styleable.MenuItem_android_onClick;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.MenuItem_android_orderInCategory = global::ProjectLion.Droid.Resource.Styleable.MenuItem_android_orderInCategory;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.MenuItem_android_title = global::ProjectLion.Droid.Resource.Styleable.MenuItem_android_title;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.MenuItem_android_titleCondensed = global::ProjectLion.Droid.Resource.Styleable.MenuItem_android_titleCondensed;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.MenuItem_android_visible = global::ProjectLion.Droid.Resource.Styleable.MenuItem_android_visible;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.MenuItem_showAsAction = global::ProjectLion.Droid.Resource.Styleable.MenuItem_showAsAction;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.MenuView = global::ProjectLion.Droid.Resource.Styleable.MenuView;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.MenuView_android_headerBackground = global::ProjectLion.Droid.Resource.Styleable.MenuView_android_headerBackground;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.MenuView_android_horizontalDivider = global::ProjectLion.Droid.Resource.Styleable.MenuView_android_horizontalDivider;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.MenuView_android_itemBackground = global::ProjectLion.Droid.Resource.Styleable.MenuView_android_itemBackground;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.MenuView_android_itemIconDisabledAlpha = global::ProjectLion.Droid.Resource.Styleable.MenuView_android_itemIconDisabledAlpha;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.MenuView_android_itemTextAppearance = global::ProjectLion.Droid.Resource.Styleable.MenuView_android_itemTextAppearance;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.MenuView_android_verticalDivider = global::ProjectLion.Droid.Resource.Styleable.MenuView_android_verticalDivider;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.MenuView_android_windowAnimationStyle = global::ProjectLion.Droid.Resource.Styleable.MenuView_android_windowAnimationStyle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.MenuView_preserveIconSpacing = global::ProjectLion.Droid.Resource.Styleable.MenuView_preserveIconSpacing;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.NavigationView = global::ProjectLion.Droid.Resource.Styleable.NavigationView;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.NavigationView_android_background = global::ProjectLion.Droid.Resource.Styleable.NavigationView_android_background;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.NavigationView_android_fitsSystemWindows = global::ProjectLion.Droid.Resource.Styleable.NavigationView_android_fitsSystemWindows;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.NavigationView_android_maxWidth = global::ProjectLion.Droid.Resource.Styleable.NavigationView_android_maxWidth;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.NavigationView_elevation = global::ProjectLion.Droid.Resource.Styleable.NavigationView_elevation;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.NavigationView_headerLayout = global::ProjectLion.Droid.Resource.Styleable.NavigationView_headerLayout;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.NavigationView_itemBackground = global::ProjectLion.Droid.Resource.Styleable.NavigationView_itemBackground;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.NavigationView_itemIconTint = global::ProjectLion.Droid.Resource.Styleable.NavigationView_itemIconTint;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.NavigationView_itemTextAppearance = global::ProjectLion.Droid.Resource.Styleable.NavigationView_itemTextAppearance;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.NavigationView_itemTextColor = global::ProjectLion.Droid.Resource.Styleable.NavigationView_itemTextColor;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.NavigationView_menu = global::ProjectLion.Droid.Resource.Styleable.NavigationView_menu;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.PopupWindow = global::ProjectLion.Droid.Resource.Styleable.PopupWindow;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.PopupWindow_android_popupBackground = global::ProjectLion.Droid.Resource.Styleable.PopupWindow_android_popupBackground;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.PopupWindow_overlapAnchor = global::ProjectLion.Droid.Resource.Styleable.PopupWindow_overlapAnchor;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.PopupWindowBackgroundState = global::ProjectLion.Droid.Resource.Styleable.PopupWindowBackgroundState;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor = global::ProjectLion.Droid.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.RecyclerView = global::ProjectLion.Droid.Resource.Styleable.RecyclerView;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.RecyclerView_android_orientation = global::ProjectLion.Droid.Resource.Styleable.RecyclerView_android_orientation;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.RecyclerView_layoutManager = global::ProjectLion.Droid.Resource.Styleable.RecyclerView_layoutManager;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.RecyclerView_reverseLayout = global::ProjectLion.Droid.Resource.Styleable.RecyclerView_reverseLayout;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.RecyclerView_spanCount = global::ProjectLion.Droid.Resource.Styleable.RecyclerView_spanCount;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.RecyclerView_stackFromEnd = global::ProjectLion.Droid.Resource.Styleable.RecyclerView_stackFromEnd;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.ScrimInsetsFrameLayout = global::ProjectLion.Droid.Resource.Styleable.ScrimInsetsFrameLayout;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.ScrimInsetsFrameLayout_insetForeground = global::ProjectLion.Droid.Resource.Styleable.ScrimInsetsFrameLayout_insetForeground;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.ScrollingViewBehavior_Params = global::ProjectLion.Droid.Resource.Styleable.ScrollingViewBehavior_Params;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.ScrollingViewBehavior_Params_behavior_overlapTop = global::ProjectLion.Droid.Resource.Styleable.ScrollingViewBehavior_Params_behavior_overlapTop;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.SearchView = global::ProjectLion.Droid.Resource.Styleable.SearchView;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.SearchView_android_focusable = global::ProjectLion.Droid.Resource.Styleable.SearchView_android_focusable;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.SearchView_android_imeOptions = global::ProjectLion.Droid.Resource.Styleable.SearchView_android_imeOptions;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.SearchView_android_inputType = global::ProjectLion.Droid.Resource.Styleable.SearchView_android_inputType;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.SearchView_android_maxWidth = global::ProjectLion.Droid.Resource.Styleable.SearchView_android_maxWidth;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.SearchView_closeIcon = global::ProjectLion.Droid.Resource.Styleable.SearchView_closeIcon;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.SearchView_commitIcon = global::ProjectLion.Droid.Resource.Styleable.SearchView_commitIcon;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.SearchView_defaultQueryHint = global::ProjectLion.Droid.Resource.Styleable.SearchView_defaultQueryHint;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.SearchView_goIcon = global::ProjectLion.Droid.Resource.Styleable.SearchView_goIcon;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.SearchView_iconifiedByDefault = global::ProjectLion.Droid.Resource.Styleable.SearchView_iconifiedByDefault;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.SearchView_layout = global::ProjectLion.Droid.Resource.Styleable.SearchView_layout;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.SearchView_queryBackground = global::ProjectLion.Droid.Resource.Styleable.SearchView_queryBackground;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.SearchView_queryHint = global::ProjectLion.Droid.Resource.Styleable.SearchView_queryHint;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.SearchView_searchHintIcon = global::ProjectLion.Droid.Resource.Styleable.SearchView_searchHintIcon;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.SearchView_searchIcon = global::ProjectLion.Droid.Resource.Styleable.SearchView_searchIcon;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.SearchView_submitBackground = global::ProjectLion.Droid.Resource.Styleable.SearchView_submitBackground;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.SearchView_suggestionRowLayout = global::ProjectLion.Droid.Resource.Styleable.SearchView_suggestionRowLayout;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.SearchView_voiceIcon = global::ProjectLion.Droid.Resource.Styleable.SearchView_voiceIcon;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.SnackbarLayout = global::ProjectLion.Droid.Resource.Styleable.SnackbarLayout;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.SnackbarLayout_android_maxWidth = global::ProjectLion.Droid.Resource.Styleable.SnackbarLayout_android_maxWidth;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.SnackbarLayout_elevation = global::ProjectLion.Droid.Resource.Styleable.SnackbarLayout_elevation;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.SnackbarLayout_maxActionInlineWidth = global::ProjectLion.Droid.Resource.Styleable.SnackbarLayout_maxActionInlineWidth;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.Spinner = global::ProjectLion.Droid.Resource.Styleable.Spinner;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.Spinner_android_dropDownWidth = global::ProjectLion.Droid.Resource.Styleable.Spinner_android_dropDownWidth;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.Spinner_android_entries = global::ProjectLion.Droid.Resource.Styleable.Spinner_android_entries;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.Spinner_android_popupBackground = global::ProjectLion.Droid.Resource.Styleable.Spinner_android_popupBackground;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.Spinner_android_prompt = global::ProjectLion.Droid.Resource.Styleable.Spinner_android_prompt;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.Spinner_popupTheme = global::ProjectLion.Droid.Resource.Styleable.Spinner_popupTheme;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.SwitchCompat = global::ProjectLion.Droid.Resource.Styleable.SwitchCompat;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.SwitchCompat_android_textOff = global::ProjectLion.Droid.Resource.Styleable.SwitchCompat_android_textOff;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.SwitchCompat_android_textOn = global::ProjectLion.Droid.Resource.Styleable.SwitchCompat_android_textOn;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.SwitchCompat_android_thumb = global::ProjectLion.Droid.Resource.Styleable.SwitchCompat_android_thumb;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.SwitchCompat_showText = global::ProjectLion.Droid.Resource.Styleable.SwitchCompat_showText;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.SwitchCompat_splitTrack = global::ProjectLion.Droid.Resource.Styleable.SwitchCompat_splitTrack;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.SwitchCompat_switchMinWidth = global::ProjectLion.Droid.Resource.Styleable.SwitchCompat_switchMinWidth;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.SwitchCompat_switchPadding = global::ProjectLion.Droid.Resource.Styleable.SwitchCompat_switchPadding;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.SwitchCompat_switchTextAppearance = global::ProjectLion.Droid.Resource.Styleable.SwitchCompat_switchTextAppearance;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.SwitchCompat_thumbTextPadding = global::ProjectLion.Droid.Resource.Styleable.SwitchCompat_thumbTextPadding;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.SwitchCompat_track = global::ProjectLion.Droid.Resource.Styleable.SwitchCompat_track;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.TabItem = global::ProjectLion.Droid.Resource.Styleable.TabItem;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.TabItem_android_icon = global::ProjectLion.Droid.Resource.Styleable.TabItem_android_icon;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.TabItem_android_layout = global::ProjectLion.Droid.Resource.Styleable.TabItem_android_layout;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.TabItem_android_text = global::ProjectLion.Droid.Resource.Styleable.TabItem_android_text;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.TabLayout = global::ProjectLion.Droid.Resource.Styleable.TabLayout;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.TabLayout_tabBackground = global::ProjectLion.Droid.Resource.Styleable.TabLayout_tabBackground;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.TabLayout_tabContentStart = global::ProjectLion.Droid.Resource.Styleable.TabLayout_tabContentStart;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.TabLayout_tabGravity = global::ProjectLion.Droid.Resource.Styleable.TabLayout_tabGravity;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.TabLayout_tabIndicatorColor = global::ProjectLion.Droid.Resource.Styleable.TabLayout_tabIndicatorColor;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.TabLayout_tabIndicatorHeight = global::ProjectLion.Droid.Resource.Styleable.TabLayout_tabIndicatorHeight;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.TabLayout_tabMaxWidth = global::ProjectLion.Droid.Resource.Styleable.TabLayout_tabMaxWidth;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.TabLayout_tabMinWidth = global::ProjectLion.Droid.Resource.Styleable.TabLayout_tabMinWidth;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.TabLayout_tabMode = global::ProjectLion.Droid.Resource.Styleable.TabLayout_tabMode;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.TabLayout_tabPadding = global::ProjectLion.Droid.Resource.Styleable.TabLayout_tabPadding;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.TabLayout_tabPaddingBottom = global::ProjectLion.Droid.Resource.Styleable.TabLayout_tabPaddingBottom;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.TabLayout_tabPaddingEnd = global::ProjectLion.Droid.Resource.Styleable.TabLayout_tabPaddingEnd;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.TabLayout_tabPaddingStart = global::ProjectLion.Droid.Resource.Styleable.TabLayout_tabPaddingStart;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.TabLayout_tabPaddingTop = global::ProjectLion.Droid.Resource.Styleable.TabLayout_tabPaddingTop;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.TabLayout_tabSelectedTextColor = global::ProjectLion.Droid.Resource.Styleable.TabLayout_tabSelectedTextColor;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.TabLayout_tabTextAppearance = global::ProjectLion.Droid.Resource.Styleable.TabLayout_tabTextAppearance;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.TabLayout_tabTextColor = global::ProjectLion.Droid.Resource.Styleable.TabLayout_tabTextColor;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.TextAppearance = global::ProjectLion.Droid.Resource.Styleable.TextAppearance;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.TextAppearance_android_shadowColor = global::ProjectLion.Droid.Resource.Styleable.TextAppearance_android_shadowColor;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.TextAppearance_android_shadowDx = global::ProjectLion.Droid.Resource.Styleable.TextAppearance_android_shadowDx;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.TextAppearance_android_shadowDy = global::ProjectLion.Droid.Resource.Styleable.TextAppearance_android_shadowDy;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.TextAppearance_android_shadowRadius = global::ProjectLion.Droid.Resource.Styleable.TextAppearance_android_shadowRadius;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.TextAppearance_android_textColor = global::ProjectLion.Droid.Resource.Styleable.TextAppearance_android_textColor;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.TextAppearance_android_textSize = global::ProjectLion.Droid.Resource.Styleable.TextAppearance_android_textSize;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.TextAppearance_android_textStyle = global::ProjectLion.Droid.Resource.Styleable.TextAppearance_android_textStyle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.TextAppearance_android_typeface = global::ProjectLion.Droid.Resource.Styleable.TextAppearance_android_typeface;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.TextAppearance_textAllCaps = global::ProjectLion.Droid.Resource.Styleable.TextAppearance_textAllCaps;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.TextInputLayout = global::ProjectLion.Droid.Resource.Styleable.TextInputLayout;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.TextInputLayout_android_hint = global::ProjectLion.Droid.Resource.Styleable.TextInputLayout_android_hint;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.TextInputLayout_android_textColorHint = global::ProjectLion.Droid.Resource.Styleable.TextInputLayout_android_textColorHint;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.TextInputLayout_counterEnabled = global::ProjectLion.Droid.Resource.Styleable.TextInputLayout_counterEnabled;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.TextInputLayout_counterMaxLength = global::ProjectLion.Droid.Resource.Styleable.TextInputLayout_counterMaxLength;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.TextInputLayout_counterOverflowTextAppearance = global::ProjectLion.Droid.Resource.Styleable.TextInputLayout_counterOverflowTextAppearance;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.TextInputLayout_counterTextAppearance = global::ProjectLion.Droid.Resource.Styleable.TextInputLayout_counterTextAppearance;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.TextInputLayout_errorEnabled = global::ProjectLion.Droid.Resource.Styleable.TextInputLayout_errorEnabled;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.TextInputLayout_errorTextAppearance = global::ProjectLion.Droid.Resource.Styleable.TextInputLayout_errorTextAppearance;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.TextInputLayout_hintAnimationEnabled = global::ProjectLion.Droid.Resource.Styleable.TextInputLayout_hintAnimationEnabled;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.TextInputLayout_hintEnabled = global::ProjectLion.Droid.Resource.Styleable.TextInputLayout_hintEnabled;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.TextInputLayout_hintTextAppearance = global::ProjectLion.Droid.Resource.Styleable.TextInputLayout_hintTextAppearance;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.Toolbar = global::ProjectLion.Droid.Resource.Styleable.Toolbar;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.Toolbar_android_gravity = global::ProjectLion.Droid.Resource.Styleable.Toolbar_android_gravity;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.Toolbar_android_minHeight = global::ProjectLion.Droid.Resource.Styleable.Toolbar_android_minHeight;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.Toolbar_collapseContentDescription = global::ProjectLion.Droid.Resource.Styleable.Toolbar_collapseContentDescription;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.Toolbar_collapseIcon = global::ProjectLion.Droid.Resource.Styleable.Toolbar_collapseIcon;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.Toolbar_contentInsetEnd = global::ProjectLion.Droid.Resource.Styleable.Toolbar_contentInsetEnd;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.Toolbar_contentInsetLeft = global::ProjectLion.Droid.Resource.Styleable.Toolbar_contentInsetLeft;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.Toolbar_contentInsetRight = global::ProjectLion.Droid.Resource.Styleable.Toolbar_contentInsetRight;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.Toolbar_contentInsetStart = global::ProjectLion.Droid.Resource.Styleable.Toolbar_contentInsetStart;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.Toolbar_logo = global::ProjectLion.Droid.Resource.Styleable.Toolbar_logo;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.Toolbar_logoDescription = global::ProjectLion.Droid.Resource.Styleable.Toolbar_logoDescription;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.Toolbar_maxButtonHeight = global::ProjectLion.Droid.Resource.Styleable.Toolbar_maxButtonHeight;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.Toolbar_navigationContentDescription = global::ProjectLion.Droid.Resource.Styleable.Toolbar_navigationContentDescription;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.Toolbar_navigationIcon = global::ProjectLion.Droid.Resource.Styleable.Toolbar_navigationIcon;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.Toolbar_popupTheme = global::ProjectLion.Droid.Resource.Styleable.Toolbar_popupTheme;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.Toolbar_subtitle = global::ProjectLion.Droid.Resource.Styleable.Toolbar_subtitle;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.Toolbar_subtitleTextAppearance = global::ProjectLion.Droid.Resource.Styleable.Toolbar_subtitleTextAppearance;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.Toolbar_subtitleTextColor = global::ProjectLion.Droid.Resource.Styleable.Toolbar_subtitleTextColor;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.Toolbar_title = global::ProjectLion.Droid.Resource.Styleable.Toolbar_title;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.Toolbar_titleMarginBottom = global::ProjectLion.Droid.Resource.Styleable.Toolbar_titleMarginBottom;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.Toolbar_titleMarginEnd = global::ProjectLion.Droid.Resource.Styleable.Toolbar_titleMarginEnd;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.Toolbar_titleMarginStart = global::ProjectLion.Droid.Resource.Styleable.Toolbar_titleMarginStart;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.Toolbar_titleMarginTop = global::ProjectLion.Droid.Resource.Styleable.Toolbar_titleMarginTop;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.Toolbar_titleMargins = global::ProjectLion.Droid.Resource.Styleable.Toolbar_titleMargins;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.Toolbar_titleTextAppearance = global::ProjectLion.Droid.Resource.Styleable.Toolbar_titleTextAppearance;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.Toolbar_titleTextColor = global::ProjectLion.Droid.Resource.Styleable.Toolbar_titleTextColor;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.View = global::ProjectLion.Droid.Resource.Styleable.View;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.View_android_focusable = global::ProjectLion.Droid.Resource.Styleable.View_android_focusable;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.View_android_theme = global::ProjectLion.Droid.Resource.Styleable.View_android_theme;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.View_paddingEnd = global::ProjectLion.Droid.Resource.Styleable.View_paddingEnd;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.View_paddingStart = global::ProjectLion.Droid.Resource.Styleable.View_paddingStart;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.View_theme = global::ProjectLion.Droid.Resource.Styleable.View_theme;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.ViewBackgroundHelper = global::ProjectLion.Droid.Resource.Styleable.ViewBackgroundHelper;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.ViewBackgroundHelper_android_background = global::ProjectLion.Droid.Resource.Styleable.ViewBackgroundHelper_android_background;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.ViewBackgroundHelper_backgroundTint = global::ProjectLion.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTint;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode = global::ProjectLion.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.ViewStubCompat = global::ProjectLion.Droid.Resource.Styleable.ViewStubCompat;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.ViewStubCompat_android_id = global::ProjectLion.Droid.Resource.Styleable.ViewStubCompat_android_id;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.ViewStubCompat_android_inflatedId = global::ProjectLion.Droid.Resource.Styleable.ViewStubCompat_android_inflatedId;
-			global::Xuni.Forms.FlexPie.Platform.Android.Resource.Styleable.ViewStubCompat_android_layout = global::ProjectLion.Droid.Resource.Styleable.ViewStubCompat_android_layout;
 		}
 		
 		public partial class Animation
@@ -9576,107 +7645,56 @@ namespace ProjectLion.Droid
 		public partial class Array
 		{
 			
-			// aapt resource value: 0x7f0d0020
-			public const int flexChartCerulanPalette = 2131558432;
-			
-			// aapt resource value: 0x7f0d0012
-			public const int flexChartCocoaPalette = 2131558418;
-			
-			// aapt resource value: 0x7f0d0013
-			public const int flexChartCoralPalette = 2131558419;
-			
-			// aapt resource value: 0x7f0d001c
-			public const int flexChartCyborgPalette = 2131558428;
-			
-			// aapt resource value: 0x7f0d0014
-			public const int flexChartDarkPalette = 2131558420;
-			
-			// aapt resource value: 0x7f0d001f
-			public const int flexChartDarklyPalette = 2131558431;
-			
-			// aapt resource value: 0x7f0d0011
-			public const int flexChartDefaultFlexChartPalette = 2131558417;
-			
-			// aapt resource value: 0x7f0d001e
-			public const int flexChartFlatlyPalette = 2131558430;
-			
-			// aapt resource value: 0x7f0d0015
-			public const int flexChartHighConstrastPalette = 2131558421;
-			
-			// aapt resource value: 0x7f0d0016
-			public const int flexChartLightPalette = 2131558422;
-			
-			// aapt resource value: 0x7f0d0021
-			public const int flexChartMaterialPalette = 2131558433;
-			
-			// aapt resource value: 0x7f0d0017
-			public const int flexChartMidnightPalette = 2131558423;
-			
-			// aapt resource value: 0x7f0d0018
-			public const int flexChartMinimalPalette = 2131558424;
-			
-			// aapt resource value: 0x7f0d0019
-			public const int flexChartModernPalette = 2131558425;
-			
-			// aapt resource value: 0x7f0d001a
-			public const int flexChartOrganicPalette = 2131558426;
-			
-			// aapt resource value: 0x7f0d001b
-			public const int flexChartSlatePalette = 2131558427;
-			
-			// aapt resource value: 0x7f0d001d
-			public const int flexChartSuperheroPalette = 2131558429;
-			
 			// aapt resource value: 0x7f0d000f
-			public const int flexPieCerulanPalette = 2131558415;
+			public const int flexChartCerulanPalette = 2131558415;
 			
 			// aapt resource value: 0x7f0d0001
-			public const int flexPieCocoaPalette = 2131558401;
+			public const int flexChartCocoaPalette = 2131558401;
 			
 			// aapt resource value: 0x7f0d0002
-			public const int flexPieCoralPalette = 2131558402;
+			public const int flexChartCoralPalette = 2131558402;
 			
 			// aapt resource value: 0x7f0d000b
-			public const int flexPieCyborgPalette = 2131558411;
+			public const int flexChartCyborgPalette = 2131558411;
 			
 			// aapt resource value: 0x7f0d0003
-			public const int flexPieDarkPalette = 2131558403;
+			public const int flexChartDarkPalette = 2131558403;
 			
 			// aapt resource value: 0x7f0d000e
-			public const int flexPieDarklyPalette = 2131558414;
+			public const int flexChartDarklyPalette = 2131558414;
 			
 			// aapt resource value: 0x7f0d0000
-			public const int flexPieDefaultflexPiePalette = 2131558400;
+			public const int flexChartDefaultFlexChartPalette = 2131558400;
 			
 			// aapt resource value: 0x7f0d000d
-			public const int flexPieFlatlyPalette = 2131558413;
+			public const int flexChartFlatlyPalette = 2131558413;
 			
 			// aapt resource value: 0x7f0d0004
-			public const int flexPieHighConstrastPalette = 2131558404;
+			public const int flexChartHighConstrastPalette = 2131558404;
 			
 			// aapt resource value: 0x7f0d0005
-			public const int flexPieLightPalette = 2131558405;
+			public const int flexChartLightPalette = 2131558405;
 			
 			// aapt resource value: 0x7f0d0010
-			public const int flexPieMaterialPalette = 2131558416;
+			public const int flexChartMaterialPalette = 2131558416;
 			
 			// aapt resource value: 0x7f0d0006
-			public const int flexPieMidnightPalette = 2131558406;
+			public const int flexChartMidnightPalette = 2131558406;
 			
 			// aapt resource value: 0x7f0d0007
-			public const int flexPieMinimalPalette = 2131558407;
+			public const int flexChartMinimalPalette = 2131558407;
 			
 			// aapt resource value: 0x7f0d0008
-			public const int flexPieModernPalette = 2131558408;
+			public const int flexChartModernPalette = 2131558408;
 			
 			// aapt resource value: 0x7f0d0009
-			public const int flexPieOrganicPalette = 2131558409;
+			public const int flexChartOrganicPalette = 2131558409;
 			
 			// aapt resource value: 0x7f0d000a
-			public const int flexPieSlatePalette = 2131558410;
+			public const int flexChartSlatePalette = 2131558410;
 			
 			// aapt resource value: 0x7f0d000c
-			public const int flexPieSuperheroPalette = 2131558412;
+			public const int flexChartSuperheroPalette = 2131558412;
 			
 			static Array()
 			{
@@ -10123,668 +8141,506 @@ namespace ProjectLion.Droid
 			// aapt resource value: 0x7f01012c
 			public const int fabSize = 2130772268;
 			
-			// aapt resource value: 0x7f0101ce
-			public const int flexChartSeries_chartType = 2130772430;
-			
-			// aapt resource value: 0x7f0101cf
-			public const int flexChartSeries_visibility = 2130772431;
-			
-			// aapt resource value: 0x7f0101eb
-			public const int flexChart_animated = 2130772459;
-			
-			// aapt resource value: 0x7f0101c1
-			public const int flexChart_axisX_axisLineVisible = 2130772417;
-			
-			// aapt resource value: 0x7f010206
-			public const int flexChart_axisX_format = 2130772486;
-			
-			// aapt resource value: 0x7f0101f6
-			public const int flexChart_axisX_labelAngle = 2130772470;
-			
-			// aapt resource value: 0x7f0101f3
-			public const int flexChart_axisX_labelFontColor = 2130772467;
-			
-			// aapt resource value: 0x7f0101f4
-			public const int flexChart_axisX_labelFontSize = 2130772468;
-			
-			// aapt resource value: 0x7f0101f5
-			public const int flexChart_axisX_labelFontTypeface = 2130772469;
-			
-			// aapt resource value: 0x7f0101be
-			public const int flexChart_axisX_labelFontWeight = 2130772414;
-			
-			// aapt resource value: 0x7f0101c0
-			public const int flexChart_axisX_labelsVisible = 2130772416;
-			
-			// aapt resource value: 0x7f0101fa
-			public const int flexChart_axisX_lineColor = 2130772474;
-			
-			// aapt resource value: 0x7f0101fb
-			public const int flexChart_axisX_lineWidth = 2130772475;
-			
-			// aapt resource value: 0x7f01020c
-			public const int flexChart_axisX_logBase = 2130772492;
-			
-			// aapt resource value: 0x7f0101fc
-			public const int flexChart_axisX_majorGridColor = 2130772476;
-			
-			// aapt resource value: 0x7f010200
-			public const int flexChart_axisX_majorGridFill = 2130772480;
-			
-			// aapt resource value: 0x7f0101c3
-			public const int flexChart_axisX_majorGridVisible = 2130772419;
-			
-			// aapt resource value: 0x7f0101fd
-			public const int flexChart_axisX_majorGridWidth = 2130772477;
-			
-			// aapt resource value: 0x7f0101fe
-			public const int flexChart_axisX_majorTickColor = 2130772478;
-			
-			// aapt resource value: 0x7f0101c2
-			public const int flexChart_axisX_majorTickOverlap = 2130772418;
-			
-			// aapt resource value: 0x7f0101ff
-			public const int flexChart_axisX_majorTickWidth = 2130772479;
-			
-			// aapt resource value: 0x7f010208
-			public const int flexChart_axisX_majorUnit = 2130772488;
-			
-			// aapt resource value: 0x7f010201
-			public const int flexChart_axisX_minorGridColor = 2130772481;
-			
-			// aapt resource value: 0x7f010205
-			public const int flexChart_axisX_minorGridFill = 2130772485;
-			
-			// aapt resource value: 0x7f0101c5
-			public const int flexChart_axisX_minorGridVisible = 2130772421;
-			
-			// aapt resource value: 0x7f010202
-			public const int flexChart_axisX_minorGridWidth = 2130772482;
-			
-			// aapt resource value: 0x7f010203
-			public const int flexChart_axisX_minorTickColor = 2130772483;
-			
-			// aapt resource value: 0x7f0101c4
-			public const int flexChart_axisX_minorTickOverlap = 2130772420;
-			
-			// aapt resource value: 0x7f010204
-			public const int flexChart_axisX_minorTickWidth = 2130772484;
-			
-			// aapt resource value: 0x7f010209
-			public const int flexChart_axisX_minorUnit = 2130772489;
-			
-			// aapt resource value: 0x7f01020b
-			public const int flexChart_axisX_name = 2130772491;
-			
-			// aapt resource value: 0x7f010207
-			public const int flexChart_axisX_origin = 2130772487;
-			
-			// aapt resource value: 0x7f01020d
-			public const int flexChart_axisX_overlappingLabels = 2130772493;
-			
-			// aapt resource value: 0x7f01020a
-			public const int flexChart_axisX_title = 2130772490;
-			
-			// aapt resource value: 0x7f0101f7
-			public const int flexChart_axisX_titleFontColor = 2130772471;
-			
-			// aapt resource value: 0x7f0101f8
-			public const int flexChart_axisX_titleFontSize = 2130772472;
-			
-			// aapt resource value: 0x7f0101f9
-			public const int flexChart_axisX_titleFontTypeface = 2130772473;
-			
-			// aapt resource value: 0x7f0101bf
-			public const int flexChart_axisX_titleFontWeight = 2130772415;
-			
-			// aapt resource value: 0x7f0101c9
-			public const int flexChart_axisY_axisLineVisible = 2130772425;
-			
-			// aapt resource value: 0x7f01020e
-			public const int flexChart_axisY_format = 2130772494;
-			
-			// aapt resource value: 0x7f010212
-			public const int flexChart_axisY_labelAngle = 2130772498;
-			
-			// aapt resource value: 0x7f01020f
-			public const int flexChart_axisY_labelFontColor = 2130772495;
-			
-			// aapt resource value: 0x7f010210
-			public const int flexChart_axisY_labelFontSize = 2130772496;
-			
-			// aapt resource value: 0x7f010211
-			public const int flexChart_axisY_labelFontTypeface = 2130772497;
-			
-			// aapt resource value: 0x7f0101c6
-			public const int flexChart_axisY_labelFontWeight = 2130772422;
-			
-			// aapt resource value: 0x7f0101c8
-			public const int flexChart_axisY_labelsVisible = 2130772424;
-			
-			// aapt resource value: 0x7f010216
-			public const int flexChart_axisY_lineColor = 2130772502;
-			
-			// aapt resource value: 0x7f010217
-			public const int flexChart_axisY_lineWidth = 2130772503;
-			
-			// aapt resource value: 0x7f010227
-			public const int flexChart_axisY_logBase = 2130772519;
-			
-			// aapt resource value: 0x7f010218
-			public const int flexChart_axisY_majorGridColor = 2130772504;
-			
-			// aapt resource value: 0x7f01021c
-			public const int flexChart_axisY_majorGridFill = 2130772508;
-			
-			// aapt resource value: 0x7f0101ca
-			public const int flexChart_axisY_majorGridVisible = 2130772426;
-			
-			// aapt resource value: 0x7f010219
-			public const int flexChart_axisY_majorGridWidth = 2130772505;
-			
-			// aapt resource value: 0x7f01021a
-			public const int flexChart_axisY_majorTickColor = 2130772506;
-			
-			// aapt resource value: 0x7f0101cb
-			public const int flexChart_axisY_majorTickOverlap = 2130772427;
-			
-			// aapt resource value: 0x7f01021b
-			public const int flexChart_axisY_majorTickWidth = 2130772507;
-			
-			// aapt resource value: 0x7f010223
-			public const int flexChart_axisY_majorUnit = 2130772515;
-			
-			// aapt resource value: 0x7f01021d
-			public const int flexChart_axisY_minorGridColor = 2130772509;
-			
-			// aapt resource value: 0x7f010221
-			public const int flexChart_axisY_minorGridFill = 2130772513;
-			
-			// aapt resource value: 0x7f0101cc
-			public const int flexChart_axisY_minorGridVisible = 2130772428;
-			
-			// aapt resource value: 0x7f01021e
-			public const int flexChart_axisY_minorGridWidth = 2130772510;
-			
-			// aapt resource value: 0x7f01021f
-			public const int flexChart_axisY_minorTickColor = 2130772511;
-			
-			// aapt resource value: 0x7f0101cd
-			public const int flexChart_axisY_minorTickOverlap = 2130772429;
-			
-			// aapt resource value: 0x7f010220
-			public const int flexChart_axisY_minorTickWidth = 2130772512;
-			
-			// aapt resource value: 0x7f010224
-			public const int flexChart_axisY_minorUnit = 2130772516;
-			
-			// aapt resource value: 0x7f010226
-			public const int flexChart_axisY_name = 2130772518;
-			
-			// aapt resource value: 0x7f010222
-			public const int flexChart_axisY_origin = 2130772514;
-			
-			// aapt resource value: 0x7f010228
-			public const int flexChart_axisY_overlappingLabels = 2130772520;
-			
-			// aapt resource value: 0x7f010225
-			public const int flexChart_axisY_title = 2130772517;
-			
-			// aapt resource value: 0x7f010213
-			public const int flexChart_axisY_titleFontColor = 2130772499;
-			
-			// aapt resource value: 0x7f010214
-			public const int flexChart_axisY_titleFontSize = 2130772500;
-			
-			// aapt resource value: 0x7f010215
-			public const int flexChart_axisY_titleFontTypeface = 2130772501;
-			
-			// aapt resource value: 0x7f0101c7
-			public const int flexChart_axisY_titleFontWeight = 2130772423;
-			
-			// aapt resource value: 0x7f0101d9
-			public const int flexChart_backgroundColor = 2130772441;
-			
-			// aapt resource value: 0x7f0101ea
-			public const int flexChart_binding = 2130772458;
-			
-			// aapt resource value: 0x7f0101da
-			public const int flexChart_borderColor = 2130772442;
-			
-			// aapt resource value: 0x7f0101db
-			public const int flexChart_borderWidth = 2130772443;
-			
-			// aapt resource value: 0x7f0101e8
-			public const int flexChart_chartOptions_bubbleMaxSize = 2130772456;
-			
-			// aapt resource value: 0x7f0101e7
-			public const int flexChart_chartOptions_bubbleMinSize = 2130772455;
-			
-			// aapt resource value: 0x7f0101e9
-			public const int flexChart_chartOptions_groupWidth = 2130772457;
-			
-			// aapt resource value: 0x7f0101bc
-			public const int flexChart_chartType = 2130772412;
-			
-			// aapt resource value: 0x7f01022c
-			public const int flexChart_datalabel_FontColor = 2130772524;
-			
-			// aapt resource value: 0x7f01022e
-			public const int flexChart_datalabel_FontSize = 2130772526;
-			
-			// aapt resource value: 0x7f01022f
-			public const int flexChart_datalabel_FontTypeface = 2130772527;
-			
-			// aapt resource value: 0x7f0101bb
-			public const int flexChart_datalabel_FontWeight = 2130772411;
-			
-			// aapt resource value: 0x7f01022a
-			public const int flexChart_datalabel_backgroundColor = 2130772522;
-			
-			// aapt resource value: 0x7f01022b
-			public const int flexChart_datalabel_borderColor = 2130772523;
-			
-			// aapt resource value: 0x7f01022d
-			public const int flexChart_datalabel_borderWidth = 2130772525;
-			
-			// aapt resource value: 0x7f010229
-			public const int flexChart_datalabel_position = 2130772521;
-			
-			// aapt resource value: 0x7f0101d5
-			public const int flexChart_footer = 2130772437;
-			
-			// aapt resource value: 0x7f0101d8
-			public const int flexChart_footerFontColor = 2130772440;
-			
-			// aapt resource value: 0x7f0101b9
-			public const int flexChart_footerFontGravity = 2130772409;
-			
-			// aapt resource value: 0x7f0101d6
-			public const int flexChart_footerFontSize = 2130772438;
-			
-			// aapt resource value: 0x7f0101d7
-			public const int flexChart_footerFontTypeface = 2130772439;
-			
-			// aapt resource value: 0x7f0101b8
-			public const int flexChart_footerFontWeight = 2130772408;
-			
-			// aapt resource value: 0x7f0101d1
-			public const int flexChart_header = 2130772433;
-			
-			// aapt resource value: 0x7f0101d4
-			public const int flexChart_headerFontColor = 2130772436;
-			
-			// aapt resource value: 0x7f0101b7
-			public const int flexChart_headerFontGravity = 2130772407;
-			
-			// aapt resource value: 0x7f0101d2
-			public const int flexChart_headerFontSize = 2130772434;
-			
-			// aapt resource value: 0x7f0101d3
-			public const int flexChart_headerFontTypeface = 2130772435;
-			
-			// aapt resource value: 0x7f0101b6
-			public const int flexChart_headerFontWeight = 2130772406;
-			
-			// aapt resource value: 0x7f0101e2
-			public const int flexChart_legend_FontColor = 2130772450;
-			
-			// aapt resource value: 0x7f0101e3
-			public const int flexChart_legend_FontSize = 2130772451;
-			
-			// aapt resource value: 0x7f0101e4
-			public const int flexChart_legend_FontTypeface = 2130772452;
-			
-			// aapt resource value: 0x7f0101ba
-			public const int flexChart_legend_FontWeight = 2130772410;
-			
-			// aapt resource value: 0x7f0101df
-			public const int flexChart_legend_backgroundColor = 2130772447;
-			
-			// aapt resource value: 0x7f0101e0
-			public const int flexChart_legend_borderColor = 2130772448;
-			
-			// aapt resource value: 0x7f0101e1
-			public const int flexChart_legend_borderWidth = 2130772449;
-			
-			// aapt resource value: 0x7f0101e5
-			public const int flexChart_legend_orientation = 2130772453;
-			
-			// aapt resource value: 0x7f0101e6
-			public const int flexChart_legend_position = 2130772454;
-			
-			// aapt resource value: 0x7f0101ef
-			public const int flexChart_loadAnimation_duration = 2130772463;
-			
-			// aapt resource value: 0x7f0101ee
-			public const int flexChart_loadAnimation_loadAnimationMode = 2130772462;
-			
-			// aapt resource value: 0x7f0101f0
-			public const int flexChart_loadAnimation_startDelay = 2130772464;
-			
-			// aapt resource value: 0x7f0101d0
-			public const int flexChart_palette = 2130772432;
-			
-			// aapt resource value: 0x7f0101dc
-			public const int flexChart_plotAreabackgroundColor = 2130772444;
-			
-			// aapt resource value: 0x7f0101dd
-			public const int flexChart_selectedBorderColor = 2130772445;
-			
-			// aapt resource value: 0x7f0101de
-			public const int flexChart_selectedBorderWidth = 2130772446;
-			
-			// aapt resource value: 0x7f0101bd
-			public const int flexChart_stackingType = 2130772413;
-			
-			// aapt resource value: 0x7f0101ed
-			public const int flexChart_toggleLegend = 2130772461;
-			
-			// aapt resource value: 0x7f0101f1
-			public const int flexChart_updateAnimation_duration = 2130772465;
-			
-			// aapt resource value: 0x7f0101f2
-			public const int flexChart_updateAnimation_startDelay = 2130772466;
-			
-			// aapt resource value: 0x7f0101ec
-			public const int flexChart_zoomMode = 2130772460;
-			
-			// aapt resource value: 0x7f010190
-			public const int flexGrid_allowMerging = 2130772368;
-			
-			// aapt resource value: 0x7f01018f
-			public const int flexGrid_allowResizing = 2130772367;
-			
-			// aapt resource value: 0x7f0101b2
-			public const int flexGrid_allowSorting = 2130772402;
-			
-			// aapt resource value: 0x7f0101a4
-			public const int flexGrid_alternatingRowBackgroundColor = 2130772388;
-			
-			// aapt resource value: 0x7f0101b3
-			public const int flexGrid_autoGenerateColumns = 2130772403;
-			
-			// aapt resource value: 0x7f0101a9
-			public const int flexGrid_borderColor = 2130772393;
-			
-			// aapt resource value: 0x7f0101aa
-			public const int flexGrid_borderWidth = 2130772394;
-			
-			// aapt resource value: 0x7f01019f
-			public const int flexGrid_cellBackgroundColor = 2130772383;
-			
-			// aapt resource value: 0x7f01019c
-			public const int flexGrid_cellPaddingBottom = 2130772380;
+			// aapt resource value: 0x7f010198
+			public const int flexChartSeries_chartType = 2130772376;
 			
 			// aapt resource value: 0x7f010199
-			public const int flexGrid_cellPaddingLeft = 2130772377;
-			
-			// aapt resource value: 0x7f01019b
-			public const int flexGrid_cellPaddingRight = 2130772379;
-			
-			// aapt resource value: 0x7f01019a
-			public const int flexGrid_cellPaddingTop = 2130772378;
-			
-			// aapt resource value: 0x7f010195
-			public const int flexGrid_columnHeaderBackgroundColor = 2130772373;
-			
-			// aapt resource value: 0x7f010196
-			public const int flexGrid_columnHeaderFontColor = 2130772374;
-			
-			// aapt resource value: 0x7f010191
-			public const int flexGrid_columnHeaderFontSize = 2130772369;
-			
-			// aapt resource value: 0x7f010192
-			public const int flexGrid_columnHeaderFontTypeface = 2130772370;
-			
-			// aapt resource value: 0x7f010189
-			public const int flexGrid_columnHeaderFontWeight = 2130772361;
-			
-			// aapt resource value: 0x7f0101a0
-			public const int flexGrid_fontColor = 2130772384;
-			
-			// aapt resource value: 0x7f01019d
-			public const int flexGrid_fontSize = 2130772381;
-			
-			// aapt resource value: 0x7f01019e
-			public const int flexGrid_fontTypeface = 2130772382;
-			
-			// aapt resource value: 0x7f01018b
-			public const int flexGrid_fontWeight = 2130772363;
+			public const int flexChartSeries_visibility = 2130772377;
 			
 			// aapt resource value: 0x7f0101b5
-			public const int flexGrid_frozenColumns = 2130772405;
+			public const int flexChart_animated = 2130772405;
 			
-			// aapt resource value: 0x7f0101b4
-			public const int flexGrid_frozenRows = 2130772404;
+			// aapt resource value: 0x7f01018b
+			public const int flexChart_axisX_axisLineVisible = 2130772363;
 			
-			// aapt resource value: 0x7f0101a2
-			public const int flexGrid_gridLinesColor = 2130772386;
+			// aapt resource value: 0x7f0101d0
+			public const int flexChart_axisX_format = 2130772432;
 			
-			// aapt resource value: 0x7f01018c
-			public const int flexGrid_gridLinesVisibility = 2130772364;
+			// aapt resource value: 0x7f0101c0
+			public const int flexChart_axisX_labelAngle = 2130772416;
 			
-			// aapt resource value: 0x7f0101a3
-			public const int flexGrid_gridLinesWidth = 2130772387;
+			// aapt resource value: 0x7f0101bd
+			public const int flexChart_axisX_labelFontColor = 2130772413;
 			
-			// aapt resource value: 0x7f0101ad
-			public const int flexGrid_groupHeaderFormat = 2130772397;
+			// aapt resource value: 0x7f0101be
+			public const int flexChart_axisX_labelFontSize = 2130772414;
 			
-			// aapt resource value: 0x7f0101ab
-			public const int flexGrid_groupRowBackgroundColor = 2130772395;
-			
-			// aapt resource value: 0x7f0101ac
-			public const int flexGrid_groupRowFontColor = 2130772396;
-			
-			// aapt resource value: 0x7f0101a1
-			public const int flexGrid_headerGridLinesColor = 2130772385;
-			
-			// aapt resource value: 0x7f01018e
-			public const int flexGrid_headersVisibility = 2130772366;
-			
-			// aapt resource value: 0x7f0101b0
-			public const int flexGrid_readOnly = 2130772400;
-			
-			// aapt resource value: 0x7f010197
-			public const int flexGrid_rowHeaderBackgroundColor = 2130772375;
-			
-			// aapt resource value: 0x7f010198
-			public const int flexGrid_rowHeaderFontColor = 2130772376;
-			
-			// aapt resource value: 0x7f010193
-			public const int flexGrid_rowHeaderFontSize = 2130772371;
-			
-			// aapt resource value: 0x7f010194
-			public const int flexGrid_rowHeaderFontTypeface = 2130772372;
-			
-			// aapt resource value: 0x7f01018a
-			public const int flexGrid_rowHeaderFontWeight = 2130772362;
-			
-			// aapt resource value: 0x7f0101a7
-			public const int flexGrid_selectionAdornerBorderColor = 2130772391;
-			
-			// aapt resource value: 0x7f0101a6
-			public const int flexGrid_selectionAdornerColor = 2130772390;
-			
-			// aapt resource value: 0x7f0101a5
-			public const int flexGrid_selectionBackgroundColor = 2130772389;
-			
-			// aapt resource value: 0x7f0101a8
-			public const int flexGrid_selectionFontColor = 2130772392;
-			
-			// aapt resource value: 0x7f01018d
-			public const int flexGrid_selectionMode = 2130772365;
-			
-			// aapt resource value: 0x7f0101b1
-			public const int flexGrid_showGroups = 2130772401;
-			
-			// aapt resource value: 0x7f0101af
-			public const int flexGrid_showSort = 2130772399;
-			
-			// aapt resource value: 0x7f0101ae
-			public const int flexGrid_touchFeedback = 2130772398;
-			
-			// aapt resource value: 0x7f010177
-			public const int flexPie_animated = 2130772343;
-			
-			// aapt resource value: 0x7f010161
-			public const int flexPie_backgroundColor = 2130772321;
-			
-			// aapt resource value: 0x7f010175
-			public const int flexPie_binding = 2130772341;
-			
-			// aapt resource value: 0x7f010174
-			public const int flexPie_bindingName = 2130772340;
-			
-			// aapt resource value: 0x7f010162
-			public const int flexPie_borderColor = 2130772322;
-			
-			// aapt resource value: 0x7f010163
-			public const int flexPie_borderWidth = 2130772323;
-			
-			// aapt resource value: 0x7f010170
-			public const int flexPie_datalabel_FontColor = 2130772336;
-			
-			// aapt resource value: 0x7f010171
-			public const int flexPie_datalabel_FontSize = 2130772337;
-			
-			// aapt resource value: 0x7f010172
-			public const int flexPie_datalabel_FontTypeface = 2130772338;
-			
-			// aapt resource value: 0x7f010173
-			public const int flexPie_datalabel_FontWeight = 2130772339;
-			
-			// aapt resource value: 0x7f01016d
-			public const int flexPie_datalabel_backgroundColor = 2130772333;
-			
-			// aapt resource value: 0x7f01016e
-			public const int flexPie_datalabel_borderColor = 2130772334;
-			
-			// aapt resource value: 0x7f01016f
-			public const int flexPie_datalabel_borderWidth = 2130772335;
+			// aapt resource value: 0x7f0101bf
+			public const int flexChart_axisX_labelFontTypeface = 2130772415;
 			
 			// aapt resource value: 0x7f010188
-			public const int flexPie_datalabel_position = 2130772360;
+			public const int flexChart_axisX_labelFontWeight = 2130772360;
 			
-			// aapt resource value: 0x7f01015d
-			public const int flexPie_footer = 2130772317;
+			// aapt resource value: 0x7f01018a
+			public const int flexChart_axisX_labelsVisible = 2130772362;
 			
-			// aapt resource value: 0x7f010160
-			public const int flexPie_footerFontColor = 2130772320;
+			// aapt resource value: 0x7f0101c4
+			public const int flexChart_axisX_lineColor = 2130772420;
 			
-			// aapt resource value: 0x7f010156
-			public const int flexPie_footerFontGravity = 2130772310;
+			// aapt resource value: 0x7f0101c5
+			public const int flexChart_axisX_lineWidth = 2130772421;
 			
-			// aapt resource value: 0x7f01015e
-			public const int flexPie_footerFontSize = 2130772318;
+			// aapt resource value: 0x7f0101d6
+			public const int flexChart_axisX_logBase = 2130772438;
 			
-			// aapt resource value: 0x7f01015f
-			public const int flexPie_footerFontTypeface = 2130772319;
+			// aapt resource value: 0x7f0101c6
+			public const int flexChart_axisX_majorGridColor = 2130772422;
 			
-			// aapt resource value: 0x7f010155
-			public const int flexPie_footerFontWeight = 2130772309;
+			// aapt resource value: 0x7f0101ca
+			public const int flexChart_axisX_majorGridFill = 2130772426;
 			
-			// aapt resource value: 0x7f010159
-			public const int flexPie_header = 2130772313;
+			// aapt resource value: 0x7f01018d
+			public const int flexChart_axisX_majorGridVisible = 2130772365;
 			
-			// aapt resource value: 0x7f01015c
-			public const int flexPie_headerFontColor = 2130772316;
+			// aapt resource value: 0x7f0101c7
+			public const int flexChart_axisX_majorGridWidth = 2130772423;
 			
-			// aapt resource value: 0x7f010154
-			public const int flexPie_headerFontGravity = 2130772308;
+			// aapt resource value: 0x7f0101c8
+			public const int flexChart_axisX_majorTickColor = 2130772424;
 			
-			// aapt resource value: 0x7f01015a
-			public const int flexPie_headerFontSize = 2130772314;
+			// aapt resource value: 0x7f01018c
+			public const int flexChart_axisX_majorTickOverlap = 2130772364;
 			
-			// aapt resource value: 0x7f01015b
-			public const int flexPie_headerFontTypeface = 2130772315;
+			// aapt resource value: 0x7f0101c9
+			public const int flexChart_axisX_majorTickWidth = 2130772425;
 			
-			// aapt resource value: 0x7f010153
-			public const int flexPie_headerFontWeight = 2130772307;
+			// aapt resource value: 0x7f0101d2
+			public const int flexChart_axisX_majorUnit = 2130772434;
 			
-			// aapt resource value: 0x7f010176
-			public const int flexPie_innerRadius = 2130772342;
+			// aapt resource value: 0x7f0101cb
+			public const int flexChart_axisX_minorGridColor = 2130772427;
 			
-			// aapt resource value: 0x7f01016a
-			public const int flexPie_legend_FontColor = 2130772330;
+			// aapt resource value: 0x7f0101cf
+			public const int flexChart_axisX_minorGridFill = 2130772431;
 			
-			// aapt resource value: 0x7f01016b
-			public const int flexPie_legend_FontSize = 2130772331;
+			// aapt resource value: 0x7f01018f
+			public const int flexChart_axisX_minorGridVisible = 2130772367;
 			
-			// aapt resource value: 0x7f01016c
-			public const int flexPie_legend_FontTypeface = 2130772332;
+			// aapt resource value: 0x7f0101cc
+			public const int flexChart_axisX_minorGridWidth = 2130772428;
 			
-			// aapt resource value: 0x7f010157
-			public const int flexPie_legend_FontWeight = 2130772311;
+			// aapt resource value: 0x7f0101cd
+			public const int flexChart_axisX_minorTickColor = 2130772429;
 			
-			// aapt resource value: 0x7f010167
-			public const int flexPie_legend_backgroundColor = 2130772327;
+			// aapt resource value: 0x7f01018e
+			public const int flexChart_axisX_minorTickOverlap = 2130772366;
 			
-			// aapt resource value: 0x7f010168
-			public const int flexPie_legend_borderColor = 2130772328;
+			// aapt resource value: 0x7f0101ce
+			public const int flexChart_axisX_minorTickWidth = 2130772430;
 			
-			// aapt resource value: 0x7f010169
-			public const int flexPie_legend_borderWidth = 2130772329;
+			// aapt resource value: 0x7f0101d3
+			public const int flexChart_axisX_minorUnit = 2130772435;
 			
-			// aapt resource value: 0x7f01017f
-			public const int flexPie_legend_orientation = 2130772351;
+			// aapt resource value: 0x7f0101d5
+			public const int flexChart_axisX_name = 2130772437;
 			
-			// aapt resource value: 0x7f010180
-			public const int flexPie_legend_position = 2130772352;
+			// aapt resource value: 0x7f0101d1
+			public const int flexChart_axisX_origin = 2130772433;
 			
-			// aapt resource value: 0x7f010182
-			public const int flexPie_loadAnimation_duration = 2130772354;
+			// aapt resource value: 0x7f0101d7
+			public const int flexChart_axisX_overlappingLabels = 2130772439;
 			
-			// aapt resource value: 0x7f010181
-			public const int flexPie_loadAnimation_loadAnimationMode = 2130772353;
+			// aapt resource value: 0x7f0101d4
+			public const int flexChart_axisX_title = 2130772436;
 			
-			// aapt resource value: 0x7f010183
-			public const int flexPie_loadAnimation_startDelay = 2130772355;
+			// aapt resource value: 0x7f0101c1
+			public const int flexChart_axisX_titleFontColor = 2130772417;
 			
-			// aapt resource value: 0x7f01017a
-			public const int flexPie_offset = 2130772346;
+			// aapt resource value: 0x7f0101c2
+			public const int flexChart_axisX_titleFontSize = 2130772418;
 			
-			// aapt resource value: 0x7f010158
-			public const int flexPie_palette = 2130772312;
+			// aapt resource value: 0x7f0101c3
+			public const int flexChart_axisX_titleFontTypeface = 2130772419;
 			
-			// aapt resource value: 0x7f010164
-			public const int flexPie_plotAreabackgroundColor = 2130772324;
+			// aapt resource value: 0x7f010189
+			public const int flexChart_axisX_titleFontWeight = 2130772361;
 			
-			// aapt resource value: 0x7f01017b
-			public const int flexPie_reversed = 2130772347;
+			// aapt resource value: 0x7f010193
+			public const int flexChart_axisY_axisLineVisible = 2130772371;
+			
+			// aapt resource value: 0x7f0101d8
+			public const int flexChart_axisY_format = 2130772440;
+			
+			// aapt resource value: 0x7f0101dc
+			public const int flexChart_axisY_labelAngle = 2130772444;
+			
+			// aapt resource value: 0x7f0101d9
+			public const int flexChart_axisY_labelFontColor = 2130772441;
+			
+			// aapt resource value: 0x7f0101da
+			public const int flexChart_axisY_labelFontSize = 2130772442;
+			
+			// aapt resource value: 0x7f0101db
+			public const int flexChart_axisY_labelFontTypeface = 2130772443;
+			
+			// aapt resource value: 0x7f010190
+			public const int flexChart_axisY_labelFontWeight = 2130772368;
+			
+			// aapt resource value: 0x7f010192
+			public const int flexChart_axisY_labelsVisible = 2130772370;
+			
+			// aapt resource value: 0x7f0101e0
+			public const int flexChart_axisY_lineColor = 2130772448;
+			
+			// aapt resource value: 0x7f0101e1
+			public const int flexChart_axisY_lineWidth = 2130772449;
+			
+			// aapt resource value: 0x7f0101f1
+			public const int flexChart_axisY_logBase = 2130772465;
+			
+			// aapt resource value: 0x7f0101e2
+			public const int flexChart_axisY_majorGridColor = 2130772450;
+			
+			// aapt resource value: 0x7f0101e6
+			public const int flexChart_axisY_majorGridFill = 2130772454;
+			
+			// aapt resource value: 0x7f010194
+			public const int flexChart_axisY_majorGridVisible = 2130772372;
+			
+			// aapt resource value: 0x7f0101e3
+			public const int flexChart_axisY_majorGridWidth = 2130772451;
+			
+			// aapt resource value: 0x7f0101e4
+			public const int flexChart_axisY_majorTickColor = 2130772452;
+			
+			// aapt resource value: 0x7f010195
+			public const int flexChart_axisY_majorTickOverlap = 2130772373;
+			
+			// aapt resource value: 0x7f0101e5
+			public const int flexChart_axisY_majorTickWidth = 2130772453;
+			
+			// aapt resource value: 0x7f0101ed
+			public const int flexChart_axisY_majorUnit = 2130772461;
+			
+			// aapt resource value: 0x7f0101e7
+			public const int flexChart_axisY_minorGridColor = 2130772455;
+			
+			// aapt resource value: 0x7f0101eb
+			public const int flexChart_axisY_minorGridFill = 2130772459;
+			
+			// aapt resource value: 0x7f010196
+			public const int flexChart_axisY_minorGridVisible = 2130772374;
+			
+			// aapt resource value: 0x7f0101e8
+			public const int flexChart_axisY_minorGridWidth = 2130772456;
+			
+			// aapt resource value: 0x7f0101e9
+			public const int flexChart_axisY_minorTickColor = 2130772457;
+			
+			// aapt resource value: 0x7f010197
+			public const int flexChart_axisY_minorTickOverlap = 2130772375;
+			
+			// aapt resource value: 0x7f0101ea
+			public const int flexChart_axisY_minorTickWidth = 2130772458;
+			
+			// aapt resource value: 0x7f0101ee
+			public const int flexChart_axisY_minorUnit = 2130772462;
+			
+			// aapt resource value: 0x7f0101f0
+			public const int flexChart_axisY_name = 2130772464;
+			
+			// aapt resource value: 0x7f0101ec
+			public const int flexChart_axisY_origin = 2130772460;
+			
+			// aapt resource value: 0x7f0101f2
+			public const int flexChart_axisY_overlappingLabels = 2130772466;
+			
+			// aapt resource value: 0x7f0101ef
+			public const int flexChart_axisY_title = 2130772463;
+			
+			// aapt resource value: 0x7f0101dd
+			public const int flexChart_axisY_titleFontColor = 2130772445;
+			
+			// aapt resource value: 0x7f0101de
+			public const int flexChart_axisY_titleFontSize = 2130772446;
+			
+			// aapt resource value: 0x7f0101df
+			public const int flexChart_axisY_titleFontTypeface = 2130772447;
+			
+			// aapt resource value: 0x7f010191
+			public const int flexChart_axisY_titleFontWeight = 2130772369;
+			
+			// aapt resource value: 0x7f0101a3
+			public const int flexChart_backgroundColor = 2130772387;
+			
+			// aapt resource value: 0x7f0101b4
+			public const int flexChart_binding = 2130772404;
+			
+			// aapt resource value: 0x7f0101a4
+			public const int flexChart_borderColor = 2130772388;
+			
+			// aapt resource value: 0x7f0101a5
+			public const int flexChart_borderWidth = 2130772389;
+			
+			// aapt resource value: 0x7f0101b2
+			public const int flexChart_chartOptions_bubbleMaxSize = 2130772402;
+			
+			// aapt resource value: 0x7f0101b1
+			public const int flexChart_chartOptions_bubbleMinSize = 2130772401;
+			
+			// aapt resource value: 0x7f0101b3
+			public const int flexChart_chartOptions_groupWidth = 2130772403;
 			
 			// aapt resource value: 0x7f010186
-			public const int flexPie_selectAnimation_duration = 2130772358;
+			public const int flexChart_chartType = 2130772358;
 			
-			// aapt resource value: 0x7f010187
-			public const int flexPie_selectAnimation_startDelay = 2130772359;
+			// aapt resource value: 0x7f0101f6
+			public const int flexChart_datalabel_FontColor = 2130772470;
 			
-			// aapt resource value: 0x7f010165
-			public const int flexPie_selectedBorderColor = 2130772325;
+			// aapt resource value: 0x7f0101f8
+			public const int flexChart_datalabel_FontSize = 2130772472;
 			
-			// aapt resource value: 0x7f010166
-			public const int flexPie_selectedBorderWidth = 2130772326;
-			
-			// aapt resource value: 0x7f01017c
-			public const int flexPie_selectedItemOffset = 2130772348;
-			
-			// aapt resource value: 0x7f01017d
-			public const int flexPie_selectedItemPosition = 2130772349;
-			
-			// aapt resource value: 0x7f01017e
-			public const int flexPie_selectionMode = 2130772350;
-			
-			// aapt resource value: 0x7f010178
-			public const int flexPie_sliceBorderWidth = 2130772344;
-			
-			// aapt resource value: 0x7f010179
-			public const int flexPie_startAngle = 2130772345;
-			
-			// aapt resource value: 0x7f010184
-			public const int flexPie_updateAnimation_duration = 2130772356;
+			// aapt resource value: 0x7f0101f9
+			public const int flexChart_datalabel_FontTypeface = 2130772473;
 			
 			// aapt resource value: 0x7f010185
-			public const int flexPie_updateAnimation_startDelay = 2130772357;
+			public const int flexChart_datalabel_FontWeight = 2130772357;
+			
+			// aapt resource value: 0x7f0101f4
+			public const int flexChart_datalabel_backgroundColor = 2130772468;
+			
+			// aapt resource value: 0x7f0101f5
+			public const int flexChart_datalabel_borderColor = 2130772469;
+			
+			// aapt resource value: 0x7f0101f7
+			public const int flexChart_datalabel_borderWidth = 2130772471;
+			
+			// aapt resource value: 0x7f0101f3
+			public const int flexChart_datalabel_position = 2130772467;
+			
+			// aapt resource value: 0x7f01019f
+			public const int flexChart_footer = 2130772383;
+			
+			// aapt resource value: 0x7f0101a2
+			public const int flexChart_footerFontColor = 2130772386;
+			
+			// aapt resource value: 0x7f010183
+			public const int flexChart_footerFontGravity = 2130772355;
+			
+			// aapt resource value: 0x7f0101a0
+			public const int flexChart_footerFontSize = 2130772384;
+			
+			// aapt resource value: 0x7f0101a1
+			public const int flexChart_footerFontTypeface = 2130772385;
+			
+			// aapt resource value: 0x7f010182
+			public const int flexChart_footerFontWeight = 2130772354;
+			
+			// aapt resource value: 0x7f01019b
+			public const int flexChart_header = 2130772379;
+			
+			// aapt resource value: 0x7f01019e
+			public const int flexChart_headerFontColor = 2130772382;
+			
+			// aapt resource value: 0x7f010181
+			public const int flexChart_headerFontGravity = 2130772353;
+			
+			// aapt resource value: 0x7f01019c
+			public const int flexChart_headerFontSize = 2130772380;
+			
+			// aapt resource value: 0x7f01019d
+			public const int flexChart_headerFontTypeface = 2130772381;
+			
+			// aapt resource value: 0x7f010180
+			public const int flexChart_headerFontWeight = 2130772352;
+			
+			// aapt resource value: 0x7f0101ac
+			public const int flexChart_legend_FontColor = 2130772396;
+			
+			// aapt resource value: 0x7f0101ad
+			public const int flexChart_legend_FontSize = 2130772397;
+			
+			// aapt resource value: 0x7f0101ae
+			public const int flexChart_legend_FontTypeface = 2130772398;
+			
+			// aapt resource value: 0x7f010184
+			public const int flexChart_legend_FontWeight = 2130772356;
+			
+			// aapt resource value: 0x7f0101a9
+			public const int flexChart_legend_backgroundColor = 2130772393;
+			
+			// aapt resource value: 0x7f0101aa
+			public const int flexChart_legend_borderColor = 2130772394;
+			
+			// aapt resource value: 0x7f0101ab
+			public const int flexChart_legend_borderWidth = 2130772395;
+			
+			// aapt resource value: 0x7f0101af
+			public const int flexChart_legend_orientation = 2130772399;
+			
+			// aapt resource value: 0x7f0101b0
+			public const int flexChart_legend_position = 2130772400;
+			
+			// aapt resource value: 0x7f0101b9
+			public const int flexChart_loadAnimation_duration = 2130772409;
+			
+			// aapt resource value: 0x7f0101b8
+			public const int flexChart_loadAnimation_loadAnimationMode = 2130772408;
+			
+			// aapt resource value: 0x7f0101ba
+			public const int flexChart_loadAnimation_startDelay = 2130772410;
+			
+			// aapt resource value: 0x7f01019a
+			public const int flexChart_palette = 2130772378;
+			
+			// aapt resource value: 0x7f0101a6
+			public const int flexChart_plotAreabackgroundColor = 2130772390;
+			
+			// aapt resource value: 0x7f0101a7
+			public const int flexChart_selectedBorderColor = 2130772391;
+			
+			// aapt resource value: 0x7f0101a8
+			public const int flexChart_selectedBorderWidth = 2130772392;
+			
+			// aapt resource value: 0x7f010187
+			public const int flexChart_stackingType = 2130772359;
+			
+			// aapt resource value: 0x7f0101b7
+			public const int flexChart_toggleLegend = 2130772407;
+			
+			// aapt resource value: 0x7f0101bb
+			public const int flexChart_updateAnimation_duration = 2130772411;
+			
+			// aapt resource value: 0x7f0101bc
+			public const int flexChart_updateAnimation_startDelay = 2130772412;
+			
+			// aapt resource value: 0x7f0101b6
+			public const int flexChart_zoomMode = 2130772406;
+			
+			// aapt resource value: 0x7f01015a
+			public const int flexGrid_allowMerging = 2130772314;
+			
+			// aapt resource value: 0x7f010159
+			public const int flexGrid_allowResizing = 2130772313;
+			
+			// aapt resource value: 0x7f01017c
+			public const int flexGrid_allowSorting = 2130772348;
+			
+			// aapt resource value: 0x7f01016e
+			public const int flexGrid_alternatingRowBackgroundColor = 2130772334;
+			
+			// aapt resource value: 0x7f01017d
+			public const int flexGrid_autoGenerateColumns = 2130772349;
+			
+			// aapt resource value: 0x7f010173
+			public const int flexGrid_borderColor = 2130772339;
+			
+			// aapt resource value: 0x7f010174
+			public const int flexGrid_borderWidth = 2130772340;
+			
+			// aapt resource value: 0x7f010169
+			public const int flexGrid_cellBackgroundColor = 2130772329;
+			
+			// aapt resource value: 0x7f010166
+			public const int flexGrid_cellPaddingBottom = 2130772326;
+			
+			// aapt resource value: 0x7f010163
+			public const int flexGrid_cellPaddingLeft = 2130772323;
+			
+			// aapt resource value: 0x7f010165
+			public const int flexGrid_cellPaddingRight = 2130772325;
+			
+			// aapt resource value: 0x7f010164
+			public const int flexGrid_cellPaddingTop = 2130772324;
+			
+			// aapt resource value: 0x7f01015f
+			public const int flexGrid_columnHeaderBackgroundColor = 2130772319;
+			
+			// aapt resource value: 0x7f010160
+			public const int flexGrid_columnHeaderFontColor = 2130772320;
+			
+			// aapt resource value: 0x7f01015b
+			public const int flexGrid_columnHeaderFontSize = 2130772315;
+			
+			// aapt resource value: 0x7f01015c
+			public const int flexGrid_columnHeaderFontTypeface = 2130772316;
+			
+			// aapt resource value: 0x7f010153
+			public const int flexGrid_columnHeaderFontWeight = 2130772307;
+			
+			// aapt resource value: 0x7f01016a
+			public const int flexGrid_fontColor = 2130772330;
+			
+			// aapt resource value: 0x7f010167
+			public const int flexGrid_fontSize = 2130772327;
+			
+			// aapt resource value: 0x7f010168
+			public const int flexGrid_fontTypeface = 2130772328;
+			
+			// aapt resource value: 0x7f010155
+			public const int flexGrid_fontWeight = 2130772309;
+			
+			// aapt resource value: 0x7f01017f
+			public const int flexGrid_frozenColumns = 2130772351;
+			
+			// aapt resource value: 0x7f01017e
+			public const int flexGrid_frozenRows = 2130772350;
+			
+			// aapt resource value: 0x7f01016c
+			public const int flexGrid_gridLinesColor = 2130772332;
+			
+			// aapt resource value: 0x7f010156
+			public const int flexGrid_gridLinesVisibility = 2130772310;
+			
+			// aapt resource value: 0x7f01016d
+			public const int flexGrid_gridLinesWidth = 2130772333;
+			
+			// aapt resource value: 0x7f010177
+			public const int flexGrid_groupHeaderFormat = 2130772343;
+			
+			// aapt resource value: 0x7f010175
+			public const int flexGrid_groupRowBackgroundColor = 2130772341;
+			
+			// aapt resource value: 0x7f010176
+			public const int flexGrid_groupRowFontColor = 2130772342;
+			
+			// aapt resource value: 0x7f01016b
+			public const int flexGrid_headerGridLinesColor = 2130772331;
+			
+			// aapt resource value: 0x7f010158
+			public const int flexGrid_headersVisibility = 2130772312;
+			
+			// aapt resource value: 0x7f01017a
+			public const int flexGrid_readOnly = 2130772346;
+			
+			// aapt resource value: 0x7f010161
+			public const int flexGrid_rowHeaderBackgroundColor = 2130772321;
+			
+			// aapt resource value: 0x7f010162
+			public const int flexGrid_rowHeaderFontColor = 2130772322;
+			
+			// aapt resource value: 0x7f01015d
+			public const int flexGrid_rowHeaderFontSize = 2130772317;
+			
+			// aapt resource value: 0x7f01015e
+			public const int flexGrid_rowHeaderFontTypeface = 2130772318;
+			
+			// aapt resource value: 0x7f010154
+			public const int flexGrid_rowHeaderFontWeight = 2130772308;
+			
+			// aapt resource value: 0x7f010171
+			public const int flexGrid_selectionAdornerBorderColor = 2130772337;
+			
+			// aapt resource value: 0x7f010170
+			public const int flexGrid_selectionAdornerColor = 2130772336;
+			
+			// aapt resource value: 0x7f01016f
+			public const int flexGrid_selectionBackgroundColor = 2130772335;
+			
+			// aapt resource value: 0x7f010172
+			public const int flexGrid_selectionFontColor = 2130772338;
+			
+			// aapt resource value: 0x7f010157
+			public const int flexGrid_selectionMode = 2130772311;
+			
+			// aapt resource value: 0x7f01017b
+			public const int flexGrid_showGroups = 2130772347;
+			
+			// aapt resource value: 0x7f010179
+			public const int flexGrid_showSort = 2130772345;
+			
+			// aapt resource value: 0x7f010178
+			public const int flexGrid_touchFeedback = 2130772344;
 			
 			// aapt resource value: 0x7f010130
 			public const int foregroundInsidePadding = 2130772272;
@@ -12786,23 +10642,23 @@ namespace ProjectLion.Droid
 		public partial class Id
 		{
 			
-			// aapt resource value: 0x7f0a0054
-			public const int ALL = 2131361876;
+			// aapt resource value: 0x7f0a0049
+			public const int ALL = 2131361865;
 			
-			// aapt resource value: 0x7f0a005e
-			public const int ALL_HEADERS = 2131361886;
+			// aapt resource value: 0x7f0a0051
+			public const int ALL_HEADERS = 2131361873;
 			
-			// aapt resource value: 0x7f0a0062
-			public const int AREA = 2131361890;
+			// aapt resource value: 0x7f0a0058
+			public const int AREA = 2131361880;
 			
-			// aapt resource value: 0x7f0a004c
-			public const int AUTO = 2131361868;
+			// aapt resource value: 0x7f0a006f
+			public const int AUTO = 2131361903;
 			
-			// aapt resource value: 0x7f0a0079
-			public const int Auto = 2131361913;
+			// aapt resource value: 0x7f0a0078
+			public const int Auto = 2131361912;
 			
-			// aapt resource value: 0x7f0a0063
-			public const int BAR = 2131361891;
+			// aapt resource value: 0x7f0a0059
+			public const int BAR = 2131361881;
 			
 			// aapt resource value: 0x7f0a0045
 			public const int BOLD = 2131361861;
@@ -12810,143 +10666,143 @@ namespace ProjectLion.Droid
 			// aapt resource value: 0x7f0a0046
 			public const int BOLD_ITALIC = 2131361862;
 			
-			// aapt resource value: 0x7f0a004d
-			public const int BOTTOM = 2131361869;
-			
-			// aapt resource value: 0x7f0a0064
-			public const int BUBBLE = 2131361892;
-			
-			// aapt resource value: 0x7f0a0065
-			public const int CANDLE = 2131361893;
+			// aapt resource value: 0x7f0a0070
+			public const int BOTTOM = 2131361904;
 			
 			// aapt resource value: 0x7f0a005a
-			public const int CELL = 2131361882;
-			
-			// aapt resource value: 0x7f0a005f
-			public const int CELLS = 2131361887;
+			public const int BUBBLE = 2131361882;
 			
 			// aapt resource value: 0x7f0a005b
-			public const int CELL_RANGE = 2131361883;
+			public const int CANDLE = 2131361883;
 			
-			// aapt resource value: 0x7f0a0055
-			public const int CENTER = 2131361877;
-			
-			// aapt resource value: 0x7f0a0049
-			public const int CENTER_HORIZONTAL = 2131361865;
-			
-			// aapt resource value: 0x7f0a0058
-			public const int COLUMN = 2131361880;
-			
-			// aapt resource value: 0x7f0a005d
-			public const int COLUMNS = 2131361885;
-			
-			// aapt resource value: 0x7f0a0060
-			public const int COLUMN_HEADERS = 2131361888;
-			
-			// aapt resource value: 0x7f0a0075
-			public const int DISABLED = 2131361909;
-			
-			// aapt resource value: 0x7f0a006f
-			public const int FALSE = 2131361903;
-			
-			// aapt resource value: 0x7f0a0071
-			public const int HIDDEN = 2131361905;
-			
-			// aapt resource value: 0x7f0a0066
-			public const int HLOC = 2131361894;
+			// aapt resource value: 0x7f0a004d
+			public const int CELL = 2131361869;
 			
 			// aapt resource value: 0x7f0a0052
-			public const int HORIZONTAL = 2131361874;
+			public const int CELLS = 2131361874;
 			
-			// aapt resource value: 0x7f0a0056
-			public const int INSIDE = 2131361878;
+			// aapt resource value: 0x7f0a004e
+			public const int CELL_RANGE = 2131361870;
+			
+			// aapt resource value: 0x7f0a007a
+			public const int CENTER = 2131361914;
+			
+			// aapt resource value: 0x7f0a0055
+			public const int CENTER_HORIZONTAL = 2131361877;
+			
+			// aapt resource value: 0x7f0a004a
+			public const int COLUMN = 2131361866;
+			
+			// aapt resource value: 0x7f0a0050
+			public const int COLUMNS = 2131361872;
+			
+			// aapt resource value: 0x7f0a0053
+			public const int COLUMN_HEADERS = 2131361875;
+			
+			// aapt resource value: 0x7f0a0072
+			public const int DISABLED = 2131361906;
+			
+			// aapt resource value: 0x7f0a0065
+			public const int FALSE = 2131361893;
+			
+			// aapt resource value: 0x7f0a0069
+			public const int HIDDEN = 2131361897;
+			
+			// aapt resource value: 0x7f0a005c
+			public const int HLOC = 2131361884;
+			
+			// aapt resource value: 0x7f0a006d
+			public const int HORIZONTAL = 2131361901;
+			
+			// aapt resource value: 0x7f0a0067
+			public const int INSIDE = 2131361895;
 			
 			// aapt resource value: 0x7f0a0047
 			public const int ITALIC = 2131361863;
 			
-			// aapt resource value: 0x7f0a004a
-			public const int LEFT = 2131361866;
+			// aapt resource value: 0x7f0a0056
+			public const int LEFT = 2131361878;
 			
-			// aapt resource value: 0x7f0a0072
-			public const int LEGEND = 2131361906;
+			// aapt resource value: 0x7f0a006a
+			public const int LEGEND = 2131361898;
 			
-			// aapt resource value: 0x7f0a0067
-			public const int LINE = 2131361895;
+			// aapt resource value: 0x7f0a005d
+			public const int LINE = 2131361885;
 			
-			// aapt resource value: 0x7f0a0068
-			public const int LINESYMBOLS = 2131361896;
+			// aapt resource value: 0x7f0a005e
+			public const int LINESYMBOLS = 2131361886;
 			
-			// aapt resource value: 0x7f0a004e
-			public const int NONE = 2131361870;
+			// aapt resource value: 0x7f0a004b
+			public const int NONE = 2131361867;
 			
 			// aapt resource value: 0x7f0a0048
 			public const int NORMAL = 2131361864;
 			
-			// aapt resource value: 0x7f0a0057
-			public const int OUTSIDE = 2131361879;
-			
-			// aapt resource value: 0x7f0a0073
-			public const int PLOT = 2131361907;
-			
-			// aapt resource value: 0x7f0a0050
-			public const int POINT = 2131361872;
-			
-			// aapt resource value: 0x7f0a004b
-			public const int RIGHT = 2131361867;
-			
-			// aapt resource value: 0x7f0a0059
-			public const int ROW = 2131361881;
-			
-			// aapt resource value: 0x7f0a0061
-			public const int ROW_HEADERS = 2131361889;
-			
-			// aapt resource value: 0x7f0a005c
-			public const int ROW_RANGE = 2131361884;
-			
-			// aapt resource value: 0x7f0a0069
-			public const int SCATTER = 2131361897;
-			
-			// aapt resource value: 0x7f0a0051
-			public const int SERIES = 2131361873;
-			
-			// aapt resource value: 0x7f0a006a
-			public const int SPLINE = 2131361898;
+			// aapt resource value: 0x7f0a0068
+			public const int OUTSIDE = 2131361896;
 			
 			// aapt resource value: 0x7f0a006b
-			public const int SPLINEAREA = 2131361899;
-			
-			// aapt resource value: 0x7f0a006c
-			public const int SPLINESYMBOLS = 2131361900;
-			
-			// aapt resource value: 0x7f0a006d
-			public const int STACKED = 2131361901;
-			
-			// aapt resource value: 0x7f0a006e
-			public const int STACKED100pc = 2131361902;
-			
-			// aapt resource value: 0x7f0a007a
-			public const int Show = 2131361914;
-			
-			// aapt resource value: 0x7f0a004f
-			public const int TOP = 2131361871;
-			
-			// aapt resource value: 0x7f0a0070
-			public const int TRUE = 2131361904;
-			
-			// aapt resource value: 0x7f0a0053
-			public const int VERTICAL = 2131361875;
-			
-			// aapt resource value: 0x7f0a0074
-			public const int VISIBLE = 2131361908;
+			public const int PLOT = 2131361899;
 			
 			// aapt resource value: 0x7f0a0076
-			public const int X = 2131361910;
+			public const int POINT = 2131361910;
+			
+			// aapt resource value: 0x7f0a0057
+			public const int RIGHT = 2131361879;
+			
+			// aapt resource value: 0x7f0a004c
+			public const int ROW = 2131361868;
+			
+			// aapt resource value: 0x7f0a0054
+			public const int ROW_HEADERS = 2131361876;
+			
+			// aapt resource value: 0x7f0a004f
+			public const int ROW_RANGE = 2131361871;
+			
+			// aapt resource value: 0x7f0a005f
+			public const int SCATTER = 2131361887;
 			
 			// aapt resource value: 0x7f0a0077
-			public const int XY = 2131361911;
+			public const int SERIES = 2131361911;
 			
-			// aapt resource value: 0x7f0a0078
-			public const int Y = 2131361912;
+			// aapt resource value: 0x7f0a0060
+			public const int SPLINE = 2131361888;
+			
+			// aapt resource value: 0x7f0a0061
+			public const int SPLINEAREA = 2131361889;
+			
+			// aapt resource value: 0x7f0a0062
+			public const int SPLINESYMBOLS = 2131361890;
+			
+			// aapt resource value: 0x7f0a0063
+			public const int STACKED = 2131361891;
+			
+			// aapt resource value: 0x7f0a0064
+			public const int STACKED100pc = 2131361892;
+			
+			// aapt resource value: 0x7f0a0079
+			public const int Show = 2131361913;
+			
+			// aapt resource value: 0x7f0a0071
+			public const int TOP = 2131361905;
+			
+			// aapt resource value: 0x7f0a0066
+			public const int TRUE = 2131361894;
+			
+			// aapt resource value: 0x7f0a006e
+			public const int VERTICAL = 2131361902;
+			
+			// aapt resource value: 0x7f0a006c
+			public const int VISIBLE = 2131361900;
+			
+			// aapt resource value: 0x7f0a0073
+			public const int X = 2131361907;
+			
+			// aapt resource value: 0x7f0a0074
+			public const int XY = 2131361908;
+			
+			// aapt resource value: 0x7f0a0075
+			public const int Y = 2131361909;
 			
 			// aapt resource value: 0x7f0a00cf
 			public const int action0 = 2131361999;
@@ -16043,6 +13899,58 @@ namespace ProjectLion.Droid
 			
 			public static int[] FlexChart = new int[]
 			{
+					2130772352,
+					2130772353,
+					2130772354,
+					2130772355,
+					2130772356,
+					2130772357,
+					2130772358,
+					2130772359,
+					2130772360,
+					2130772361,
+					2130772362,
+					2130772363,
+					2130772364,
+					2130772365,
+					2130772366,
+					2130772367,
+					2130772368,
+					2130772369,
+					2130772370,
+					2130772371,
+					2130772372,
+					2130772373,
+					2130772374,
+					2130772375,
+					2130772378,
+					2130772379,
+					2130772380,
+					2130772381,
+					2130772382,
+					2130772383,
+					2130772384,
+					2130772385,
+					2130772386,
+					2130772387,
+					2130772388,
+					2130772389,
+					2130772390,
+					2130772391,
+					2130772392,
+					2130772393,
+					2130772394,
+					2130772395,
+					2130772396,
+					2130772397,
+					2130772398,
+					2130772399,
+					2130772400,
+					2130772401,
+					2130772402,
+					2130772403,
+					2130772404,
+					2130772405,
 					2130772406,
 					2130772407,
 					2130772408,
@@ -16067,6 +13975,8 @@ namespace ProjectLion.Droid
 					2130772427,
 					2130772428,
 					2130772429,
+					2130772430,
+					2130772431,
 					2130772432,
 					2130772433,
 					2130772434,
@@ -16108,61 +14018,7 @@ namespace ProjectLion.Droid
 					2130772470,
 					2130772471,
 					2130772472,
-					2130772473,
-					2130772474,
-					2130772475,
-					2130772476,
-					2130772477,
-					2130772478,
-					2130772479,
-					2130772480,
-					2130772481,
-					2130772482,
-					2130772483,
-					2130772484,
-					2130772485,
-					2130772486,
-					2130772487,
-					2130772488,
-					2130772489,
-					2130772490,
-					2130772491,
-					2130772492,
-					2130772493,
-					2130772494,
-					2130772495,
-					2130772496,
-					2130772497,
-					2130772498,
-					2130772499,
-					2130772500,
-					2130772501,
-					2130772502,
-					2130772503,
-					2130772504,
-					2130772505,
-					2130772506,
-					2130772507,
-					2130772508,
-					2130772509,
-					2130772510,
-					2130772511,
-					2130772512,
-					2130772513,
-					2130772514,
-					2130772515,
-					2130772516,
-					2130772517,
-					2130772518,
-					2130772519,
-					2130772520,
-					2130772521,
-					2130772522,
-					2130772523,
-					2130772524,
-					2130772525,
-					2130772526,
-					2130772527};
+					2130772473};
 			
 			// aapt resource value: 51
 			public const int FlexChart_flexChart_animated = 51;
@@ -16526,51 +14382,51 @@ namespace ProjectLion.Droid
 			
 			public static int[] FlexGrid = new int[]
 			{
-					2130772361,
-					2130772362,
-					2130772363,
-					2130772364,
-					2130772365,
-					2130772366,
-					2130772367,
-					2130772368,
-					2130772369,
-					2130772370,
-					2130772371,
-					2130772372,
-					2130772373,
-					2130772374,
-					2130772375,
-					2130772376,
-					2130772377,
-					2130772378,
-					2130772379,
-					2130772380,
-					2130772381,
-					2130772382,
-					2130772383,
-					2130772384,
-					2130772385,
-					2130772386,
-					2130772387,
-					2130772388,
-					2130772389,
-					2130772390,
-					2130772391,
-					2130772392,
-					2130772393,
-					2130772394,
-					2130772395,
-					2130772396,
-					2130772397,
-					2130772398,
-					2130772399,
-					2130772400,
-					2130772401,
-					2130772402,
-					2130772403,
-					2130772404,
-					2130772405};
+					2130772307,
+					2130772308,
+					2130772309,
+					2130772310,
+					2130772311,
+					2130772312,
+					2130772313,
+					2130772314,
+					2130772315,
+					2130772316,
+					2130772317,
+					2130772318,
+					2130772319,
+					2130772320,
+					2130772321,
+					2130772322,
+					2130772323,
+					2130772324,
+					2130772325,
+					2130772326,
+					2130772327,
+					2130772328,
+					2130772329,
+					2130772330,
+					2130772331,
+					2130772332,
+					2130772333,
+					2130772334,
+					2130772335,
+					2130772336,
+					2130772337,
+					2130772338,
+					2130772339,
+					2130772340,
+					2130772341,
+					2130772342,
+					2130772343,
+					2130772344,
+					2130772345,
+					2130772346,
+					2130772347,
+					2130772348,
+					2130772349,
+					2130772350,
+					2130772351};
 			
 			// aapt resource value: 7
 			public const int FlexGrid_flexGrid_allowMerging = 7;
@@ -16706,225 +14562,6 @@ namespace ProjectLion.Droid
 			
 			// aapt resource value: 37
 			public const int FlexGrid_flexGrid_touchFeedback = 37;
-			
-			public static int[] FlexPie = new int[]
-			{
-					2130772307,
-					2130772308,
-					2130772309,
-					2130772310,
-					2130772311,
-					2130772312,
-					2130772313,
-					2130772314,
-					2130772315,
-					2130772316,
-					2130772317,
-					2130772318,
-					2130772319,
-					2130772320,
-					2130772321,
-					2130772322,
-					2130772323,
-					2130772324,
-					2130772325,
-					2130772326,
-					2130772327,
-					2130772328,
-					2130772329,
-					2130772330,
-					2130772331,
-					2130772332,
-					2130772333,
-					2130772334,
-					2130772335,
-					2130772336,
-					2130772337,
-					2130772338,
-					2130772339,
-					2130772340,
-					2130772341,
-					2130772342,
-					2130772343,
-					2130772344,
-					2130772345,
-					2130772346,
-					2130772347,
-					2130772348,
-					2130772349,
-					2130772350,
-					2130772351,
-					2130772352,
-					2130772353,
-					2130772354,
-					2130772355,
-					2130772356,
-					2130772357,
-					2130772358,
-					2130772359,
-					2130772360};
-			
-			// aapt resource value: 36
-			public const int FlexPie_flexPie_animated = 36;
-			
-			// aapt resource value: 14
-			public const int FlexPie_flexPie_backgroundColor = 14;
-			
-			// aapt resource value: 34
-			public const int FlexPie_flexPie_binding = 34;
-			
-			// aapt resource value: 33
-			public const int FlexPie_flexPie_bindingName = 33;
-			
-			// aapt resource value: 15
-			public const int FlexPie_flexPie_borderColor = 15;
-			
-			// aapt resource value: 16
-			public const int FlexPie_flexPie_borderWidth = 16;
-			
-			// aapt resource value: 29
-			public const int FlexPie_flexPie_datalabel_FontColor = 29;
-			
-			// aapt resource value: 30
-			public const int FlexPie_flexPie_datalabel_FontSize = 30;
-			
-			// aapt resource value: 31
-			public const int FlexPie_flexPie_datalabel_FontTypeface = 31;
-			
-			// aapt resource value: 32
-			public const int FlexPie_flexPie_datalabel_FontWeight = 32;
-			
-			// aapt resource value: 26
-			public const int FlexPie_flexPie_datalabel_backgroundColor = 26;
-			
-			// aapt resource value: 27
-			public const int FlexPie_flexPie_datalabel_borderColor = 27;
-			
-			// aapt resource value: 28
-			public const int FlexPie_flexPie_datalabel_borderWidth = 28;
-			
-			// aapt resource value: 53
-			public const int FlexPie_flexPie_datalabel_position = 53;
-			
-			// aapt resource value: 10
-			public const int FlexPie_flexPie_footer = 10;
-			
-			// aapt resource value: 13
-			public const int FlexPie_flexPie_footerFontColor = 13;
-			
-			// aapt resource value: 3
-			public const int FlexPie_flexPie_footerFontGravity = 3;
-			
-			// aapt resource value: 11
-			public const int FlexPie_flexPie_footerFontSize = 11;
-			
-			// aapt resource value: 12
-			public const int FlexPie_flexPie_footerFontTypeface = 12;
-			
-			// aapt resource value: 2
-			public const int FlexPie_flexPie_footerFontWeight = 2;
-			
-			// aapt resource value: 6
-			public const int FlexPie_flexPie_header = 6;
-			
-			// aapt resource value: 9
-			public const int FlexPie_flexPie_headerFontColor = 9;
-			
-			// aapt resource value: 1
-			public const int FlexPie_flexPie_headerFontGravity = 1;
-			
-			// aapt resource value: 7
-			public const int FlexPie_flexPie_headerFontSize = 7;
-			
-			// aapt resource value: 8
-			public const int FlexPie_flexPie_headerFontTypeface = 8;
-			
-			// aapt resource value: 0
-			public const int FlexPie_flexPie_headerFontWeight = 0;
-			
-			// aapt resource value: 35
-			public const int FlexPie_flexPie_innerRadius = 35;
-			
-			// aapt resource value: 23
-			public const int FlexPie_flexPie_legend_FontColor = 23;
-			
-			// aapt resource value: 24
-			public const int FlexPie_flexPie_legend_FontSize = 24;
-			
-			// aapt resource value: 25
-			public const int FlexPie_flexPie_legend_FontTypeface = 25;
-			
-			// aapt resource value: 4
-			public const int FlexPie_flexPie_legend_FontWeight = 4;
-			
-			// aapt resource value: 20
-			public const int FlexPie_flexPie_legend_backgroundColor = 20;
-			
-			// aapt resource value: 21
-			public const int FlexPie_flexPie_legend_borderColor = 21;
-			
-			// aapt resource value: 22
-			public const int FlexPie_flexPie_legend_borderWidth = 22;
-			
-			// aapt resource value: 44
-			public const int FlexPie_flexPie_legend_orientation = 44;
-			
-			// aapt resource value: 45
-			public const int FlexPie_flexPie_legend_position = 45;
-			
-			// aapt resource value: 47
-			public const int FlexPie_flexPie_loadAnimation_duration = 47;
-			
-			// aapt resource value: 46
-			public const int FlexPie_flexPie_loadAnimation_loadAnimationMode = 46;
-			
-			// aapt resource value: 48
-			public const int FlexPie_flexPie_loadAnimation_startDelay = 48;
-			
-			// aapt resource value: 39
-			public const int FlexPie_flexPie_offset = 39;
-			
-			// aapt resource value: 5
-			public const int FlexPie_flexPie_palette = 5;
-			
-			// aapt resource value: 17
-			public const int FlexPie_flexPie_plotAreabackgroundColor = 17;
-			
-			// aapt resource value: 40
-			public const int FlexPie_flexPie_reversed = 40;
-			
-			// aapt resource value: 51
-			public const int FlexPie_flexPie_selectAnimation_duration = 51;
-			
-			// aapt resource value: 52
-			public const int FlexPie_flexPie_selectAnimation_startDelay = 52;
-			
-			// aapt resource value: 18
-			public const int FlexPie_flexPie_selectedBorderColor = 18;
-			
-			// aapt resource value: 19
-			public const int FlexPie_flexPie_selectedBorderWidth = 19;
-			
-			// aapt resource value: 41
-			public const int FlexPie_flexPie_selectedItemOffset = 41;
-			
-			// aapt resource value: 42
-			public const int FlexPie_flexPie_selectedItemPosition = 42;
-			
-			// aapt resource value: 43
-			public const int FlexPie_flexPie_selectionMode = 43;
-			
-			// aapt resource value: 37
-			public const int FlexPie_flexPie_sliceBorderWidth = 37;
-			
-			// aapt resource value: 38
-			public const int FlexPie_flexPie_startAngle = 38;
-			
-			// aapt resource value: 49
-			public const int FlexPie_flexPie_updateAnimation_duration = 49;
-			
-			// aapt resource value: 50
-			public const int FlexPie_flexPie_updateAnimation_startDelay = 50;
 			
 			public static int[] FloatingActionButton = new int[]
 			{

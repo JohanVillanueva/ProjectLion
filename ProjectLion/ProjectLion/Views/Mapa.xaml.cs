@@ -19,25 +19,20 @@ namespace ProjectLion.Views
         {
             InitializeComponent();
             Map map = new Map();
-
             map.InitialCameraUpdate=CameraUpdateFactory.NewPositionZoom(new Position(-8.113097, -79.0315039), 15);
 
             map.VerticalOptions=LayoutOptions.FillAndExpand;
             MultasController mc = new MultasController();
             List<Multa> multas = new List<Multa>();
 
-            if (Variables.Globales.propietario != null )
-                multas = mc.data.Where(x => x.IdPropietario == Variables.Globales.propietario.IdPropietario).ToList();
-            else
-                multas = mc.data;
-
+			multas = mc.data;
             foreach (var item in multas)
             {
-                var pin = new Pin
+				var pin = new Pin
                 {
                     Type = PinType.Place,
                     Position = new Position(Convert.ToDouble(item.Latitud), Convert.ToDouble(item.Longitud)),
-                    Label = item.Fecha.ToString(),
+                    Label = "Punto de Control",
                     Address = item.Direccion
                 };
                 map.Pins.Add(pin);

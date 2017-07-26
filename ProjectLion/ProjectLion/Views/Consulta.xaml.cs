@@ -85,5 +85,11 @@ namespace ProjectLion.Views
                 }
             }
         }
+		private void btnDetalleMulta_Clicked(object sender, EventArgs e)
+		{
+            Button button = (Button)sender;
+            Multa multa = (Multa)button.BindingContext;
+            this.Navigation.PushAsync(new DetalleMulta(multa));
+		}
     }
 }

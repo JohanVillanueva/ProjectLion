@@ -27,9 +27,9 @@ namespace ProjectLion.Views
             var puntos_tap = new TapGestureRecognizer();
             puntos_tap.Tapped += (s, e) =>
             {
-                if (Variables.Globales.propietario == null)
-                    Navigation.PushAsync(new Login());
-                else
+                //if (Variables.Globales.propietario == null)
+                //    Navigation.PushAsync(new Login());
+                //else
                     Navigation.PushAsync(new Mapa());
             };
             btnPuntosDeControl.GestureRecognizers.Add(puntos_tap);

@@ -4,7 +4,5 @@
              xmlns:maps="clr-namespace:Xamarin.Forms.GoogleMaps;assembly=Xamarin.Forms.GoogleMaps"
              x:Class="ProjectLion.Views.Mapa"
              Title="Puntos de Control">
-             <!--<maps:Map x:Name="map"
-        InitialCameraUpdate="-23.68, -46.87, 13, 30, 60"
-                      VerticalOptions="FillAndExpand" />-->
+          
 </ContentPage>
