@@ -72,6 +72,14 @@ namespace ProjectLion.Models
             set { propietario = value; }
         }
 
+		private string sexo;
+
+		public string Sexo
+		{
+			get { return sexo; }
+			set { sexo = value; }
+		}
+
         private string direccion;
 
         public string Direccion

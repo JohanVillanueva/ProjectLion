@@ -12,84 +12,85 @@ using Xuni.Forms.FlexGrid;
 
 namespace ProjectLion.Views
 {
-    [XamlCompilation(XamlCompilationOptions.Compile)]
-    public partial class Consulta : ContentPage
-    {
-        int modoBusqueda = 1;
-        public Consulta()
-        {
-            InitializeComponent();
-            MultasController multa = new MultasController();
-            grid.BindingContext = multa;
-            grid.ItemsSource = multa.data;
-            grid.VerticalOptions = LayoutOptions.FillAndExpand;
+	[XamlCompilation(XamlCompilationOptions.Compile)]
+	public partial class Consulta : ContentPage
+	{
+		int modoBusqueda = 1;
+		public Consulta()
+		{
+			InitializeComponent();
+			MultasController multa = new MultasController();
+			grid.BindingContext = multa;
+			grid.ItemsSource = multa.data;
+			grid.VerticalOptions = LayoutOptions.FillAndExpand;
 
-        }
+		}
 
 
-        private void btnPlaca_Clicked(object sender, EventArgs e)
-        {
-            grid.IsVisible = false;
-            txtBuscar.Text = string.Empty;
-            Button boton = (Button)sender;
-            boton.BackgroundColor = Color.FromHex("#418ED6");
-            btnDNI.BackgroundColor = Color.FromHex("#DADAD4");
-            boton.TextColor = Color.White;
-            modoBusqueda = 2;
-            txtBuscar.Keyboard = Keyboard.Text;
-            txtBuscar.Placeholder = "Ingrese N° de Placa";
+		private void btnPlaca_Clicked(object sender, EventArgs e)
+		{
+			grid.IsVisible = false;
+			txtBuscar.Text = string.Empty;
+			Button boton = (Button)sender;
+			boton.BackgroundColor = Color.FromHex("#418ED6");
+			btnDNI.BackgroundColor = Color.FromHex("#DADAD4");
+			boton.TextColor = Color.White;
+			modoBusqueda = 2;
+			txtBuscar.Keyboard = Keyboard.Text;
+			txtBuscar.Placeholder = "Ingrese N° de Placa";
 
-        }
-        private void btnDNI_Clicked(object sender, EventArgs e)
-        {
-            Button boton = (Button)sender;
-            txtBuscar.Text = string.Empty;
-            grid.IsVisible = false;
-            boton.BackgroundColor = Color.FromHex("#418ED6");
-            btnPlaca.BackgroundColor = Color.FromHex("#DADAD4");
-            boton.TextColor=Color.White;
-            modoBusqueda = 1;
-            txtBuscar.Keyboard = Keyboard.Numeric;
-            txtBuscar.Placeholder = "Ingrese N° de DNI";
-        }
+		}
+		private void btnDNI_Clicked(object sender, EventArgs e)
+		{
+			Button boton = (Button)sender;
+			txtBuscar.Text = string.Empty;
+			grid.IsVisible = false;
+			boton.BackgroundColor = Color.FromHex("#418ED6");
+			btnPlaca.BackgroundColor = Color.FromHex("#DADAD4");
+			boton.TextColor = Color.White;
+			modoBusqueda = 1;
+			txtBuscar.Keyboard = Keyboard.Numeric;
+			txtBuscar.Placeholder = "Ingrese N° de DNI";
+		}
 
-        private void btnBuscar_Clicked(object sender, EventArgs e)
-        {
-            grid.IsVisible = true;
-            btnBuscar.IsEnabled = false;
-        }
+		private void btnBuscar_Clicked(object sender, EventArgs e)
+		{
+			grid.IsVisible = true;
+			btnBuscar.IsEnabled = false;
+		}
 
-        private void txtBuscar_TextChanged(object sender, TextChangedEventArgs e)
-        {
-            int caracteres = txtBuscar.Text.Length;
-            txtBuscar.Text=  txtBuscar.Text.ToString().ToUpper();
-            if (modoBusqueda == 1)
-            {
-                if (caracteres == 8)
-                {
-                    btnBuscar.IsEnabled = true;
-                }
-                else
-                {
-                    btnBuscar.IsEnabled = false;
-                }
-            }
-            else if (modoBusqueda == 2) {
-                if (caracteres == 8)
-                {
-                    btnBuscar.IsEnabled = true;
-                }
-                else
-                {
-                    btnBuscar.IsEnabled = false;
-                }
-            }
-        }
+		private void txtBuscar_TextChanged(object sender, TextChangedEventArgs e)
+		{
+			int caracteres = txtBuscar.Text.Length;
+			txtBuscar.Text = txtBuscar.Text.ToString().ToUpper();
+			if (modoBusqueda == 1)
+			{
+				if (caracteres == 8)
+				{
+					btnBuscar.IsEnabled = true;
+				}
+				else
+				{
+					btnBuscar.IsEnabled = false;
+				}
+			}
+			else if (modoBusqueda == 2)
+			{
+				if (caracteres == 8)
+				{
+					btnBuscar.IsEnabled = true;
+				}
+				else
+				{
+					btnBuscar.IsEnabled = false;
+				}
+			}
+		}
 		private void btnDetalleMulta_Clicked(object sender, EventArgs e)
 		{
-            Button button = (Button)sender;
-            Multa multa = (Multa)button.BindingContext;
-            this.Navigation.PushAsync(new DetalleMulta(multa));
+			Button button = (Button)sender;
+			Multa multa = (Multa)button.BindingContext;
+			this.Navigation.PushAsync(new DetalleMulta(multa));
 		}
-    }
+	}
 }

@@ -22,7 +22,7 @@ namespace ProjectLion.iOS
             UINavigationBar.Appearance.TitleTextAttributes = new UIStringAttributes {ForegroundColor = UIColor.Black};
 			global::Xamarin.Forms.Forms.Init();
 
-			
+            new Syncfusion.SfChart.XForms.iOS.Renderers.SfChartRenderer();
             Xuni.Forms.FlexGrid.Platform.iOS.Forms.Init();
             LoadApplication(new App());
             Xamarin.FormsGoogleMaps.Init("AIzaSyBVVs0r4ab2inlCJmkQyo8FC_97qSW8_JI");

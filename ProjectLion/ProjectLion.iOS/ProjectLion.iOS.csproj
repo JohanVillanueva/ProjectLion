@@ -133,6 +133,15 @@
     <BundleResource Include="Resources\mapa.png" />
     <BundleResource Include="Resources\semaforo.jpg" />
     <BundleResource Include="Resources\smartphone.jpg" />
+    <BundleResource Include="Resources\dispositivo_icon.png" />
+    <BundleResource Include="Resources\fecha_icon.png" />
+    <BundleResource Include="Resources\infractores_icon.png" />
+    <BundleResource Include="Resources\dispositivo_icon%402x.png" />
+    <BundleResource Include="Resources\fecha_icon%402x.png" />
+    <BundleResource Include="Resources\infractores_icon%402x.png" />
+    <BundleResource Include="Resources\dispositivo_icon%403x.png" />
+    <BundleResource Include="Resources\fecha_icon%403x.png" />
+    <BundleResource Include="Resources\infractores_icon%403x.png" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -192,6 +201,15 @@
     </Reference>
     <Reference Include="Xamarin.Forms.GoogleMaps.iOS">
       <HintPath>..\..\packages\Xamarin.Forms.GoogleMaps.2.0.0\lib\Xamarin.iOS10\Xamarin.Forms.GoogleMaps.iOS.dll</HintPath>
+    </Reference>
+    <Reference Include="Syncfusion.SFChart.iOS">
+      <HintPath>..\..\packages\Syncfusion.Xamarin.SfChart.15.2.0.46\lib\Xamarin.iOS10\Syncfusion.SFChart.iOS.dll</HintPath>
+    </Reference>
+    <Reference Include="Syncfusion.SfChart.XForms">
+      <HintPath>..\..\packages\Syncfusion.Xamarin.SfChart.15.2.0.46\lib\Xamarin.iOS10\Syncfusion.SfChart.XForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Syncfusion.SfChart.XForms.iOS">
+      <HintPath>..\..\packages\Syncfusion.Xamarin.SfChart.15.2.0.46\lib\Xamarin.iOS10\Syncfusion.SfChart.XForms.iOS.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>

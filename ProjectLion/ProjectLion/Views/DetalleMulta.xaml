@@ -30,15 +30,15 @@
                         <ColumnDefinition Width="0.5*" />
                     </Grid.ColumnDefinitions>
                     <Label Text="{Binding Propietario}" FontAttributes="Bold" HorizontalTextAlignment="Center" Grid.Row="0" Grid.ColumnSpan="2"></Label>
-                    <Label Text="DNI:   " FontAttributes="Bold" HorizontalTextAlignment="End" Grid.Row="1" Grid.Column="0"></Label>
+                    <Label Text="DNI: " FontAttributes="Bold" HorizontalTextAlignment="End" Grid.Row="1" Grid.Column="0"></Label>
                     <Label Text="{Binding Dni}" HorizontalTextAlignment="Start" Grid.Row="1" Grid.Column="1"></Label>
-                    <Label Text="Placa del vehiculo:   " FontAttributes="Bold" HorizontalTextAlignment="End" Grid.Row="2" Grid.Column="0"></Label>
+                    <Label Text="Placa del vehiculo: " FontAttributes="Bold" HorizontalTextAlignment="End" Grid.Row="2" Grid.Column="0"></Label>
                     <Label Text="{Binding Placa}" HorizontalTextAlignment="Start" Grid.Row="2" Grid.Column="1"></Label>
-                    <Label Text="Fecha de infraccion:   " FontAttributes="Bold" HorizontalTextAlignment="End" Grid.Row="3" Grid.Column="0"></Label>
+                    <Label Text="Fecha de infraccion: " FontAttributes="Bold" HorizontalTextAlignment="End" Grid.Row="3" Grid.Column="0"></Label>
                     <Label Text="{Binding Fecha}" HorizontalTextAlignment="Start" Grid.Row="3" Grid.Column="1"></Label>
-                    <Label Text="Monto a pagar (S/.):   " FontAttributes="Bold" HorizontalTextAlignment="End" Grid.Row="4" Grid.Column="0"></Label>
+                    <Label Text="Monto a pagar (S/.): " FontAttributes="Bold" HorizontalTextAlignment="End" Grid.Row="4" Grid.Column="0"></Label>
                     <Label Text="{Binding Monto}" HorizontalTextAlignment="Start" Grid.Row="4" Grid.Column="1"></Label>
-                    <Label Text="Fecha de Limite de pago:   " FontAttributes="Bold" HorizontalTextAlignment="End" Grid.Row="5" Grid.Column="0"></Label>
+                    <Label Text="Fecha de Limite de pago: " FontAttributes="Bold" HorizontalTextAlignment="End" Grid.Row="5" Grid.Column="0"></Label>
                     <Label Text="{Binding Plazo}" HorizontalTextAlignment="Start" Grid.Row="5" Grid.Column="1"></Label>
                 </Grid>
         </StackLayout>
