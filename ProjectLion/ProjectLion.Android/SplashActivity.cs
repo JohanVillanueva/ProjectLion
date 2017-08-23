@@ -11,7 +11,7 @@ namespace ProjectLion.Droid
         protected override void OnCreate(Bundle savedInstanceState)
         {
             base.OnCreate(savedInstanceState);
-            System.Threading.Thread.Sleep(1500);
+            System.Threading.Thread.Sleep(30);
             StartActivity(typeof(MainActivity));
         }
     }

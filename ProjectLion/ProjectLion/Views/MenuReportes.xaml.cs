@@ -11,20 +11,20 @@ namespace ProjectLion.Views
         {
             InitializeComponent();
             var dispositivosPage = new Dispositivos();
-            dispositivosPage.Title = "Dispositivos";
+            dispositivosPage.Title = "Graficos";
 			//dispositivosPage.Icon = "dispositivo_icon.png";
             var infractoresPage = new Infractores();
-            infractoresPage.Title = "Infractores";
+            infractoresPage.Title = "Tablas";
             //infractoresPage.Icon = "infractores_icon.png";
-            var fechaPage = new Fecha();
-            fechaPage.Title = "Fecha";
+            //var fechaPage = new Fecha();
+            //fechaPage.Title = "Fecha";
             //fechaPage.Icon = "fecha_icon.png";
 			switch (Device.RuntimePlatform)
 			{
 				case Device.iOS:
 					dispositivosPage.Icon = "dispositivo_icon.png";
-                    infractoresPage.Icon = "infractores_icon.png";
-                    fechaPage.Icon = "fecha_icon.png";
+                    infractoresPage.Icon = "fecha_icon.png";
+                   // fechaPage.Icon = "fecha_icon.png";
 					break;
 				case Device.Android:
 				case Device.WinPhone:
@@ -33,7 +33,7 @@ namespace ProjectLion.Views
 					break;
 			}
 			Children.Add(dispositivosPage);
-            Children.Add(fechaPage);
+           // Children.Add(fechaPage);
             Children.Add(infractoresPage);
 
         }

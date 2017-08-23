@@ -20,7 +20,7 @@
     <TargetFrameworkVersion>v6.0</TargetFrameworkVersion>
     <AndroidStoreUncompressedFileExtensions />
     <MandroidI18n />
-    <JavaMaximumHeapSize />
+    <JavaMaximumHeapSize>1G</JavaMaximumHeapSize>
     <JavaOptions />
     <NuGetPackageImportStamp>
     </NuGetPackageImportStamp>
@@ -150,13 +150,13 @@
       <HintPath>..\..\packages\Xamarin.Forms.GoogleMaps.1.8.1\lib\MonoAndroid10\Xamarin.Forms.GoogleMaps.dll</HintPath>
     </Reference>
     <Reference Include="Syncfusion.SfChart.Android">
-      <HintPath>..\..\packages\Syncfusion.Xamarin.SfChart.15.2.0.46\lib\MonoAndroid10\Syncfusion.SfChart.Android.dll</HintPath>
+      <HintPath>..\..\packages\Syncfusion.Xamarin.SfChart.15.1.0.33\lib\MonoAndroid10\Syncfusion.SfChart.Android.dll</HintPath>
     </Reference>
     <Reference Include="Syncfusion.SfChart.XForms.Android">
-      <HintPath>..\..\packages\Syncfusion.Xamarin.SfChart.15.2.0.46\lib\MonoAndroid10\Syncfusion.SfChart.XForms.Android.dll</HintPath>
+      <HintPath>..\..\packages\Syncfusion.Xamarin.SfChart.15.1.0.33\lib\MonoAndroid10\Syncfusion.SfChart.XForms.Android.dll</HintPath>
     </Reference>
     <Reference Include="Syncfusion.SfChart.XForms">
-      <HintPath>..\..\packages\Syncfusion.Xamarin.SfChart.15.2.0.46\lib\MonoAndroid10\Syncfusion.SfChart.XForms.dll</HintPath>
+      <HintPath>..\..\packages\Syncfusion.Xamarin.SfChart.15.1.0.33\lib\MonoAndroid10\Syncfusion.SfChart.XForms.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
