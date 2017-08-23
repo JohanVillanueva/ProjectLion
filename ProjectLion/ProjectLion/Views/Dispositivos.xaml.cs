@@ -7,30 +7,47 @@ using Syncfusion.SfChart.XForms;
 using Xamarin.Forms.Xaml;
 using ProjectLion.Variables;
 using System.Linq;
+using System.Net.Http;
+using System.Net.Http.Headers;
+using ProjectLion.Models;
+using Newtonsoft.Json;
 
 namespace ProjectLion.Views
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class Dispositivos : ContentPage
     {
-        
+
         public Dispositivos()
         {
             InitializeComponent();
-           
+
             BindingContext = new ViewModel();
-         
+
             InicializarChart1();
             inicializarChart2();
             inicializarChart3();
-           
+
             StackLayout layout = new StackLayout();
             layout.Padding = new Thickness(4, 4, 4, 4);
 
+            Button btnActualizar = new Button();
+            btnActualizar.Text = "Actualizar";
+            btnActualizar.FontSize = 9;
+            btnActualizar.TextColor = Color.White;
+            btnActualizar.BackgroundColor = Color.FromHex("#369faa");
+            btnActualizar.HorizontalOptions = LayoutOptions.End;
+            btnActualizar.Clicked += BtnActualizar_Clicked;
+
+
+            StackLayout superior = new StackLayout();
+            superior.Children.Add(btnActualizar);;
+
+            layout.Children.Add(superior);
             layout.Children.Add(chart1);
             layout.Children.Add(chart2);
             layout.Children.Add(chart3);
-
+           
 
             ScrollView sv = new ScrollView()
             {
@@ -39,7 +56,29 @@ namespace ProjectLion.Views
             Content = sv;
         }
 
-        SfChart chart1,chart2, chart3;
+
+        public async void BtnActualizar_Clicked(object sender, EventArgs e)
+        {
+
+            var client = new HttpClient();
+            string json;
+            try
+            {
+                client.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("application/json"));
+                HttpResponseMessage response = await client.GetAsync("https://apimultas.azurewebsites.net/api/multas/");
+                json = response.Content.ReadAsStringAsync().Result;
+                Variables.Globales.multas = JsonConvert.DeserializeObject<List<Multa>>(json);
+            }
+            catch (Exception)
+            {
+                await  DisplayAlert("¡Oh no :(!", "No se ha podido establecer la conexión. Porfavor, verifique que esté conectado a internet","Aceptar");
+
+            }
+            BindingContext = new ViewModel();
+        }
+
+
+        SfChart chart1, chart2, chart3;
         public void InicializarChart1()
         {
              chart1 = new SfChart();

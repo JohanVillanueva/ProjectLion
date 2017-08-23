@@ -8,6 +8,7 @@ using System.Net.Http.Headers;
 using System.Text;
 
 using Xamarin.Forms;
+using System.Diagnostics;
 
 namespace ProjectLion
 {
@@ -30,10 +31,10 @@ namespace ProjectLion
                 json = response.Content.ReadAsStringAsync().Result;
                 Variables.Globales.multas = JsonConvert.DeserializeObject<List<Multa>>(json);              
             }
-            catch (Exception)
+            catch (Exception e)
             {
-                throw;
-            }
+                Debug.WriteLine(e.Message);
+			}
             
         }
 
