@@ -33,8 +33,8 @@ namespace ProjectLion
             }
             catch (Exception e)
             {
-                Debug.WriteLine(e.Message);
-			}
+                App.Current.MainPage.DisplayAlert("Error", "No se pudieron cargar los datos. Verifique su conexion a internet", "Aceptar");
+            }
             
         }
 
